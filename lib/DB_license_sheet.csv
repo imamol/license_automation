@@ -1,0 +1,1686 @@
+Package |	License	|Source of License Information|	Comments|	License/Copyright Links/References
+autotools-dev |	GPL-3	|ubuntu.com|	NA|	http://changelogs.ubuntu.com/changelogs/pool/main/a/autotools-dev/autotools-dev_20150820.1/copyright
+binutils |	GPL-2	|WICC4D|	NA|	NA
+bison |	GPL-3	|WICC4D|	NA|	NA
+bundler-1.14.6 |	MIT , Apache-2.0	|WICC4D|	0.3.0 version comes under  Apache-2.0 and rest versions are covered under MIT. Part of (Ruby Gem) Bundler|	NA
+byacc |	 MIT	|WICC4D CLI|	NA|	NA
+ca-certificates      |	GPL-2+, MPL-2.0	|ubuntu.com|	NA|	http://changelogs.ubuntu.com/changelogs/pool/main/c/ca-certificates/ca-certificates_20160104ubuntu1/copyright
+camlp4 |	LGPL-2-exc	|ubuntu.com|	NA|	http://changelogs.ubuntu.com/changelogs/pool/universe/c/camlp4/camlp4_4.02.1+3-2/copyright
+collectd |	GPL-2.0, BSD-2-Clause OR BSD-3-Clause OR BSD-4-Clause	|WICC4D|	NA|	NA
+collectd-core |	GPL-2.0, BSD-2-Clause OR BSD-3-Clause OR BSD-4-Clause	|WICC4D|	NA|	NA
+cpp |	 BSD-4-Clause	|WICC4D CLI|	NA|	NA
+cpp-4.9 |	GPL-3+	|openhub.net|	NA|	https://www.openhub.net/p/gcc
+cpp-5 |	GPL-3+	|openhub.net|	Part of gcc-5 - GNU Compiler Collection|	https://www.openhub.net/p/gcc
+dvipng |	 GPL-2	|WICC4D CLI|	NA|	NA
+fakeroot |	GPL, Artistic	|ubuntu.com|	NA|	http://changelogs.ubuntu.com/changelogs/pool/main/f/fakeroot/fakeroot_1.20.2-1ubuntu1/copyright
+file |	BSD-3-Clause	|WICC4D CLI|	NA|	http://changelogs.ubuntu.com/changelogs/pool/main/f/fonts-dejavu/fonts-dejavu_2.35-1/copyright
+fontconfig |	Webware Python	|WICC4D|	NA|	NA
+fontconfig-config |	Webware Python	|WICC4D|	part of fontconfig|	http://changelogs.ubuntu.com/changelogs/pool/main/f/fonts-dejavu/fonts-dejavu_2.35-1/copyright
+fonts-dejavu-core |	bitstream-vera, GPL-2+	|ubuntu.com|	NA|	NA
+fonts-lato |	OFL-1.1	|ubuntu.com|	NA|	http://changelogs.ubuntu.com/changelogs/pool/main/f/fonts-lato/fonts-lato_2.0-1/copyright
+fonts-lyx |	 BSD-3-Clause,BSL-1.0	|WICC4D CLI|	NA|	NA
+gcc |	GPL-3	|WICC4D|	NA|	NA
+gcc-4.9 |	GPL-3+	|openhub.net|	NA|	https://www.openhub.net/p/gcc
+gcc-5 |	GPL-3+	|openhub.net|	Part of gcc-5 - GNU Compiler Collection|	https://www.openhub.net/p/gcc
+ghostscript |	 BSD-3-Clause,MIT,Zlib	|WICC4D CLI|	NA|	NA
+gir1.2-glib-2.0 |	 BSD-2-Clause,MIT	|WICC4D CLI|	NA|	NA
+graphviz |	 CPL-1.0,MIT,Zlib	|WICC4D CLI|	NA|	NA
+gsfonts |	 GPL-2.0	|debian.org|	NA|	http://metadata.ftp-master.debian.org/changelogs/main/g/gsfonts/gsfonts_8.11+urwcyr1.0.7~pre44-4.3_copyright
+ipvsadm |	 GPL-2.0	|WICC4D|	NA|	NA
+javascript-common |	 GPL-2.0	|WICC4D CLI|	NA|	NA
+jupyter-console |	BSD-Equivalent	|WICC4D |	NA|	NA
+kmod |	LGPL-2.1+	|openhub.net|	NA|	https://www.openhub.net/p/kmod
+ledit |	 BSD-3-Clause	|WICC4D CLI|	NA|	NA
+libalgorithm-diff-perl |	Artistic 	|ubuntu.com|	Part of: Algorithm-Diff|	http://changelogs.ubuntu.com/changelogs/pool/main/liba/libalgorithm-diff-perl/libalgorithm-diff-perl_1.19.03-1/copyright
+libalgorithm-diff-xs-perl |	Artistic	|ubuntu.com|	Part of: Algorithm-Diff-XS|	http://changelogs.ubuntu.com/changelogs/pool/main/liba/libalgorithm-diff-xs-perl/libalgorithm-diff-xs-perl_0.04-4build1/copyright
+libalgorithm-merge-perl |	Artistic	|ubuntu.com|	Part of: Algorithm-Merge|	http://changelogs.ubuntu.com/changelogs/pool/main/liba/libalgorithm-merge-perl/libalgorithm-merge-perl_0.08-3/copyright
+libapt-inst2.0 |	 GPL-2.0	|WICC4D CLI|	NA|	NA
+libasan2 |	GPL-3+	|openhub.net|	Part of gcc-5 - GNU Compiler Collection|	https://www.openhub.net/p/gcc
+libatk1.0-0 |	 LGPL-2.0	|WICC4D CLI|	NA|	NA
+libatk1.0-data |	 LGPL-2.0	|WICC4D CLI|	NA|	NA
+libatomic1 |	GPL-3+	|openhub.net|	Part of gcc-5 - GNU Compiler Collection|	https://www.openhub.net/p/gcc
+libavahi-client3 |	BSD-3-Clause	|WICC4D CLI|	NA|	NA
+libavahi-common3 |	BSD-3-Clause	|WICC4D CLI|	NA|	NA
+libavahi-common-data |	BSD-3-Clause	|WICC4D CLI|	NA|	NA
+libbison-dev |	GPL-3	|WICC4D|	Part of bison|	NA
+libblas3 |	 BSD-3-Clause	|WICC4D CLI|	NA|	NA
+libblas-common |	 BSD-3-Clause	|WICC4D CLI|	NA|	NA
+libc6-dev |	 BSD-3-Clause	|WICC4D CLI|	NA|	NA
+libcairo2 |	GPL-2	|WICC4D|	part of cairo|	NA
+libcamlp4-ocaml-dev |	LGPL-2-exc	|ubuntu.com|	NA|	http://changelogs.ubuntu.com/changelogs/pool/universe/c/camlp4/camlp4_4.02.1+3-2/copyright
+libcc1-0 |	GPL-3+	|openhub.net|	Part of gcc-5 - GNU Compiler Collection|	https://www.openhub.net/p/gcc
+libc-dev-bin |	 BSD-3-Clause	|WICC4D CLI|	NA|	NA
+libcloog-isl4 |	 GPL-2	|WICC4D|	NA|	NA
+libcups2 |	 BSD-2-Clause,Zlib	|WICC4D CLI|	NA|	NA
+libcupsfilters1 |	 BSD-4-Clause,MIT	|WICC4D CLI|	NA|	NA
+libcupsimage2 |	 BSD-2-Clause,Zlib	|WICC4D CLI|	NA|	NA
+libcurl3-gnutls |	 BSD-3-Clause,ISC	|WICC4D|	NA|	NA
+libdatrie1 |	LGPL-2.1+, GPL-2+	|ubuntu.com|	NA|	http://changelogs.ubuntu.com/changelogs/pool/main/libd/libdatrie/libdatrie_0.2.10-2/copyright
+libdbi1 |	 BSD-Equivalent	|WICC4D|	part of libdb|	NA
+libdbus-1-3 |	 AFL-2.1,BSD-3-Clause,GPL-2.0,MIT	|WICC4D CLI|	NA|	NA
+libdpkg-perl |	GPL-3	|WICC4D|	Part of: dpkg|	NA
+libdrm-dev |	 MIT	|WICC4D|	NA|	NA
+liberror-perl |	Artistic and GPL	|ubuntu.com|	NA|	http://changelogs.ubuntu.com/changelogs/pool/main/libe/liberror-perl/liberror-perl_0.17-1.2/copyright
+libexpat1 |	MITÂ 	|WICC4D|	part of expat |	NA
+libexpat1-dev |	 MIT	|WICC4D CLI|	NA|	NA
+libfakeroot |	GPL,Artistic	|ubuntu.com|	Part of: fakeroot|	http://changelogs.ubuntu.com/changelogs/pool/main/f/fakeroot/fakeroot_1.20.2-1ubuntu1/copyright
+libffi6 |	MIT	|WICC4D|	Source package - libffi|	NA
+libfile-fcntllock-perl |	GPL-1+	|ubuntu.com|	NA|	http://changelogs.ubuntu.com/changelogs/pool/main/libf/libfile-fcntllock-perl/libfile-fcntllock-perl_0.22-3/copyright
+libfindlib-ocaml |	findlib, ocaml	|WICC4D|	Part of findlib|	http://changelogs.ubuntu.com/changelogs/pool/universe/f/findlib/findlib_1.5.5-2build1/copyright
+libfindlib-ocaml-dev |	findlib, ocaml	|WICC4D|	Part of findlib|	http://changelogs.ubuntu.com/changelogs/pool/universe/f/findlib/findlib_1.5.5-2build1/copyright
+libfontconfig1 |	Webware Python	|WICC4D|	part of fontconfig|	NA
+libfreetype6 |	 BSD-3-Clause,GPL-2.0,MIT,Zlib	|WICC4D CLI|	NA|	NA
+libgcc-4.9-dev |	GPL-3+	|openhub.net|	NA|	https://www.openhub.net/p/gcc
+libgcc-5-dev |	GPL-3+	|openhub.net|	Part of gcc-5 - GNU Compiler Collection|	https://www.openhub.net/p/gcc
+libgdbm3 |	GPL-3+	|openhub.net|	NA|	https://www.openhub.net/p/libgdbm
+libgfortran3 |	GPL-3	|WICC4D|	part of gcc|	NA
+libgirepository-1.0-1 |	 BSD-2-Clause,MIT	|WICC4D CLI|	NA|	NA
+libglib2.0-0 |	GPL-2,LGPL-2	|WICC4D|	part of glib|	NA
+libglib2.0-bin |	LGPL	|WICC4D CLI|	part of glib|	NA
+libgmp10 |	LGPL	|WICC4D|	Source package - gmp|	NA
+libgomp1 |	GPL-3+	|openhub.net|	Part of gcc-5 - GNU Compiler Collection|	https://www.openhub.net/p/gcc
+libgraphite2-3 |	Apache-2.0	|WICC4D|	part of graphite|	NA
+libgs9 |	 BSD-3-Clause,MIT,Zlib	|WICC4D CLI|	NA|	NA
+libgs9-common |	 BSD-3-Clause,MIT,Zlib	|WICC4D CLI|	NA|	NA
+libgtk2.0-0 |	 GPL-2.0	|WICC4D CLI|	NA|	NA
+libgtk2.0-common |	 GPL-2.0	|WICC4D CLI|	NA|	NA
+libharfbuzz0b |	MITÂ 	|WICC4D|	part of HarfBuzz|	NA
+libharfbuzz-icu0 |	MIT-Equivalent	|WICC4D|	Part of harfbuzz|	http://changelogs.ubuntu.com/changelogs/pool/main/h/harfbuzz/harfbuzz_1.0.1-1ubuntu0.1/copyright
+libice-dev |	MIT	|WICC4D |	part of libice|	NA
+libicu52 |	Unicode	|WICC4D|	NA|	Part of: icu
+libicu55 |	Unicode	|WICC4D|	part of icu|	NA
+libijs-0.35 |	 MIT,Public Domain	|WICC4D CLI|	NA|	NA
+libisl10 |	BSD-2-Clause,MIT	|WICC4D|	NA|	NA
+libisl15 |	MIT, BSD-2-clause, LGPL-2.1+	|ubuntu.com|	Most of the source code is licensed under the MIT license. However, there are some exceptions. Example: Files: interface/python.* are licensed under BSD-2-Clause,     Files: isl_qsort.c and debian/* under LGPL-2.1+|	http://changelogs.ubuntu.com/changelogs/pool/main/i/isl/isl_0.16.1-1/copyright
+libitm1 |	GPL-3+	|openhub.net|	Part of gcc-5 - GNU Compiler Collection|	https://www.openhub.net/p/gcc
+libjbig2dec0 |	 AGPL-3.0,BSD-2-Clause	|WICC4D CLI|	NA|	NA
+libjs-jquery |	 BSD-3-Clause,MIT	|WICC4D CLI|	NA|	NA
+libjs-jquery-ui |	 MIT	|WICC4D CLI|	NA|	NA
+libkpathsea6 |	     LaTeX Project Public License, GPL-2	|NA|	part of texlive|	LaTeX Project Public License
+liblapack3 |	 BSD-3-Clause	|WICC4D CLI|	NA|	NA
+liblcms2-dev |	 MIT	|WICC4D CLI|	NA|	NA
+liblqr-1-0-dev |	GPL-3	|ubuntu.com|	NA|	http://changelogs.ubuntu.com/changelogs/pool/main/libl/liblqr/liblqr_0.4.2-2/copyright
+libltdl7 |	GPL-2	|WICC4D|	part of libtool|	NA
+libltdl-dev |	GPL-2.0	|WICC4D|	NA|	Part of: libtool
+libmagic1 |	 BSD-3-Clause	|WICC4D CLI|	NA|	NA
+libmpc3 |	LGPL-2.1	|ubuntu.com|	NA|	http://changelogs.ubuntu.com/changelogs/pool/main/m/mpclib3/mpclib3_1.0.3-1/copyright
+libmpfr4 |	LGPL-3	|WICC4D|	part of mpfr|	NA
+libncurses5-dev |	MIT	|WICC4D|	part of ncurses|	NA
+libnfnetlink0 |	GPL-2.0	|WICC4D|	NA|	Part of: libnfnetlink
+libnfnetlink-dev |	GPL-2.0	|WICC4D|	NA|	Part of: libnfnetlink
+libnl-3-200 |	GPL-2.0	|WICC4D|	NA|	Part of: libnl3
+libpango-1.0-0 |	LGPL-2	|WICC4D|	part of pango |	NA
+libpangocairo-1.0-0 |	LGPL-2	|WICC4D|	part of pango |	NA
+libpangoft2-1.0-0 |	LGPL-2	|WICC4D|	part of pango |	NA
+libpaper1 |	GPL-2.0	|WICC4D|	part pf libpaper|	NA
+libpaper-utils |	GPL-2.0	|WICC4D|	part pf libpaper|	NA
+libpciaccess0 |	 MIT	|WICC4D|	NA|	NA
+libpciaccess-dev |	 MIT	|WICC4D|	NA|	NA
+libpixman-1-0 |	MIT	|WICC4D|	part of pixman |	NA
+libpixman-1-dev |	 MIT	|WICC4D CLI|	NA|	NA
+libpng12-0 |	BSD-3-Clause	|WICC4D|	part of libpng - BSD-2-Clause or BSD-3-Clause or BSD-4-Clause as per WICC4d|	NA
+libpoppler46 |	GPL-2	|ubuntu.com|	NA|	http://changelogs.ubuntu.com/changelogs/pool/universe/p/poppler-sharp/poppler-sharp_0.0.3-4/copyright
+libpotrace0 |	GPL-2	|ubuntu.com|	NA|	http://changelogs.ubuntu.com/changelogs/pool/main/p/potrace/potrace_1.13-2/copyright
+libpsl0 |	MIT-Equivalent	|WICC4D|	NA|	Part of: libpsl
+libptexenc1 |	     LaTeX Project Public License, GPL-2	|NA|	part of texlive|	NA
+libpthread-stubs0-dev |	MIT	|openhub.net|	NA|	https://www.openhub.net/p/libpthread-stubs 
+libpython2.7-minimal |	Apache-2.0	|WICC4D|	part of python|	NA
+libpython2.7-stdlib |	Apache-2.0	|WICC4D|	part of python|	NA
+libpython-stdlib |	 MIT,Python-2.0	|WICC4D CLI|	NA|	NA
+libruby2.3 |	BSD-3-Clause,MIT,Ruby,Zlib	|WICC4D CLI|	NA|	NA
+libsigsegv2 |	GPL-2	|WICC4D|	NA|	NA
+libsm6-dev |	MIT	|WICC4D|	part of libsm |	NA
+libssl1.0.0 |	BSD-4-Clause	|WICC4D|	part of openssl|	NA
+libssl1.0.0  |	BSD-4-Clause	|WICC4D|	part of openssl|	NA
+libssl-dev |	BSD-Equivalent	|WICC4D|	NA|	Part of: openssl
+libssl-doc |	 OpenSSL	|WICC4D|	NA|	NA
+libsynctex1 |	 MIT	|WICC4D CLI|	NA|	NA
+libtcl8.6 |	 BSD-4-Clause	|WICC4D CLI|	NA|	NA
+libthai0 |	LGPL-2.1+	|ubuntu.com|	part of libthai|	http://changelogs.ubuntu.com/changelogs/pool/main/libt/libthai/libthai_0.1.24-2/copyright
+libthai-data |	LGPL 2.1+, GPL 2+	|ubuntu.com|	part of libthai|	NA
+libtiff5-dev |	MIT	|WICC4D|	part of libtiff |	NA
+libtimedate-perl |	Artistic or GPL-1+	|ubuntu.com|	Part of timedate|	http://changelogs.ubuntu.com/changelogs/pool/main/libt/libtimedate-perl/libtimedate-perl_2.3000-2/copyright
+libtinfo-dev |	MIT, Apache 2.0	|openhub.net, source code|	Ubuntu copyright file does not have license information.This is the Debian prepackaged version of the ncurses library and terminfo utilities. Ncurses also shows up on WICC4D. Referred to source code for terminfo license https://github.com/nhooyr/terminfo/blob/master/LICENSE|	https://www.openhub.net/p/ncurses
+libtk8.6 |	Unique	|WICC4D|	part of Tcl-Tk|	NA
+libtool |	GPL-2.0	|WICC4D|	NA|	NA
+libubsan0 |	GPL-3+	|openhub.net|	Part of gcc-5 - GNU Compiler Collection|	https://www.openhub.net/p/gcc
+libx11-6 |	MIT	|WICC4D CLI|	NA|	NA
+libx11-data |	MIT	|WICC4D CLI|	NA|	NA
+libx11-dev |	MIT	|WICC4D CLI|	NA|	NA
+libx11-doc |	MIT	|WICC4D CLI|	NA|	NA
+libxau6 |	MIT	|WICC4D|	part of libxau|	NA
+libxau-dev |	MIT	|WICC4D|	part of libxau|	NA
+libxaw7-dev |	 MIT	|WICC4D CLI|	NA|	NA
+libxcb1 |	MIT	|WICC4D CLI|	NA|	NA
+libxcb1-dev |	MIT	|WICC4D CLI|	NA|	NA
+libxcb-render0 |	MIT	|WICC4D|	part of libxcb|	NA
+libxcb-shm0 |	MIT	|WICC4D|	part of libxcb|	NA
+libxcb-shm0-dev |	 MIT	|WICC4D CLI|	NA|	NA
+libxcomposite1 |	 MIT	|WICC4D CLI|	NA|	NA
+libxcursor1 |	MIT	|openhub.net|	Under xorg - https://cgit.freedesktop.org/ |	https://www.openhub.net/p/x
+libxdamage1 |	MIT	|openhub.net|	Under xorg - https://cgit.freedesktop.org/ |	https://www.openhub.net/p/x
+libxdmcp6 |	MIT	|WICC4D|	part of libxdmcp |	NA
+libxdmcp-dev |	MIT	|WICC4D CLI|	NA|	NA
+libxext6 |	MIT	|WICC4D|	part of libxext |	NA
+libxext-dev |	 MIT	|WICC4D CLI|	NA|	NA
+libxfixes3 |	 MIT	|NA|	NA|	NA
+libxft2 |	Python -2	|WICC4D|	part of libxft|	NA
+libxi6 |	 MIT	|WICC4D CLI|	NA|	NA
+libxinerama1 |	 MIT	|NA|	NA|	NA
+libxkbfile1 |	MIT-Equivalent	|WICC4D|	NA|	Part of: libxkbfile
+libxkbfile-dev |	MIT-Equivalent	|WICC4D|	NA|	Part of: libxkbfile
+libxml2 |	MIT	|WICC4D|	NA|	NA
+libxmu6 |	 MIT	|NA|	NA|	NA
+libxrandr2 |	Python-2.0	|WICC4D|	libxrandr on WICC4D|	NA
+libxrender1 |	Python-2.0	|WICC4D|	libxrender on WICC4D|	NA
+libxrender-dev |	Python-2.0	|WICC4D|	libxrender on WICC4D|	NA
+libxslt1.1 |	MIT	|WICC4D|	part of libxslt|	NA
+libxss1 |	 MIT	|WICC4D CLI|	NA|	NA
+libxt-dev |	 MIT	|WICC4D CLI|	NA|	NA
+libyaml-0-2 |	MIT	|WICC4D CLI|	NA|	NA
+libzzip-0-13 |	zzip	|ubuntu.com|	NA|	http://changelogs.ubuntu.com/changelogs/pool/main/z/zziplib/zziplib_0.13.62-3/copyright
+linux-libc-dev |	 BSD-3-Clause	|WICC4D CLI|	NA|	NA
+m4 |	GPL-3	|ubuntu.com|	NA|	http://changelogs.ubuntu.com/changelogs/pool/main/m/m4/m4_1.4.17-5/copyright
+manpages |	GPL-2+, BSD-3-clause, BSD-4-clause, BSD-4-clause and verbatim, Expat, GPL-2, GPL-2+ and verbatim, LDPv1, freely-redistributable, henry-spencer-regex, public-domain, verbatim	|ubuntu.com|	Here all licenses are required as different manpages are available under different Licenses|	http://changelogs.ubuntu.com/changelogs/pool/main/m/manpages/manpages_4.04-2/copyright
+manpages-dev |	GPL-2+, BSD-3-clause, BSD-4-clause, BSD-4-clause and verbatim, Expat, GPL-2, GPL-2+ and verbatim, LDPv1, freely-redistributable, henry-spencer-regex, public-domain, verbatim	|ubuntu.com|	Here all licenses are required as different manpages are available under different Licenses|	http://changelogs.ubuntu.com/changelogs/pool/main/m/manpages/manpages_4.04-2/copyright
+mesa-common-dev |	 MIT	|WICC4D|	NA|	NA
+module-init-tools |	LGPL-2.1+	|openhub.net|	NA|	https://www.openhub.net/p/kmod
+ocaml |	LGPL-2.1	|Official Page|	NA|	https://caml.inria.fr/ocaml/license.en.html
+ocaml-base |	LGPL-2.1	|Official Page|	NA|	https://caml.inria.fr/ocaml/license.en.html
+ocaml-base-nox |	LGPL-2.1	|Official Page|	NA|	https://caml.inria.fr/ocaml/license.en.html
+ocaml-compiler-libs |	LGPL-2.1	|Official Page|	NA|	https://caml.inria.fr/ocaml/license.en.html
+ocaml-findlib |	LGPL-2.1	|Official Page|	NA|	https://caml.inria.fr/ocaml/license.en.html
+ocaml-interp |	LGPL-2.1	|Official Page|	NA|	https://caml.inria.fr/ocaml/license.en.html
+ocaml-nox |	LGPL-2.1	|Official Page|	NA|	https://caml.inria.fr/ocaml/license.en.html
+openssl |	BSD-4-Clause	|WICC4D|	part of openssl |	NA
+pkg-config |	GPL-2.0+	|openhub.net|	https://www.openhub.net/p/pkg-config|	NA
+poppler-data |	 BSD-3-Clause	|WICC4D CLI|	NA|	NA
+preview-latex-style |	GPL-3+	|debian.org|	NA|	http://metadata.ftp-master.debian.org/changelogs/main/a/auctex/auctex_11.90-1_copyright
+python |	 MIT,Python-2.0	|WICC4D CLI|	NA|	NA
+python2.7 |	Apache-2.0	|WICC4D|	NA|	NA
+python2.7-minimal |	Apache-2.0	|WICC4D|	NA|	NA
+python-dateutil |	 Python-2.0	|WICC4D CLI|	NA|	NA
+python-matplotlib |	 BSD-3-Clause,MIT	|WICC4D CLI|	NA|	NA
+python-matplotlib-data |	 BSD-3-Clause,MIT	|WICC4D CLI|	NA|	NA
+python-minimal |	 MIT,Python-2.0	|WICC4D CLI|	NA|	NA
+python-numpy |	 BSD-2-Clause,BSD-3-Clause,MIT,Python-2.0	|WICC4D CLI|	NA|	NA
+python-pip |	MIT-Equivalent	|WICC4D|	NA|	NA
+python-pkg-resources |	 Python-2.0	|WICC4D CLI|	NA|	NA
+python-pyparsing |	 MIT	|WICC4D CLI|	NA|	NA
+python-six |	 MIT	|WICC4D CLI|	NA|	NA
+python-tz |	 MIT	|WICC4D CLI|	NA|	NA
+rake |	 MIT	|WICC4D CLI|	NA|	NA
+ruby |	Ruby	|WICC4D|	NA|	NA
+ruby2.3 |	 BSD-3-Clause,MIT,Ruby,Zlib	|WICC4D CLI|	NA|	NA
+ruby-did-you-mean |	 MIT	|WICC4D CLI|	NA|	NA
+rubygems-integration |	MIT	|WICC4D CLI|	NA|	NA
+ruby-minitest |	 MIT	|WICC4D CLI|	NA|	NA
+ruby-net-telnet |	 Ruby	|WICC4D CLI|	NA|	NA
+ruby-power-assert |	 BSD-2-Clause	|WICC4D CLI|	NA|	NA
+ruby-test-unit |	 BSD-2-Clause	|WICC4D CLI|	NA|	NA
+scandir |	BSD-Equivalent	|WICC4D |	NA|	NA
+tex-common |	     LaTeX Project Public License, GPL-2	|Other|	part of texlive|	NA
+texlive-base |	     LaTeX Project Public License, GPL-3	|Other|	part of texlive|	NA
+texlive-binaries |	     LaTeX Project Public License, GPL-4	|Other|	part of texlive|	NA
+texlive-latex-base |	     LaTeX Project Public License, GPL-5	|Other|	part of texlive|	NA
+texlive-latex-extra |	     LaTeX Project Public License, GPL-6	|Other|	part of texlive|	NA
+texlive-latex-recommended |	     LaTeX Project Public License, GPL-7	|Other|	part of texlive|	NA
+texlive-pictures |	     LaTeX Project Public License, GPL-8	|Other|	part of texlive|	NA
+ucf |	GPL v2	|ubuntu.com|	NA|	http://changelogs.ubuntu.com/changelogs/pool/main/u/ucf/ucf_3.0036/copyright
+unzip |	BSD-Equivalent	|WICC4D|	NA|	NA
+x11proto-core-dev |	MIT	|WICC4D CLI|	NA|	NA
+x11proto-dri2-dev |	MIT	|WICC4D|	NA|	NA
+x11proto-dri3-dev |	 MIT	|WICC4D|	NA|	NA
+x11proto-fonts-dev |	 MIT	|WICC4D|	NA|	NA
+x11proto-gl-dev |	 MIT	|WICC4D|	NA|	NA
+x11proto-input-dev |	MIT	|WICC4D CLI|	NA|	NA
+x11proto-kb-dev |	MIT	|WICC4D CLI|	NA|	NA
+x11proto-present-dev |	 MIT	|WICC4D|	NA|	NA
+x11proto-randr-dev |	 MIT	|WICC4D|	NA|	NA
+x11proto-render-dev |	 MIT	|WICC4D|	NA|	NA
+x11proto-resource-dev |	 MIT	|WICC4D|	NA|	NA
+x11proto-scrnsaver-dev |	 MIT	|WICC4D|	NA|	NA
+x11proto-video-dev |	 MIT	|WICC4D|	NA|	NA
+x11proto-xext-dev |	 MIT	|WICC4D|	NA|	NA
+x11proto-xf86bigfont-dev |	 MIT	|WICC4D|	NA|	NA
+x11proto-xf86dri-dev |	 MIT	|WICC4D|	NA|	NA
+x11proto-xinerama-dev |	 MIT	|WICC4D|	NA|	NA
+xdg-utils |	 MIT	|WICC4D CLI|	NA|	NA
+xorg-sgml-doctools |	MIT	|WICC4D CLI|	NA|	NA
+xserver-xorg-dev |	 BSD-3-Clause,MIT	|WICC4D|	NA|	NA
+xtrans-dev |	MIT	|WICC4D CLI|	NA|	NA
+yodl |	GPL-2	|ubuntu.com|	NA|	http://changelogs.ubuntu.com/changelogs/pool/universe/y/yodl/yodl_3.06.00-1/copyright
+zip |	BSD-Equivalent	|WICC4D|	NA|	NA
+zlib1g-dev |	 Zlib	|WICC4D|	NA|	NA
+acl |	GPL-2.0+, LGPL-2.1	|WICC4D|	Version 2.2.49 is GPL and LGPL-2.0, version 7.x-1.1 is GPL-2.0|	NA
+adwaita-icon-theme |	 LGPL-3, GPL-unspecified, GFDL-1.2+ CC-BY-3.0-US, CC-BY-SA-3.0-Unported	|ubuntu.com|	NA|	http://changelogs.ubuntu.com/changelogs/pool/main/a/adwaita-icon-theme/adwaita-icon-theme_3.18.0-2ubuntu3/copyright
+alex |	BSD-style	|ubuntu.com|	NA|	http://changelogs.ubuntu.com/changelogs/pool/universe/a/alex/alex_3.1.6-1/copyright
+Alfresco |	LGPL-3.0+	|openhub.net|	NA|	https://www.openhub.net/p/alfresco/licenses
+amqp |	LGPL-2.1	|WICC4D|	NA|	NA
+Ansible |	GPL-3	|WICC4D|	NA|	NA
+ant |	Apache-2.0	|WICC4D|	NA|	NA
+ant-contrib |	Apache-2.0	|openhub.net|	NA|	https://www.openhub.net/p?query=ant-contrib&sort=relevance
+antlr |	BSD-3-Clause	|ubuntu.com|	NA|	http://changelogs.ubuntu.com/changelogs/pool/main/a/antlr/antlr_2.7.7+dfsg-6ubuntu1/copyright
+ant-optional |	Apache-2.0	|WICC4D|	part of  Apache Ant|	NA
+apache-maven |	Apache-2.0	|WICC4D|	Apache Maven on WICC4D|	NA
+apparmor |	GPL-2.0	|WICC4D|	NA|	NA
+apparmor-utils |	GPL-2	|WICC4D|	part of apparmor|	NA
+appdirs-1.4.3 |	MIT	|WICC4D|	part of appdirs|	NA
+apt-transport-https |	GPL-2.0+	|ubuntu.com|	NA|	http://changelogs.ubuntu.com/changelogs/pool/main/a/apt/apt_1.2.10ubuntu1/copyright
+apt-utils |	 GPL-2.0	|WICC4D|	part of apt|	NA
+at-spi2-core |	LGPL-2+, Public domain, GPL-2	|ubuntu.com|	Different files are licensed differently. For example, Files: registryd/ucs2keysym.c are under Public domain, Files: registryd/display.c registryd/event-source.c are under LGPL-2 and so on|	http://changelogs.ubuntu.com/changelogs/pool/main/a/at-spi2-core/at-spi2-core_2.18.3-4ubuntu1/copyright
+authbind |	GPL-2.0	|WICC4D|	NA|	NA
+autoconf |	GPL-2	|WICC4D|	NA|	NA
+automake |	GPL-2	|WICC4D|	NA|	NA
+autoprefixer |	MIT-Equivalent	|WICC4D|	NA|	NA
+autotools-dev |	GPL-2	|WICC4D|	part of autotools|	NA
+backports.weakref |	Python-2.0	|WICC4D |	NA|	NA
+bazel |	Apache-2.0	|WICC4D|	NA|	NA
+billiard  |	BSD-Equivalent	|WICC4D|	NA|	NA
+binutils |	GPL-2	|WICC4D|	NA|	NA
+bleach |	Apache 2.0	|WICC4D |	NA|	NA
+bonita BPM Portal |	GPL2	|openhub.net|	NA|	https://www.openhub.net/p/bonitabpm
+boost_1_50_0.tar.bz2 |	boost	|source code|	http://sourceforge.net/projects/boost/files/boost/1.50.0/boost_1_50_0.tar.bz2/download?use_mirror=autoselect|	http://www.boost.org/users/history/version_1_50_0.html
+bsdmainutils |	BSD License	|ubuntu.com|	NA|	http://changelogs.ubuntu.com/changelogs/pool/main/b/bsdmainutils/bsdmainutils_9.0.6ubuntu3/copyright
+build-essential |	GPL-2+	|ubuntu.com|	NA|	http://changelogs.ubuntu.com/changelogs/pool/main/b/build-essential/build-essential_12.1ubuntu2/copyright
+busybox-initramfs |	GPL-2.0	|openhub.net|	NA|	https://www.openhub.net/p/busybox
+bzip2 |	BSD-4-Clause	|WICC4D|	NA|	NA
+ca-certificates |	GPL-2+, MPL-2.0	|ubuntu.com|	Different files are licensed differently. Example: Files: mozilla/certdata.txt           mozilla/nssckbi.h are license under MPL 2.0|	http://changelogs.ubuntu.com/changelogs/pool/main/c/ca-certificates/ca-certificates_20160104ubuntu1/copyright
+ca-certificates-java |	GPL	|ubuntu.com|	NA|	http://changelogs.ubuntu.com/changelogs/pool/main/c/ca-certificates-java/ca-certificates-java_20160321/copyright
+cadvisor |	Apache-2.0	|WICC4D|	NA|	NA
+Casandra  |	Apache-2.0	|WICC4D UI|	NA|	NA
+cdbs |	GPL-2, GPL-3, GAP, Expat	|ubuntu.com|	NA|	http://changelogs.ubuntu.com/changelogs/pool/main/c/cdbs/cdbs_0.4.130ubuntu2/copyright
+celery  |	BSD-Equivalent	|WICC4D|	NA|	NA
+check |	LGPL	|ubuntu.com|	NA|	http://changelogs.ubuntu.com/changelogs/pool/universe/c/check/check_0.10.0-3/copyright
+chromedriver-linux |	BSD-3-Clause	|source code|	https://s3.amazonaws.com/rstudio-buildtools/chromedriver-linux|	https://cs.chromium.org/chromium/src/LICENSE
+chromedriver-mac |	BSD-3-Clause	|source code|	https://s3.amazonaws.com/rstudio-buildtools/chromedriver-mac|	https://cs.chromium.org/chromium/src/LICENSE
+chromedriver-win.exe |	BSD-3-Clause	|source code|	https://s3.amazonaws.com/rstudio-buildtools/chromedriver-win.exe|	https://cs.chromium.org/chromium/src/LICENSE
+cmake |	BSD-3-Clause	|ubuntu.com|	NA|	http://changelogs.ubuntu.com/changelogs/pool/main/c/cmake/cmake_3.5.1-1ubuntu1/copyright
+cmake-data |	BSD-3-Clause	|ubuntu.com|	part of cmake|	http://changelogs.ubuntu.com/changelogs/pool/main/c/cmake/cmake_3.5.1-1ubuntu1/copyright
+coffeescript |	  MIT-Equivalent	|WICC4D|	NA|	NA
+colord |	GPL-2.0+, LGPL-2.1+	|ubuntu.com|	Different files are licensed differently. For example: Files: lib/colord/* are under LGPL-2.1+ and so on|	http://changelogs.ubuntu.com/changelogs/pool/main/c/colord/colord_1.2.12-1ubuntu1/copyright
+colord-data |	GPL-2.0+, LGPL-2.1+	|ubuntu.com|	Different files are licensed differently. For example: Files: lib/colord/* are under LGPL-2.1+ and so on|	http://changelogs.ubuntu.com/changelogs/pool/main/c/colord/colord_1.2.12-1ubuntu1/copyright
+comerr-dev |	BSD-3	|WICC4D|	part of e2fsprogs|	NA
+consul |	MPL-2.0	|WICC4D UI|	NA|	NA
+core-dictionaries.zip |	LGPL	|source code|	https://s3.amazonaws.com/rstudio-dictionaries/core-dictionaries.zip|	Extracted directly from the ZIP archive
+corosync |	BSD-4-Clause-UC	|ubuntu.com|	NA|	http://changelogs.ubuntu.com/changelogs/pool/main/c/corosync/corosync_2.3.5-3ubuntu1/copyright
+couchdb |	Apache-2.0	|WICC4D|	NA|	NA
+couchdb-bin |	Apache-2.0	|WICC4D|	NA|	NA
+couchdb-common |	Apache-2.0	|WICC4D|	NA|	NA
+cpio |	GPL-2	|WICC4D|	NA|	NA
+cpp |	GPL-2+	|ubuntu.com|	NA|	http://changelogs.ubuntu.com/changelogs/pool/main/g/gcc-defaults/gcc-defaults_1.150ubuntu1/copyright
+cpp-4.8 |	GPL-3	|ubuntu.com|	part of gcc|	http://changelogs.ubuntu.com/changelogs/pool/universe/g/gcc-4.8/gcc-4.8_4.8.5-4ubuntu2/copyright
+cpp-5 |	GPL-3+	|openhub.net|	Part of gcc-5 - GNU Compiler Collection|	https://www.openhub.net/p/gcc
+crate |	ISC	|openhub.net|	NA|	https://www.openhub.net/p/crate
+cron |	Unique,MIT	|WICC4D|	Latest version is under Unique and older versions are under MIT|	NA
+curl |	MIT	|WICC4D|	Source package curl|	NA
+dbus |	AFL	|WICC4D|	NA|	NA
+dbus-x11 |	AFL	|WICC4D|	Source package dbus|	NA
+dconf-gsettings-backend |	LGPL-2.1+, GPL-3+	|ubuntu.com|	Different files are licensed differently. For example: Files: * are LGPL-2 while Files: dbus-1/dconf-dbus-1.* are GPL-3+|	http://changelogs.ubuntu.com/changelogs/pool/main/d/d-conf/d-conf_0.24.0-2/copyright
+dconf-service |	LGPL-2.1+, GPL-3+	|ubuntu.com|	Different files are licensed differently. For example: Files: * are LGPL-2 while Files: dbus-1/dconf-dbus-1.* are GPL-3+|	http://changelogs.ubuntu.com/changelogs/pool/main/d/d-conf/d-conf_0.24.0-2/copyright
+debhelper |	GPL-2, GPL-3	|ubuntu.com|	NA|	http://changelogs.ubuntu.com/changelogs/pool/main/d/debhelper/debhelper_9.20160115ubuntu3/copyright
+default-jre-headless |	GPL-2+	|ubuntu.com|	NA|	http://changelogs.ubuntu.com/changelogs/pool/main/j/java-common/java-common_0.56ubuntu2/copyright
+dh-apparmor |	GPL-2	|WICC4D|	part of apparmor|	NA
+dh-python |	Expat	|ubuntu.com|	NA|	http://changelogs.ubuntu.com/changelogs/pool/main/d/dh-python/dh-python_2.20151103ubuntu1/copyright
+dh-translations |	GPL-2	|ubuntu.com|	NA|	http://changelogs.ubuntu.com/changelogs/pool/main/p/pkgbinarymangler/pkgbinarymangler_129/copyright
+docker-engine |	Apache-2.0	|Source Code|	NA|	https://github.com/docker/engine-api/blob/master/LICENSE
+docutils-common |	GPL-3.0	|WICC4D|	part of docutils|	NA
+dpkg-dev |	GPL-2+, GPL-2, BSD-2-clause, public-domain-s-s-d, public-domain-md5	|ubuntu.com|	Most of the files are license under GPL-2+, however there are some exceptions Example    Files: scripts/Dpkg/Gettext.pm is avialable under BSD-2-clause, Files:  utils/start-stop-daemon.c under public-domain-s-s-d and so on|	http://changelogs.ubuntu.com/changelogs/pool/main/d/dpkg/dpkg_1.18.4ubuntu1/copyright
+dumb-init |	MIT-Equivalent	|WICC4D UI|	NA|	NA
+elasticsearch |	Apache-2.0	|ubuntu.com|	NA|	http://changelogs.ubuntu.com/changelogs/pool/universe/e/elasticsearch/elasticsearch_1.7.3+dfsg-3/copyright
+erlang-asn1 |	Apache-2.0	|WICC4D|	NA|	NA
+erlang-base |	Apache-2.0	|WICC4D|	NA|	NA
+erlang-base-hipe |	Apache-2.0	|WICC4D|	NA|	NA
+erlang-corba |	Apache-2.0	|WICC4D|	NA|	NA
+erlang-crypto |	Apache-2.0	|WICC4D|	NA|	NA
+erlang-dev |	Apache-2.0	|WICC4D|	NA|	NA
+erlang-diameter |	Apache-2.0	|WICC4D|	NA|	NA
+erlang-edoc |	Apache-2.0	|WICC4D|	NA|	NA
+erlang-eldap |	Apache-2.0	|WICC4D|	NA|	NA
+erlang-erl-docgen |	Apache-2.0	|WICC4D|	NA|	NA
+erlang-eunit |	Apache-2.0	|WICC4D|	NA|	NA
+erlang-ic |	Apache-2.0	|WICC4D|	NA|	NA
+erlang-inets |	Apache-2.0	|WICC4D|	NA|	NA
+erlang-mnesia |	Apache-2.0	|WICC4D|	These all packages belongs to "erlang" family|	NA
+erlang-nox |	Apache-2.0	|WICC4D|	NA|	NA
+erlang-odbc |	Apache-2.0	|WICC4D|	NA|	NA
+erlang-os-mon |	Apache-2.0	|WICC4D|	NA|	NA
+erlang-parsetools |	Apache-2.0	|WICC4D|	NA|	NA
+erlang-percept |	Apache-2.0	|WICC4D|	NA|	NA
+erlang-public-key |	Apache-2.0	|WICC4D|	NA|	NA
+erlang-reltool |	Apache-2.0	|WICC4D|	NA|	NA
+erlang-runtime-tools |	Apache-2.0	|WICC4D|	NA|	NA
+erlang-snmp |	Apache-2.0	|WICC4D|	NA|	NA
+erlang-ssh |	Apache-2.0	|WICC4D|	NA|	NA
+erlang-ssl |	Apache-2.0	|WICC4D|	NA|	NA
+erlang-syntax-tools |	Apache-2.0	|WICC4D|	NA|	NA
+erlang-tools |	Apache-2.0	|WICC4D|	NA|	NA
+erlang-webtool |	Apache-2.0	|WICC4D|	NA|	NA
+erlang-wx |	Apache-2.0	|WICC4D|	NA|	NA
+erlang-xmerl |	Apache-2.0	|WICC4D|	NA|	NA
+es6-promise |	MIT-Equivalent	|WICC4D|	NA|	NA
+es6-shim |	MIT-Equivalent	|WICC4D|	NA|	NA
+eventemitter3 |	MIT-Equivalent	|WICC4D|	NA|	NA
+expect.js |	MIT-Equivalent	|WICC4D|	NA|	NA
+fakeroot |	GPL-2+	|WICC4D|	NA|	NA
+file |	BSD-3-Clause	|NA|	NA|	NA
+fontconfig |	Webware Python	|WICC4D|	NA|	NA
+fontconfig-config |	Webware Python	|WICC4D|	part of fontconfig|	NA
+fonts-dejavu-core |	bitstream-vera, GPL-2+	|ubuntu.com|	NA|	http://changelogs.ubuntu.com/changelogs/pool/main/f/fonts-dejavu/fonts-dejavu_2.35-1/copyright
+fonts-dejavu-extra |	bitstream-vera, GPL-2+	|ubuntu.com|	NA|	http://changelogs.ubuntu.com/changelogs/pool/main/f/fonts-dejavu/fonts-dejavu_2.35-1/copyright
+fonts-lato |	OFL-1.1, GPL-2+	|ubuntu.com|	NA|	http://packages.ubuntu.com/xenial/all/fonts-lato/filelist
+freeglut3 |	X-Consortium	|source code|	NA|	http://freeglut.sourceforge.net/
+freeglut3-dev |	X-Consortium	|source code|	part of freeglut|	http://freeglut.sourceforge.net/
+funcsigs |	Apache 2.0	|WICC4D |	NA|	NA
+g++ |	GPL-2+	|ubuntu.com|	NA|	http://changelogs.ubuntu.com/changelogs/pool/main/g/gcc-defaults/gcc-defaults_1.150ubuntu1/copyright
+g++-4.8 |	GPL-3	|WICC4D|	part of gcc|	NA
+g++-5 |	GPL-3+	|openhub.net|	Part of gcc-5 - GNU Compiler Collection|	https://www.openhub.net/p/gcc
+gaze |	MIT-Equivalent	|WICC4D|	NA|	NA
+gcc |	GPL-2+	|ubuntu.com|	NA|	http://changelogs.ubuntu.com/changelogs/pool/main/g/gcc-defaults/gcc-defaults_1.150ubuntu1/copyright
+gcc-5 |	GPL-3+	|openhub.net|	NA|	https://www.openhub.net/p/gcc
+gconf2 |	LGPL-2+	|ubuntu.com|	NA|	http://changelogs.ubuntu.com/changelogs/pool/main/g/gconf/gconf_3.2.6-3ubuntu6/copyright
+gconf2-common |	LGPL-2+	|ubuntu.com|	NA|	http://changelogs.ubuntu.com/changelogs/pool/main/g/gconf/gconf_3.2.6-3ubuntu6/copyright
+gconf-service |	LGPL-2+	|ubuntu.com|	NA|	http://changelogs.ubuntu.com/changelogs/pool/main/g/gconf/gconf_3.2.6-3ubuntu6/copyright
+gconf-service-backend |	LGPL-2+	|ubuntu.com|	NA|	http://changelogs.ubuntu.com/changelogs/pool/main/g/gconf/gconf_3.2.6-3ubuntu6/copyright
+gd |	BSD-Equivalent 	|WICC4D|	gdal on WICC4D|	NA
+geode |	Apache-2.0, MIT, BSD 3-Clause, MX4J License	|github.com|	NA|	https://github.com/apache/geode/blob/develop/LICENSE
+geoip-bin |	LGPL-2.1, MIT-Equivalent	|WICC4D UI|	Source package geoip|	NA
+geoip-database |	LGPL-2.1, MIT-Equivalent	|WICC4D UI|	Source package geoip|	NA
+gettext |	Ruby	|WICC4D|	NA|	NA
+gettext-base |	Ruby	|WICC4D|	part of gettext|	NA
+gfortran |	GPL-3	|WICC4D|	part of gcc|	NA
+gfortran-4.8 |	GPL-3	|WICC4D|	part of gcc|	NA
+ghc |	GHC, BSD-3-Clause	|ubuntu.com|	NA|	http://changelogs.ubuntu.com/changelogs/pool/universe/g/ghc/ghc_7.10.3-7/copyright
+ghc-haddock |	GHC, BSD-3-Clause	|ubuntu.com|	part of ghc|	http://changelogs.ubuntu.com/changelogs/pool/universe/g/ghc/ghc_7.10.3-7/copyright
+ghost |	MIT	|openhub.net|	NA|	https://www.openhub.net/p?ref=homepage&query=ghost
+ghostscript |	GPL-2+	|ubuntu.com|	NA|	http://changelogs.ubuntu.com/changelogs/pool/main/g/ghostscript/ghostscript_9.18~dfsg~0-0ubuntu2/copyright
+gin-1.5 |	Apache-2.0	|source code|	https://s3.amazonaws.com/rstudio-buildtools/gin-1.5.zip|	https://mvnrepository.com/artifact/com.google.gwt.inject/gin/1.5.0
+gir1.2-freedesktop |	GPL-2, LGPL-2	|ubuntu.com|	NA|	http://changelogs.ubuntu.com/changelogs/pool/main/g/gobject-introspection/gobject-introspection_1.46.0-3ubuntu1/copyright
+gir1.2-gdkpixbuf |	 GPL-2.0	|WICC4D|	part of gdk-pixbuf|	NA
+gir1.2-glib-2.0 |	LGPL-2.1	|WICC4D|	part of gobject-introspection|	NA
+gir1.2-pango-1.0 |	LGPL-2	|WICC4D|	part of pango|	NA
+gir1.2-rsvg-2.0 |	LGPL-2.0+, GPL-2.0+	|debian.org|	part of libsrvg|	http://metadata.ftp-master.debian.org/changelogs/main/libr/librsvg/librsvg_2.40.5-1+deb8u2_copyright
+git |	GPL-2	|WICC4D|	NA|	NA
+git-man |	GPL-2.0, MIT 	|WICC4D|	part of git|	NA
+glib-networking |	LGPL-2+	|ubuntu.com|	NA|	http://changelogs.ubuntu.com/changelogs/pool/main/g/glib-networking/glib-networking_2.48.0-1/copyright
+glib-networking-common |	LGPL-2+	|ubuntu.com|	NA|	http://changelogs.ubuntu.com/changelogs/pool/main/g/glib-networking/glib-networking_2.48.0-1/copyright
+glib-networking-services |	LGPL-2+	|ubuntu.com|	NA|	http://changelogs.ubuntu.com/changelogs/pool/main/g/glib-networking/glib-networking_2.48.0-1/copyright
+glob |	MIT-Equivalent	|WICC4D|	NA|	NA
+go |	BSD-Equivalent, Google Patents file	|WICC4D|	NA|	NA
+go1.8.1 |	BSD-Equivalent	|WICC4D UI|	Source Package go|	NA
+godep |	BSD-Equivalent	|WICC4D|	NA|	NA
+golang |	BSD-Equivalent	|WICC4D|	NA|	NA
+gosu |	GPL-3+	|debian.org|	NA|	http://metadata.ftp-master.debian.org/changelogs/main/g/gosu/gosu_1.10-1~bpo8+1_copyright
+grafana |	Apache-2.0	|WICC4D|	NA|	NA
+graphviz |	EPL-1.0 ,MIT	|WICC4D|	NA|	NA
+groff |	GPL-2+	|ubuntu.com|	NA|	http://changelogs.ubuntu.com/changelogs/pool/main/g/groff/groff_1.22.3-7/copyright
+groff-base |	GPL-3	|WICC4D|	part of groff|	NA
+groovy2 |	Apache-2.0	|ubuntu.com|	NA|	http://changelogs.ubuntu.com/changelogs/pool/universe/g/groovy2/groovy2_2.4.5-1/copyright
+grunt |	MIT-Equivalent	|WICC4D|	NA|	NA
+grunt-angular-templates |	MIT-Equivalent	|WICC4D|	NA|	NA
+grunt-cli |	MIT-Equivalent	|WICC4D|	NA|	NA
+grunt-contrib-clean |	MIT-Equivalent	|WICC4D|	NA|	NA
+grunt-contrib-compress |	MIT-Equivalent	|WICC4D|	NA|	NA
+grunt-contrib-concat |	MIT-Equivalent	|WICC4D|	NA|	NA
+grunt-contrib-copy |	MIT-Equivalent	|WICC4D|	NA|	NA
+grunt-contrib-cssmin |	MIT-Equivalent	|WICC4D|	NA|	NA
+grunt-contrib-htmlmin |	MIT-Equivalent	|WICC4D|	NA|	NA
+grunt-contrib-jshint |	MIT-Equivalent	|WICC4D|	NA|	NA
+grunt-exec |	MIT	|npmjs.com|	NA|	https://www.npmjs.com/package/grunt-exec
+grunt-filerev |	BSD-Equivalent	|WICC4D|	NA|	NA
+grunt-jscs |	MIT-Equivalent	|WICC4D|	NA|	NA
+grunt-karma |	MIT-Equivalent	|WICC4D|	NA|	NA
+grunt-ng-annotate |	MIT-Equivalent	|WICC4D|	NA|	NA
+grunt-notify |	MIT	|npmjs.com|	NA|	https://www.npmjs.com/package/grunt-notify
+grunt-postcss |	MIT	|npmjs.com|	NA|	https://www.npmjs.com/package/grunt-postcss
+grunt-sass |	MIT-Equivalent	|WICC4D|	NA|	NA
+grunt-sass-lint |	MIT	|npmjs.com|	NA|	https://www.npmjs.com/package/grunt-sass-lint
+grunt-string-replace |	MIT	|npmjs.com|	NA|	https://www.npmjs.com/package/grunt-string-replace
+grunt-sync |	MIT-Equivalent	|WICC4D|	NA|	NA
+grunt-systemjs-builder |	MIT	|npmjs.com|	NA|	https://www.npmjs.com/package/grunt-systemjs-builder
+grunt-usemin |	BSD-Equivalent	|WICC4D|	NA|	NA
+gsettings-desktop-schemas |	LGPL-2.1+	|ubuntu.com|	NA|	http://changelogs.ubuntu.com/changelogs/pool/main/g/gsettings-desktop-schemas/gsettings-desktop-schemas_3.18.1-1ubuntu1/copyright
+gsfonts |	GPL	|ubuntu.com|	NA|	http://changelogs.ubuntu.com/changelogs/pool/main/g/gsfonts/gsfonts_8.11+urwcyr1.0.7~pre44-4.2ubuntu1/copyright
+gwt-2.7.0 |	Apache-2.0	|source code|	https://s3.amazonaws.com/rstudio-buildtools/gwt-2.7.0.zip|	http://www.gwtproject.org/versions.html
+gyp |	BSD-3-Clause	|ubuntu.com|	NA|	http://packages.ubuntu.com/xenial/all/gyp/filelist
+happy |	GHC	|ubuntu.com|	NA|	http://changelogs.ubuntu.com/changelogs/pool/universe/h/happy/happy_1.19.5-5/copyright
+haskell-platform |	GHC	|ubuntu.com|	NA|	http://changelogs.ubuntu.com/changelogs/pool/universe/h/haskell-platform/haskell-platform_2014.2.0.0.debian2/copyright
+hdf5-helpers |	GPL -2, BSD-Equivalent	|WICC4D UI|	Source Package HDF5|	NA
+hdf5-helpers  |	GPL-2.0	|WICC4D|	NA|	NA
+hicolor-icon-theme |	GPL-2+	|ubuntu.com|	NA|	http://changelogs.ubuntu.com/changelogs/pool/main/h/hicolor-icon-theme/hicolor-icon-theme_0.15-0ubuntu1/copyright
+html5lib |	MIT-Equivalent	|WICC4D |	NA|	NA
+humanity-icon-theme |	GPL v2, CC-by-SA, CC-by-SA,    LGPL 3+, MPL 1.1, CC-by-SA 3.0 	|ubuntu.com|	NA|	http://changelogs.ubuntu.com/changelogs/pool/main/h/humanity-icon-theme/humanity-icon-theme_0.6.10/copyright
+icu-devtools |	Unicode	|WICC4D|	part of icu|	NA
+ifupdown |	GPL-2+	|openhub.net|	NA|	https://www.openhub.net/p/ifupdown
+imagemagick |	Apache-2.0	|ubuntu.com|	NA|	http://changelogs.ubuntu.com/changelogs/pool/main/i/imagemagick/imagemagick_6.8.9.9-7ubuntu5.1/copyright
+imagemagick-6.q16 |	Apache-2.0	|ubuntu.com|	NA|	http://changelogs.ubuntu.com/changelogs/pool/main/i/imagemagick/imagemagick_6.8.9.9-7ubuntu5.1/copyright
+imagemagick-common |	Apache-2.0	|ubuntu.com|	NA|	http://changelogs.ubuntu.com/changelogs/pool/main/i/imagemagick/imagemagick_6.8.9.9-7ubuntu5.1/copyright
+initramfs-tools |	GPL-2.0	|openhub.net|	NA|	https://www.openhub.net/p/initramfs-tools
+initramfs-tools-bin |	GPL-2.0	|openhub.net|	NA|	https://www.openhub.net/p/initramfs-tools
+initramfs-tools-core |	GPL-2.0	|openhub.net|	NA|	https://www.openhub.net/p/initramfs-tools
+intltool |	GPL-2	|WICC4D|	NA|	NA
+intltool-debian |	GPL-2	|WICC4D|	part of intltool|	NA
+iproute2 |	GPL-2	|WICC4D|	NA|	NA
+iptables |	GPL-2	|openhub.net|	NA|	https://www.openhub.net/p/iptables
+ipykernel |	BSD-Equivalent	|WICC4D |	NA|	NA
+ipython |	BSD-Equivalent	|WICC4D |	NA|	NA
+ipywidgets |	BSD-Equivalent	|WICC4D |	NA|	NA
+isc-dhcp-client |	ISC	|ubuntu.com|	dhcp shows up on WICC4D as reviewed with license type MIT OR ISC OR MITNFA|	http://changelogs.ubuntu.com/changelogs/pool/main/i/isc-dhcp/isc-dhcp_4.3.3-5ubuntu12/copyright
+isc-dhcp-common |	ISC	|ubuntu.com|	dhcp shows up on WICC4D as reviewed with license type MIT OR ISC OR MITNFA|	http://changelogs.ubuntu.com/changelogs/pool/main/i/isc-dhcp/isc-dhcp_4.3.3-5ubuntu12/copyright
+iso-codes |	LGPL-2.1	|ubuntu.com|	NA|	https://anonscm.debian.org/git/pkg-isocodes/iso-codes.git/tree/COPYING
+ivy |	Apache-2.0	|ubuntu.com|	NA|	http://changelogs.ubuntu.com/changelogs/pool/universe/i/ivy/ivy_2.4.0-3/copyright
+java-common |	GPL-2+	|ubuntu.com|	NA|	http://changelogs.ubuntu.com/changelogs/pool/main/j/java-common/java-common_0.56ubuntu2/copyright
+javascript-common |	GPL-2+	|ubuntu.com|	NA|	http://packages.ubuntu.com/xenial/all/javascript-common/filelist
+java-wrappers |	GPL-2.0+, JRL	|ubuntu.com|	NA|	http://changelogs.ubuntu.com/changelogs/pool/universe/j/java-wrappers/java-wrappers_0.1.28/copyright
+jetty |	Apache-2.0	|WICC4D|	NA|	NA
+jquery-file-upload |	MIT-Equivalent	|WICC4D UI|	NA|	NA
+Jruby |	EPL-1.0,CPL-1.0	|WICC4D|	Versions below 1.0.3 are covered under CPL-1.0|	NA
+jruby-openssl |	EPL-1.0, LGPL-2.1, GPL2	|ubuntu.com|	NA|	http://packages.ubuntu.com/xenial/all/jruby-openssl/filelist
+jshint-stylish |	MIT-Equivalent	|WICC4D|	NA|	NA
+junit |	BSD-4-Clause	|WICC4D|	Earlier versions were under EPL-1.0/CPL-1.0|	http://changelogs.ubuntu.com/changelogs/pool/universe/j/junit/junit_3.8.2-8build1/copyright
+junit4 |	BSD-4-Clause	|WICC4D|	Earlier versions were under EPL-1.0/CPL-1.0|	http://changelogs.ubuntu.com/changelogs/pool/universe/j/junit4/junit4_4.12-4ubuntu1/copyright
+junit-4.9b3.jar |	EPL-1	|source code|	https://s3.amazonaws.com/rstudio-buildtools/junit-4.9b3.jar|	http://junit.org/junit4/license.html
+jupyter |	BSD-Equivalent	|WICC4D |	NA|	NA
+kaazing_gateway |	Apache-2.0	|Sourcecode|	NA|	https://github.com/kaazing/gateway/blob/develop/LICENSE.txt
+karma |	MIT-Equivalent	|WICC4D|	NA|	NA
+karma-chrome-launcher |	MIT-Equivalent	|WICC4D|	NA|	NA
+karma-coverage |	MIT-Equivalent	|WICC4D|	NA|	NA
+karma-expect |	MIT	|npmjs.com|	NA|	https://www.npmjs.com/package/karma-expect
+karma-mocha |	MIT-Equivalent	|WICC4D|	NA|	NA
+karma-phantomjs-launcher |	MIT-Equivalent	|WICC4D|	NA|	NA
+karma-sinon |	MIT-Equivalent	|WICC4D|	NA|	NA
+klibc-utils |	BSD-3-Clause, GPL-2+	|openhub.net|	NA|	https://www.openhub.net/p/klibc
+kmod |	LGPL-2.1+	|NA|	NA|	NA
+kombu |	BSD-Equivalent	|WICC4D|	NA|	NA
+krb5-locales |	MIT	|WICC4D|	part of krb5|	NA
+less |	LESS	|WICC4D|	NA|	NA
+leveldb |	BSD-Equivalent, MIT-Equivalent, Apache-2.0	|WICC4D UI|	NA|	NA
+libalgorithm-diff-perl |	Artistic or GPL-1	|ubuntu.com|	NA|	http://changelogs.ubuntu.com/changelogs/pool/main/liba/libalgorithm-diff-perl/libalgorithm-diff-perl_1.19.03-1/copyright
+libalgorithm-diff-xs-perl |	Artistic or GPL-1	|ubuntu.com|	NA|	http://changelogs.ubuntu.com/changelogs/pool/main/liba/libalgorithm-diff-xs-perl/libalgorithm-diff-xs-perl_0.04-4build1/copyright
+libalgorithm-merge-perl |	GPL-1+	|ubuntu.com|	NA|	http://changelogs.ubuntu.com/changelogs/pool/main/liba/libalgorithm-merge-perl/libalgorithm-merge-perl_0.08-3/copyright
+libantlr-java |	BSD-3-Clause	|ubuntu.com|	NA|	http://changelogs.ubuntu.com/changelogs/pool/main/a/antlr/antlr_2.7.7+dfsg-6ubuntu1/copyright
+libaopalliance-java |	public-domain, GPL-2	|ubuntu.com|	NA|	http://changelogs.ubuntu.com/changelogs/pool/universe/liba/libaopalliance-java/libaopalliance-java_20070526-5/copyright
+libapache-pom-java |	Apache-2.0	|ubuntu.com|	NA|	http://changelogs.ubuntu.com/changelogs/pool/universe/a/apache-pom/apache-pom_10-2build1/copyright
+libapparmor1 |	GPL-2	|WICC4D|	part of apparmor|	NA
+libapparmor-perl |	GPL-2.0	|WICC4D|	Source package apparmor|	NA
+libarchive13 |	BSD-4-Clause	|WICC4D|	NA|	NA
+libart-2.0-2 |	LGPL	|ubuntu.com|	NA|	http://changelogs.ubuntu.com/changelogs/pool/main/liba/libart-lgpl/libart-lgpl_2.3.21-2/copyright
+libasan2 |	GPL-3+	|openhub.net|	Part of gcc-5 - GNU Compiler Collection|	https://www.openhub.net/p/gcc
+libasm4-java |	BSD-3-clause	|ubuntu.com|	NA|	http://changelogs.ubuntu.com/changelogs/pool/universe/liba/libasm4-java/libasm4-java_5.0.4-1/copyright
+libasn1-8-heimdal |	BSD-3-clause	|WICC4D|	part heimdal kerberos|	NA
+libasound2 |	LGPL-2.1+	|ubuntu.com|	NA|	http://changelogs.ubuntu.com/changelogs/pool/main/a/alsa-lib/alsa-lib_1.1.0-0ubuntu1/copyright
+libasound2-data |	LGPL-2.1+	|ubuntu.com|	NA|	http://changelogs.ubuntu.com/changelogs/pool/main/a/alsa-lib/alsa-lib_1.1.0-0ubuntu1/copyright
+libasprintf0c2 |	Ruby	|WICC4D|	part of gettext|	NA
+libasyncns0 |	LGPL-2.1+	|ubuntu.com|	NA|	http://changelogs.ubuntu.com/changelogs/pool/main/liba/libasyncns/libasyncns_0.8-5build1/copyright
+libatinject-jsr330-api-java |	Apache-2.0	|ubuntu.com|	NA|	http://changelogs.ubuntu.com/changelogs/pool/universe/a/atinject-jsr330/atinject-jsr330_1.0+ds1-2/copyright
+libatk1.0-0 |	LGPL-2+	|ubuntu.com|	NA|	http://changelogs.ubuntu.com/changelogs/pool/main/a/atk1.0/atk1.0_2.18.0-1/copyright
+libatk1.0-data |	LGPL-2+	|ubuntu.com|	NA|	http://changelogs.ubuntu.com/changelogs/pool/main/a/atk1.0/atk1.0_2.18.0-1/copyright
+libatk-bridge2.0-0 |	LGPL-2+, GPL-2	|ubuntu.com|	Different files are licensed differently, mainly under LGPL-2. Files: debian/* are under GPL-2|	http://changelogs.ubuntu.com/changelogs/pool/main/a/at-spi2-atk/at-spi2-atk_2.18.1-2ubuntu1/copyright
+libatk-wrapper-java |	LGPL-2.1+, GPL-3	|ubuntu.com|	NA|	http://changelogs.ubuntu.com/changelogs/pool/universe/j/java-atk-wrapper/java-atk-wrapper_0.33.3-6/copyright
+libatk-wrapper-java-jni |	LGPL-2.1+, GPL-3	|ubuntu.com|	NA|	http://changelogs.ubuntu.com/changelogs/pool/universe/j/java-atk-wrapper/java-atk-wrapper_0.33.3-6/copyright
+libatlas3-base |	BSD-Equivalent	|WICC4D UI|	Source Package ATLAS|	NA
+libatlas-base-dev |	BSD-Equivalent	|WICC4D UI|	Source Package ATLAS|	NA
+libatlas-dev |	BSD-Equivalent	|WICC4D UI|	Source Package ATLAS|	NA
+libatm1 |	BSD, GPL-2, LGPL-2	|Source Code|	The package can be distributed or modified under GPL-2, as per the COPYING file. However, different source components/parts of the source code are provided under different licenses. COPYING.GPL and COPYING.LGPL are part of the main source tree|	https://sourceforge.net/projects/linux-atm/
+libatomic1 |	GPL-3+	|openhub.net|	Part of gcc-5 - GNU Compiler Collection|	https://www.openhub.net/p/gcc
+libatspi2.0-0 |	LGPL-2+, Public domain, GPL-2	|ubuntu.com|	Different files are licensed differently. For example: Files: registryd/registry.c are under LGPL-2+, Files: debian/* under GPL-2, Files: registryd/ucs2keysym.c under public-domain|	http://changelogs.ubuntu.com/changelogs/pool/main/a/at-spi2-core/at-spi2-core_2.18.3-4ubuntu1/copyright
+libauthen-sasl-perl |	Artistic or GPL-1	|ubuntu.com|	NA|	http://changelogs.ubuntu.com/changelogs/pool/main/liba/libauthen-sasl-perl/libauthen-sasl-perl_2.1600-1/copyright
+libavahi-client3 |	LGPL	|openhub.net|	NA|	https://www.openhub.net/p/avahi/licenses
+libavahi-common3 |	LGPL	|openhub.net|	NA|	https://www.openhub.net/p/avahi/licenses
+libavahi-common-data |	LGPL	|openhub.net|	NA|	https://www.openhub.net/p/avahi/licenses
+libavahi-glib1 |	LGPL	|openhub.net|	NA|	https://www.openhub.net/p/avahi/licenses
+libbcpkix-java |	Expat, Apache-2.0	|ubuntu.com|	NA|	http://packages.ubuntu.com/xenial/all/libbcpkix-java/filelist
+libbcprov-java |	Expat, Apache-2.0	|ubuntu.com|	NA|	http://packages.ubuntu.com/xenial/all/libbcprov-java/filelist
+libbibutils2 |	GPL-2	|ubuntu.com|	NA|	http://changelogs.ubuntu.com/changelogs/pool/universe/b/bibutils/bibutils_4.12-5/copyright
+libblas3 |	BSD-4-clause	|WICC4D|	part of lapack|	NA
+libblas-common |	BLAS, BSD-Equivalent	|WICC4D UI|	Source Package BLAS|	NA
+libblas-dev |	BSD-4-clause	|WICC4D|	part of lapack|	NA
+libbonobo2-0 |	GPL-2	|openhub.net|	NA|	https://www.openhub.net/p/libbonobo
+libbonobo2-common |	GPL-2	|openhub.net|	NA|	https://www.openhub.net/p/libbonobo
+libboost1.54-dev |	Boost	|WICC4D|	part of boost|	NA
+libboost1.54-tools-dev |	Boost	|WICC4D|	part of boost|	NA
+libboost1.55-all-dev |	Boost, GPL-2.0, Public Domain, BSD-Equivalent	|WICC4D UI|	Source Package BOOST|	NA
+libboost1.55-dev |	Boost, GPL-2.0, Public Domain, BSD-Equivalent	|WICC4D UI|	Source Package BOOST|	NA
+libboost1.55-tools-dev |	Boost, GPL-2.0, Public Domain, BSD-Equivalent	|WICC4D UI|	Source Package BOOST|	NA
+libboost-all-dev |	Boost	|WICC4D|	part of boost|	NA
+libboost-atomic1.54.0 |	Boost	|WICC4D|	part of boost|	NA
+libboost-atomic1.54-dev |	Boost	|WICC4D|	part of boost|	NA
+libboost-atomic1.55.0 |	Boost, GPL-2.0, Public Domain, BSD-Equivalent	|WICC4D UI|	Source Package BOOST|	NA
+libboost-atomic1.55-dev |	Boost, GPL-2.0, Public Domain, BSD-Equivalent	|WICC4D UI|	Source Package BOOST|	NA
+libboost-atomic-dev |	Boost	|WICC4D|	part of boost|	NA
+libboost-chrono1.54.0 |	Boost	|WICC4D|	part of boost|	NA
+libboost-chrono1.54-dev |	Boost	|WICC4D|	part of boost|	NA
+libboost-chrono1.55.0 |	Boost, GPL-2.0, Public Domain, BSD-Equivalent	|WICC4D UI|	Source Package BOOST|	NA
+libboost-chrono1.55-dev |	Boost, GPL-2.0, Public Domain, BSD-Equivalent	|WICC4D UI|	Source Package BOOST|	NA
+libboost-chrono-dev |	Boost	|WICC4D|	part of boost|	NA
+libboost-context1.54.0 |	Boost	|WICC4D|	part of boost|	NA
+libboost-context1.54-dev |	Boost	|WICC4D|	part of boost|	NA
+libboost-context1.55.0 |	Boost, GPL-2.0, Public Domain, BSD-Equivalent	|WICC4D UI|	Source Package BOOST|	NA
+libboost-context1.55-dev |	Boost, GPL-2.0, Public Domain, BSD-Equivalent	|WICC4D UI|	Source Package BOOST|	NA
+libboost-context-dev |	Boost	|WICC4D|	part of boost|	NA
+libboost-coroutine1.54-dev |	Boost	|WICC4D|	part of boost|	NA
+libboost-coroutine1.55-dev |	Boost, GPL-2.0, Public Domain, BSD-Equivalent	|WICC4D UI|	Source Package BOOST|	NA
+libboost-coroutine-dev |	Boost	|WICC4D|	part of boost|	NA
+libboost-date-time1.54.0 |	Boost	|WICC4D|	part of boost|	NA
+libboost-date-time1.54-dev |	Boost	|WICC4D|	part of boost|	NA
+libboost-date-time1.55.0 |	Boost, GPL-2.0, Public Domain, BSD-Equivalent	|WICC4D UI|	Source Package BOOST|	NA
+libboost-date-time1.55-dev |	Boost, GPL-2.0, Public Domain, BSD-Equivalent	|WICC4D UI|	Source Package BOOST|	NA
+libboost-date-time-dev |	Boost	|WICC4D|	part of boost|	NA
+libboost-dev |	Boost	|WICC4D|	part of boost|	NA
+libboost-exception1.54-dev |	Boost	|WICC4D|	part of boost|	NA
+libboost-exception1.55-dev |	Boost, GPL-2.0, Public Domain, BSD-Equivalent	|WICC4D UI|	Source Package BOOST|	NA
+libboost-exception-dev |	Boost	|WICC4D|	part of boost|	NA
+libboost-filesystem1.54.0 |	Boost	|WICC4D|	part of boost|	NA
+libboost-filesystem1.54-dev |	Boost	|WICC4D|	part of boost|	NA
+libboost-filesystem1.55.0 |	Boost, GPL-2.0, Public Domain, BSD-Equivalent	|WICC4D UI|	Source Package BOOST|	NA
+libboost-filesystem1.55-dev |	Boost, GPL-2.0, Public Domain, BSD-Equivalent	|WICC4D UI|	Source Package BOOST|	NA
+libboost-filesystem1.58.0 |	Boost	|WICC4D|	NA|	http://changelogs.ubuntu.com/changelogs/pool/main/b/boost1.58/boost1.58_1.58.0+dfsg-5ubuntu3/copyright
+libboost-filesystem-dev |	Boost	|WICC4D|	part of boost|	NA
+libboost-graph1.54.0 |	Boost	|WICC4D|	part of boost|	NA
+libboost-graph1.54-dev |	Boost	|WICC4D|	part of boost|	NA
+libboost-graph1.55.0 |	Boost, GPL-2.0, Public Domain, BSD-Equivalent	|WICC4D UI|	Source Package BOOST|	NA
+libboost-graph1.55-dev |	Boost, GPL-2.0, Public Domain, BSD-Equivalent	|WICC4D UI|	Source Package BOOST|	NA
+libboost-graph-dev |	Boost	|WICC4D|	part of boost|	NA
+libboost-graph-parallel1.54.0 |	Boost	|WICC4D|	part of boost|	NA
+libboost-graph-parallel1.54-dev |	Boost	|WICC4D|	part of boost|	NA
+libboost-graph-parallel1.55.0 |	Boost, GPL-2.0, Public Domain, BSD-Equivalent	|WICC4D UI|	Source Package BOOST|	NA
+libboost-graph-parallel1.55-dev |	Boost, GPL-2.0, Public Domain, BSD-Equivalent	|WICC4D UI|	Source Package BOOST|	NA
+libboost-graph-parallel-dev |	Boost	|WICC4D|	part of boost|	NA
+libboost-iostreams1.54.0 |	Boost	|WICC4D|	part of boost|	NA
+libboost-iostreams1.54-dev |	Boost	|WICC4D|	part of boost|	NA
+libboost-iostreams1.55.0 |	Boost, GPL-2.0, Public Domain, BSD-Equivalent	|WICC4D UI|	Source Package BOOST|	NA
+libboost-iostreams1.55-dev |	Boost, GPL-2.0, Public Domain, BSD-Equivalent	|WICC4D UI|	Source Package BOOST|	NA
+libboost-iostreams-dev |	Boost	|WICC4D|	part of boost|	NA
+libboost-locale1.54.0 |	Boost	|WICC4D|	part of boost|	NA
+libboost-locale1.54-dev |	Boost	|WICC4D|	part of boost|	NA
+libboost-locale1.55.0 |	Boost, GPL-2.0, Public Domain, BSD-Equivalent	|WICC4D UI|	Source Package BOOST|	NA
+libboost-locale1.55-dev |	Boost, GPL-2.0, Public Domain, BSD-Equivalent	|WICC4D UI|	Source Package BOOST|	NA
+libboost-locale-dev |	Boost	|WICC4D|	part of boost|	NA
+libboost-log1.54.0 |	Boost	|WICC4D|	part of boost|	NA
+libboost-log1.54-dev |	Boost	|WICC4D|	part of boost|	NA
+libboost-log1.55.0 |	Boost, GPL-2.0, Public Domain, BSD-Equivalent	|WICC4D UI|	Source Package BOOST|	NA
+libboost-log1.55-dev |	Boost, GPL-2.0, Public Domain, BSD-Equivalent	|WICC4D UI|	Source Package BOOST|	NA
+libboost-log-dev |	Boost	|WICC4D|	part of boost|	NA
+libboost-math1.54.0 |	Boost	|WICC4D|	part of boost|	NA
+libboost-math1.54-dev |	Boost	|WICC4D|	part of boost|	NA
+libboost-math1.55.0 |	Boost, GPL-2.0, Public Domain, BSD-Equivalent	|WICC4D UI|	Source Package BOOST|	NA
+libboost-math1.55-dev |	Boost, GPL-2.0, Public Domain, BSD-Equivalent	|WICC4D UI|	Source Package BOOST|	NA
+libboost-math-dev |	Boost	|WICC4D|	part of boost|	NA
+libboost-mpi1.54.0 |	Boost	|WICC4D|	part of boost|	NA
+libboost-mpi1.54-dev |	Boost	|WICC4D|	part of boost|	NA
+libboost-mpi1.55.0 |	Boost, GPL-2.0, Public Domain, BSD-Equivalent	|WICC4D UI|	Source Package BOOST|	NA
+libboost-mpi1.55-dev |	Boost, GPL-2.0, Public Domain, BSD-Equivalent	|WICC4D UI|	Source Package BOOST|	NA
+libboost-mpi-dev |	Boost	|WICC4D|	part of boost|	NA
+libboost-mpi-python1.54.0 |	Boost	|WICC4D|	part of boost|	NA
+libboost-mpi-python1.54-dev |	Boost	|WICC4D|	part of boost|	NA
+libboost-mpi-python1.55.0 |	Boost, GPL-2.0, Public Domain, BSD-Equivalent	|WICC4D UI|	Source Package BOOST|	NA
+libboost-mpi-python1.55-dev |	Boost, GPL-2.0, Public Domain, BSD-Equivalent	|WICC4D UI|	Source Package BOOST|	NA
+libboost-mpi-python-dev |	Boost	|WICC4D|	part of boost|	NA
+libboost-program-options1.54.0 |	Boost	|WICC4D|	part of boost|	NA
+libboost-program-options1.54-dev |	Boost	|WICC4D|	part of boost|	NA
+libboost-program-options1.55.0 |	Boost, GPL-2.0, Public Domain, BSD-Equivalent	|WICC4D UI|	Source Package BOOST|	NA
+libboost-program-options1.55-dev |	Boost, GPL-2.0, Public Domain, BSD-Equivalent	|WICC4D UI|	Source Package BOOST|	NA
+libboost-program-options1.58.0 |	Boost 	|WICC4D UI|	Source Package boost|	NA
+libboost-program-options-dev |	Boost	|WICC4D|	part of boost|	NA
+libboost-python1.54.0 |	Boost	|WICC4D|	part of boost|	NA
+libboost-python1.54-dev |	Boost	|WICC4D|	part of boost|	NA
+libboost-python1.55.0 |	Boost, GPL-2.0, Public Domain, BSD-Equivalent	|WICC4D UI|	Source Package BOOST|	NA
+libboost-python1.55-dev |	Boost, GPL-2.0, Public Domain, BSD-Equivalent	|WICC4D UI|	Source Package BOOST|	NA
+libboost-python-dev |	Boost	|WICC4D|	part of boost|	NA
+libboost-random1.54.0 |	Boost	|WICC4D|	part of boost|	NA
+libboost-random1.54-dev |	Boost	|WICC4D|	part of boost|	NA
+libboost-random1.55.0 |	Boost, GPL-2.0, Public Domain, BSD-Equivalent	|WICC4D UI|	Source Package BOOST|	NA
+libboost-random1.55-dev |	Boost, GPL-2.0, Public Domain, BSD-Equivalent	|WICC4D UI|	Source Package BOOST|	NA
+libboost-random-dev |	Boost	|WICC4D|	part of boost|	NA
+libboost-regex1.54.0 |	Boost	|WICC4D|	part of boost|	NA
+libboost-regex1.54-dev |	Boost	|WICC4D|	part of boost|	NA
+libboost-regex1.55.0 |	Boost, GPL-2.0, Public Domain, BSD-Equivalent	|WICC4D UI|	Source Package BOOST|	NA
+libboost-regex1.55-dev |	Boost, GPL-2.0, Public Domain, BSD-Equivalent	|WICC4D UI|	Source Package BOOST|	NA
+libboost-regex-dev |	Boost	|WICC4D|	part of boost|	NA
+libboost-serialization1.54.0 |	Boost	|WICC4D|	part of boost|	NA
+libboost-serialization1.54-dev |	Boost	|WICC4D|	part of boost|	NA
+libboost-serialization1.55.0 |	Boost, GPL-2.0, Public Domain, BSD-Equivalent	|WICC4D UI|	Source Package BOOST|	NA
+libboost-serialization1.55-dev |	Boost, GPL-2.0, Public Domain, BSD-Equivalent	|WICC4D UI|	Source Package BOOST|	NA
+libboost-serialization-dev |	Boost	|WICC4D|	part of boost|	NA
+libboost-signals1.54.0 |	Boost	|WICC4D|	part of boost|	NA
+libboost-signals1.54-dev |	Boost	|WICC4D|	part of boost|	NA
+libboost-signals1.55.0 |	Boost, GPL-2.0, Public Domain, BSD-Equivalent	|WICC4D UI|	Source Package BOOST|	NA
+libboost-signals1.55-dev |	Boost, GPL-2.0, Public Domain, BSD-Equivalent	|WICC4D UI|	Source Package BOOST|	NA
+libboost-signals-dev |	Boost	|WICC4D|	part of boost|	NA
+libboost-system1.54.0 |	Boost	|WICC4D|	part of boost|	NA
+libboost-system1.54-dev |	Boost	|WICC4D|	part of boost|	NA
+libboost-system1.55.0 |	Boost, GPL-2.0, Public Domain, BSD-Equivalent	|WICC4D UI|	Source Package BOOST|	NA
+libboost-system1.55-dev |	Boost, GPL-2.0, Public Domain, BSD-Equivalent	|WICC4D UI|	Source Package BOOST|	NA
+libboost-system1.58.0 |	Boost	|WICC4D|	NA|	http://changelogs.ubuntu.com/changelogs/pool/main/b/boost1.58/boost1.58_1.58.0+dfsg-5ubuntu3/copyright
+libboost-system-dev |	Boost	|WICC4D|	part of boost|	NA
+libboost-test1.54.0 |	Boost	|WICC4D|	part of boost|	NA
+libboost-test1.54-dev |	Boost	|WICC4D|	part of boost|	NA
+libboost-test1.55.0 |	Boost, GPL-2.0, Public Domain, BSD-Equivalent	|WICC4D UI|	Source Package BOOST|	NA
+libboost-test1.55-dev |	Boost, GPL-2.0, Public Domain, BSD-Equivalent	|WICC4D UI|	Source Package BOOST|	NA
+libboost-test-dev |	Boost	|WICC4D|	part of boost|	NA
+libboost-thread1.54.0 |	Boost	|WICC4D|	part of boost|	NA
+libboost-thread1.54-dev |	Boost	|WICC4D|	part of boost|	NA
+libboost-thread1.55.0 |	Boost, GPL-2.0, Public Domain, BSD-Equivalent	|WICC4D UI|	Source Package BOOST|	NA
+libboost-thread1.55-dev |	Boost, GPL-2.0, Public Domain, BSD-Equivalent	|WICC4D UI|	Source Package BOOST|	NA
+libboost-thread1.58.0 |	Boost 	|WICC4D UI|	Source Package boost|	NA
+libboost-thread-dev |	Boost	|WICC4D|	part of boost|	NA
+libboost-timer1.54.0 |	Boost	|WICC4D|	part of boost|	NA
+libboost-timer1.54-dev |	Boost	|WICC4D|	part of boost|	NA
+libboost-timer1.55.0 |	Boost, GPL-2.0, Public Domain, BSD-Equivalent	|WICC4D UI|	Source Package BOOST|	NA
+libboost-timer1.55-dev |	Boost, GPL-2.0, Public Domain, BSD-Equivalent	|WICC4D UI|	Source Package BOOST|	NA
+libboost-timer-dev |	Boost	|WICC4D|	part of boost|	NA
+libboost-tools-dev |	Boost	|WICC4D|	part of boost|	NA
+libboost-wave1.54-dev |	Boost	|WICC4D|	part of boost|	NA
+libboost-wave1.55.0 |	Boost, GPL-2.0, Public Domain, BSD-Equivalent	|WICC4D UI|	Source Package BOOST|	NA
+libboost-wave1.55-dev |	Boost, GPL-2.0, Public Domain, BSD-Equivalent	|WICC4D UI|	Source Package BOOST|	NA
+libboost-wave-dev |	Boost	|WICC4D|	part of boost|	NA
+libbsd0 |	BSD-4-Clause	|WICC4D|	part of libbsd|	https://www.openhub.net/p/libbsd
+libbsd-dev |	BSD-4-Clause	|WICC4D|	part of libbsd|	NA
+libbsf-java |	Ms-PL, MS-PL	|ubuntu.com|	NA|	http://packages.ubuntu.com/xenial/all/libbsf-java/filelist
+libbsh-java |	LGPL-2.1	|ubuntu.com|	NA|	http://changelogs.ubuntu.com/changelogs/pool/universe/b/bsh/bsh_2.0b4-17ubuntu1/copyright
+libbytelist-java |	CPL-1.0 (Common public license) or GPL-2+ or LGPL-2.1+	|ubuntu.com|	NA|	http://packages.ubuntu.com/xenial/all/libbytelist-java/filelist
+libbz2 |	GPL-2+	|ubuntu.com|	NA|	http://changelogs.ubuntu.com/changelogs/pool/main/libj/libjpeg8-empty/libjpeg8-empty_8c-2ubuntu8/copyright
+libbz2-dev |	BSD-4-clause	|WICC4D|	part of bzip2|	NA
+libc6-dev |	GPL-2	|WICC4D|	part of glibc|	NA
+libcairo2 |	GPL-2	|WICC4D|	part of cairo|	NA
+libcairo2-dev |	GPL-2, LGPL-2	|WICC4D|	part of cairo|	NA
+libcairo-gobject2 |	GPL-2.0	|WICC4D|	Base package cairo on WICC4D|	NA
+libcairo-script-interpreter2 |	GPL-2, LGPL-2	|WICC4D|	part of cairo|	NA
+libcanberra0 |	LGPL-2.1+	|ubuntu.com|	NA|	http://changelogs.ubuntu.com/changelogs/pool/main/libc/libcanberra/libcanberra_0.30-2.1ubuntu1/copyright
+libcap-dev |	BSD-3-Clause	|openhub.net|	Source Package libcap|	https://www.openhub.net/p/libcap
+libcap-ng0 |	LGPL-2.1+, GPL-3	|ubuntu.com|	NA|	http://changelogs.ubuntu.com/changelogs/pool/main/libc/libcap-ng/libcap-ng_0.7.7-1/copyright
+libcc1-0 |	GPL-3+	|openhub.net|	Part of gcc-5 - GNU Compiler Collection|	https://www.openhub.net/p/gcc
+libc-dev-bin |	LGPL-2.1	|WICC4D|	libc6|	NA
+libcdi-api-java |	Apache-2.0	|ubuntu.com|	NA|	http://changelogs.ubuntu.com/changelogs/pool/universe/c/cdi-api/cdi-api_1.0-2/copyright
+libcdt5 |	EPL-1.0 ,MIT	|WICC4D|	part of graphviz|	NA
+libcfg6 |	BSD-4-Clause-UC	|ubuntu.com|	NA|	http://changelogs.ubuntu.com/changelogs/pool/main/c/corosync/corosync_2.3.5-3ubuntu1/copyright 
+libcglib3-java |	Apache-2.0, BSD-3-Clause	|ubuntu.com|	NA|	http://changelogs.ubuntu.com/changelogs/pool/universe/c/cglib3/cglib3_3.1+dfsg-1/copyright
+libcgraph6 |	EPL-1.0 ,MIT	|WICC4D|	part of graphviz|	NA
+libclassworlds-java |	BSD-4-Clause	|WICC4D|	Source package - Classworlds|	NA
+libcloog-isl4 |	LGPL-2.1	|source code|	http://www.cloog.org/|	http://www.bastoul.net/cloog/manual.php#License
+libcmap4 |	BSD-4-Clause-UC	|ubuntu.com|	NA|	http://changelogs.ubuntu.com/changelogs/pool/main/c/corosync/corosync_2.3.5-3ubuntu1/copyright 
+libcolord2 |	GPL-2.0+, LGPL-2.1+	|ubuntu.com|	Different files are licensed differently. For example: Files: lib/colord/* are under LGPL-2.1+ and so on|	http://changelogs.ubuntu.com/changelogs/pool/main/c/colord/colord_1.2.12-1ubuntu1/copyright
+libcolorhug2 |	GPL-2.0+, LGPL-2.1+	|ubuntu.com|	Different files are licensed differently. For example: Files: lib/colord/* are under LGPL-2.1+ and so on|	http://changelogs.ubuntu.com/changelogs/pool/main/c/colord/colord_1.2.12-1ubuntu1/copyright
+libcommons-cli-java |	Apache-2.0	|ubuntu.com|	NA|	http://changelogs.ubuntu.com/changelogs/pool/universe/libc/libcommons-cli-java/libcommons-cli-java_1.3.1-3ubuntu1/copyright
+libcommons-codec-java |	Apache-2.0	|ubuntu.com|	NA|	http://changelogs.ubuntu.com/changelogs/pool/universe/libc/libcommons-codec-java/libcommons-codec-java_1.10-1/copyright
+libcommons-dbcp-java |	Apache-2.0	|WICC4D|	Apache Commons DBCP on WICC4D|	NA
+libcommons-httpclient-java |	Apache 2.0	|ubuntu.com|	NA|	http://changelogs.ubuntu.com/changelogs/pool/universe/c/commons-httpclient/commons-httpclient_3.1-12/copyright
+libcommons-io-java |	Apache 2.0	|ubuntu.com|	NA|	http://changelogs.ubuntu.com/changelogs/pool/universe/c/commons-io/commons-io_2.4-2/copyright
+libcommons-lang3-java |	Apache-2.0	|ubuntu.com|	NA|	http://changelogs.ubuntu.com/changelogs/pool/universe/libc/libcommons-lang3-java/libcommons-lang3-java_3.4-1/copyright
+libcommons-lang-java |	Apache-2.0	|ubuntu.com|	NA|	http://changelogs.ubuntu.com/changelogs/pool/universe/libc/libcommons-lang-java/libcommons-lang-java_2.6-6ubuntu2/copyright
+libcommons-logging-java |	Apache-2.0	|ubuntu.com|	NA|	http://changelogs.ubuntu.com/changelogs/pool/universe/libc/libcommons-logging-java/libcommons-logging-java_1.2-1+build1/copyright
+libcommons-net2-java |	Apache-2.0	|ubuntu.com|	NA|	http://changelogs.ubuntu.com/changelogs/pool/universe/libc/libcommons-net2-java/libcommons-net2-java_2.2-2/copyright
+libcommons-net-java |	Apache-2.0	|ubuntu.com|	NA|	http://changelogs.ubuntu.com/changelogs/pool/universe/libc/libcommons-net-java/libcommons-net-java_3.4-2ubuntu2/copyright
+libcommons-parent-java |	Apache-2.0	|ubuntu.com|	NA|	http://changelogs.ubuntu.com/changelogs/pool/universe/c/commons-parent/commons-parent_39-3/copyright
+libcommons-pool-java |	Apache-2.0	|WICC4D|	Apache Commons Pool on WICC4D|	NA
+libcorosync-common4 |	BSD-4-Clause-UC	|ubuntu.com|	NA|	http://changelogs.ubuntu.com/changelogs/pool/main/c/corosync/corosync_2.3.5-3ubuntu1/copyright
+libcpg4 |	BSD-4-Clause-UC	|ubuntu.com|	NA|	http://changelogs.ubuntu.com/changelogs/pool/main/c/corosync/corosync_2.3.5-3ubuntu1/copyright
+libcroco3 |	LGPL	|ubuntu.com|	NA|	http://changelogs.ubuntu.com/changelogs/pool/main/libc/libcroco/libcroco_0.6.11-1/copyright
+libcups2 |	GPL-2+	|WICC4D|	part of cups|	NA
+libcupsfilters1 |	GPL-2+	|debian.org|	NA|	http://ftp-master.metadata.debian.org/changelogs//main/c/cups-filters/cups-filters_1.11.4-1_copyright
+libcupsimage2 |	GPL-2 with exceptions	|debian.org|	NA|	http://metadata.ftp-master.debian.org/changelogs//main/c/cups/cups_1.5.3-5+deb7u6_copyright
+libcurl3 |	MIT	|WICC4D|	part of curl|	NA
+libcurl3-dev |	MIT-Equivalent	|WICC4D|	Upstream-Name: curl|	NA
+libcurl3-gnutls |	MIT	|WICC4D|	part of curl|	NA
+libcurl4-openssl-dev |	MIT	|WICC4D|	part of curl|	NA
+libdatrie1 |	LGPL-2.1+, GPL-2+	|ubuntu.com|	NA|	http://changelogs.ubuntu.com/changelogs/pool/main/libd/libdatrie/libdatrie_0.2.10-2/copyright
+libdbd-mysql-perl |	GPL-2.0	|WICC4D|	NA|	NA
+libdbi-perl |	LGPL-2.0	|WICC4D|	part of DBI|	NA
+libdbus-1-3 |	AFL	|WICC4D|	part of dbus|	NA
+libdbus-glib-1-2 |	AFL	|ubuntu.com|	part of dbus-glib|	NA
+libdconf1 |	LGPL-2+, GPL-3+	|ubuntu.com|	Different files are licensed differently. Example:Files: * are LGPL-2+,     Files: dbus-1/dconf-dbus-1.* are GPL-3+|	http://changelogs.ubuntu.com/changelogs/pool/main/d/d-conf/d-conf_0.24.0-2/copyright
+libdjvulibre21 |	GPL-3	|ubuntu.com|	NA|	NA
+libdjvulibre-dev |	 GPL-2.0	|debian.org|	NA|	http://metadata.ftp-master.debian.org/changelogs/main/d/djvulibre/djvulibre_3.5.27.1-7_copyright
+libdjvulibre-text |	 GPL-2.0	|ubuntu.com|	NA|	http://djvu.sourceforge.net/licensing.html
+libdns-export162 |	GPL-2.0+	|ubuntu.com|	NA|	http://changelogs.ubuntu.com/changelogs/pool/main/b/bind9/bind9_9.10.3.dfsg.P4-8ubuntu1.2/copyright
+libdom4j-java |	DOM4J	|ubuntu.com|	NA|	http://changelogs.ubuntu.com/changelogs/pool/universe/d/dom4j/dom4j_1.6.1+dfsg.3-2ubuntu1/copyright
+libdouble-conversion1v5 |	BSD-4-Clause	|WICC4D|	part of  double-conversion |	NA
+libdoxia-core-java |	GPL-2, Apache-2.0	|ubuntu.com|	NA|	http://changelogs.ubuntu.com/changelogs/pool/universe/d/doxia/doxia_1.1.4-3ubuntu1/copyright
+libdpkg-perl |	GPL-2+, GPL-2, BSD-2-clause, public-domain-s-s-d, public-domain-md5	|ubuntu.com|	Most of the source files are provided under GPL-2. However, some files are under other License. Example: Files: scripts/Dpkg/Gettext.pm have public-domain-s-s-d license Files: lib/compat/md5.* are under public-domain-md5|	http://changelogs.ubuntu.com/changelogs/pool/main/d/dpkg/dpkg_1.18.4ubuntu1/copyright
+libdrm2 |	MIT	|openhub.net|	NA|	https://www.openhub.net/p/libdrm
+libdrm-amdgpu |	MIT	|openhub.net|	llvm on openhub.net|	https://www.openhub.net/p?query=libdrm&sort=relevance
+libdrm-amdgpu1 |	Open Source	|ubuntu.com|	No clear-cut licensing information|	http://changelogs.ubuntu.com/changelogs/pool/main/libd/libdrm/libdrm_2.4.67-1/copyright
+libdrm-dev |	Open Source	|ubuntu.com|	No clear-cut licensing information|	http://changelogs.ubuntu.com/changelogs/pool/main/libd/libdrm/libdrm_2.4.67-1/copyright
+libdrm-nouveau2 |	MIT	|openhub.net|	NA|	https://www.openhub.net/p/libdrm
+libdrm-radeon1 |	MIT	|openhub.net|	NA|	https://www.openhub.net/p/libdrm
+libeasymock-java |	Apache-2.0	|ubuntu.com|	NA|	http://changelogs.ubuntu.com/changelogs/pool/universe/e/easymock/easymock_3.3.1+ds-3/copyright
+libecj-java |	EPL-1.0	|WICC4D|	part of ecj|	NA
+libeclipse-aether-java |	EPL-1.0, Apache-2.0	|ubuntu.com|	NA|	http://changelogs.ubuntu.com/changelogs/pool/universe/e/eclipse-aether/eclipse-aether_1.0.2-1/copyright
+libedit2 |	BSD-3-clause	|WICC4D|	part of libedit|	NA
+libegl1-mesa |	MIT	|WICC4D|	Source package mesa on WICC4D|	http://changelogs.ubuntu.com/changelogs/pool/main/m/mesa/mesa_11.2.0-1ubuntu2/copyright
+libelasticsearch1.7-java |	Apache-2.0	|ubuntu.com|	NA|	http://changelogs.ubuntu.com/changelogs/pool/universe/e/elasticsearch/elasticsearch_1.7.3+dfsg-3/copyright
+libelf1 |	GPL-2.0+, GPL-3.0+, LGPL-3.0+	|openhub.net|	NA|	https://www.openhub.net/p/elfutils
+libelf1  |	GPL-2.0+	|ubuntu.com|	NA|	http://changelogs.ubuntu.com/changelogs/pool/main/e/elfutils/elfutils_0.165-3ubuntu1/copyright
+libelfg0 |	LGPL-2	|ubuntu.com|	NA|	http://changelogs.ubuntu.com/changelogs/pool/main/libe/libelf/libelf_0.8.13-5/copyright
+libencode-locale-perl |	Artistic or GPL-1	|ubuntu.com|	NA|	http://changelogs.ubuntu.com/changelogs/pool/main/libe/libencode-locale-perl/libencode-locale-perl_1.05-1/copyright
+libepoxy0 |	Expat	|ubuntu.com|	NA|	http://changelogs.ubuntu.com/changelogs/pool/main/libe/libepoxy/libepoxy_1.3.1-1/copyright
+liberror-perl |	Artistic-1 and GPL-1+	|ubuntu.com|	NA|	http://changelogs.ubuntu.com/changelogs/pool/main/libe/liberror-perl/liberror-perl_0.17-1.2/copyright
+libevdev2 |	X11,GPL-2+	|ubuntu.com|	NA|	http://changelogs.ubuntu.com/changelogs/pool/main/libe/libevdev/libevdev_1.4.6+dfsg-1/copyright
+libexif12 |	LGPL-2.1, GPL	|ubuntu.com|	Different files are licensed differently. Example: Files: * are under LGPL-2.1 while Files: debian/* are under GPL|	http://changelogs.ubuntu.com/changelogs/pool/main/libe/libexif/libexif_0.6.21-2/copyright
+libexif-dev |	 LGPL-2.1+, BSD-2-Clause	|debian.org|	NA|	http://metadata.ftp-master.debian.org/changelogs/main/libe/libexif/libexif_0.6.21-2_copyright
+libexpat1 |	MITÂ 	|WICC4D|	part of expat |	NA
+libexpat1-dev |	MIT	|WICC4D|	part of expat|	NA
+libexpat1-dev  |	MIT-Equivalent	|WICC4D|	Source Package expat|	NA
+libfakeroot |	GPL-3+	|ubuntu.com|	part of fakeroot|	http://changelogs.ubuntu.com/changelogs/pool/main/f/fakeroot/fakeroot_1.20.2-1ubuntu1/copyright
+libffi6 |	MIT	|WICC4D|	Source package - libffi|	NA
+libffi6  |	MITÂ 	|WICC4D|	part of libffi |	NA
+libffi-dev |	MIT	|WICC4D|	NA|	NA
+libfftw3-double3 |	 GPL-2+	|ubuntu.com|	NA|	http://changelogs.ubuntu.com/changelogs/pool/main/f/fftw3/fftw3_3.3.4-2ubuntu1/copyright
+libfile-fcntllock-perl |	GPL-1+	|ubuntu.com|	NA|	http://changelogs.ubuntu.com/changelogs/pool/main/libf/libfile-fcntllock-perl/libfile-fcntllock-perl_0.22-3/copyright
+libfile-listing-perl |	Artistic or GPL-1	|ubuntu.com|	NA|	http://changelogs.ubuntu.com/changelogs/pool/main/libf/libfile-listing-perl/libfile-listing-perl_6.04-1/copyright
+libfile-mimeinfo-perl |	Artistic or GPL-1	|ubuntu.com|	NA|	http://changelogs.ubuntu.com/changelogs/pool/main/libf/libfile-mimeinfo-perl/libfile-mimeinfo-perl_0.27-1/copyright
+libflac8 |	BSD-3-Clause, GPL-2.0+	|openhub.net|	NA|	https://www.openhub.net/p/flac
+libfont-afm-perl |	Artistic or GPL-1	|ubuntu.com|	NA|	http://changelogs.ubuntu.com/changelogs/pool/main/libf/libfont-afm-perl/libfont-afm-perl_1.20-1/copyright
+libfontconfig1 |	Webware Python	|WICC4D|	part of fontconfig|	NA
+libfontconfig1-dev |	Webware Python	|WICC4D|	part of fontconfig|	NA
+libfontenc1 |	MIT	|WICC4D|	part of fontconfig|	NA
+libfreetype6 |	Freetype	|WICC4D|	part of freetype|	NA
+libfreetype6-dev |	Freetype	|WICC4D|	part of freetype|	NA
+libgbm1 |	MIT	|WICC4D|	Source package mesa on WICC4D|	NA
+libgcc-4.8-dev |	GPL-3	|WICC4D|	part of gcc|	NA
+libgcc-5-dev |	GPL-3+	|openhub.net|	Part of gcc-5 - GNU Compiler Collection|	https://www.openhub.net/p/gcc
+libgconf2-4 |	LGPL-2+	|ubuntu.com|	NA|	http://changelogs.ubuntu.com/changelogs/pool/main/g/gconf/gconf_3.2.6-3ubuntu6/copyright
+libgconf-2-4 |	LGPL-2+	|ubuntu.com|	NA|	http://changelogs.ubuntu.com/changelogs/pool/main/g/gconf/gconf_3.2.6-3ubuntu6/copyright
+libgcrypt11-dev |	GPL-2, LGPL-2	|source code|	part of libgrypt|	https://gnupg.org/documentation/manuals/gcrypt/
+libgd3 |	BSD-3-Clause	|WICC4D|	NA|	NA
+libgdbm3 |	GPL-3+	|openhub.net|	NA|	https://www.openhub.net/p/libgdbm
+libgdk-pixbuf2.0-0 |	GPL-2	|WICC4D|	part of gdk-pixbuf2|	NA
+libgdk-pixbuf2.0-common |	GPL-2	|WICC4D|	part of gdk-pixbuf3|	NA
+libgeoip1 |	LGPL-2.1, MIT-Equivalent	|WICC4D UI|	Source package geoip|	NA
+libgeoip-dev |	LGPL-2.1, MIT-Equivalent	|WICCD4 UI|	Source package geoip|	NA
+libgeronimo-interceptor-3.0-spec-java |	Apache-2.0	|ubuntu.com|	NA|	http://changelogs.ubuntu.com/changelogs/pool/universe/g/geronimo-interceptor-3.0-spec/geronimo-interceptor-3.0-spec_1.0.1-3fakesync1/copyright
+libgettextpo0 |	Ruby	|WICC4D|	part of gettext|	NA
+libgettextpo-dev |	Ruby	|WICC4D|	part of gettext|	NA
+libgflags2 |	BSD-Equivalent	|WICC4D UI|	NA|	NA
+libgflags-dev |	BSD-Equivalent	|WICC4D UI|	Source Package gflags|	NA
+libgfortran3 |	GPL-3	|WICC4D|	part of gcc|	NA
+libgfortran-4.8-dev |	GPL-3	|WICC4D|	part of gcc|	NA
+libghc-async-dev |	Open Source	|ubuntu.com|	NA|	http://changelogs.ubuntu.com/changelogs/pool/universe/h/haskell-async/haskell-async_2.0.2-4build1/copyright
+libghc-attoparsec-dev |	BSD, GPL-3	|ubuntu.com|	NA|	http://changelogs.ubuntu.com/changelogs/pool/universe/h/haskell-attoparsec/haskell-attoparsec_0.13.0.1-1build1/copyright
+libghc-case-insensitive-dev |	Open Source	|ubuntu.com|	NA|	http://changelogs.ubuntu.com/changelogs/pool/universe/h/haskell-case-insensitive/haskell-case-insensitive_1.2.0.5-1build1/copyright
+libghc-cgi-dev |	BSD	|ubuntu.com|	NA|	http://changelogs.ubuntu.com/changelogs/pool/universe/h/haskell-cgi/haskell-cgi_3001.2.2.2-3build1/copyright
+libghc-extensible-exceptions-dev |	GHC	|ubuntu.com|	NA|	http://changelogs.ubuntu.com/changelogs/pool/universe/h/haskell-extensible-exceptions/haskell-extensible-exceptions_0.1.1.4-6/copyright
+libghc-fgl-dev |	BSD	|ubuntu.com|	NA|	http://changelogs.ubuntu.com/changelogs/pool/universe/h/haskell-fgl/haskell-fgl_5.5.2.3-1/copyright
+libghc-gluraw-dev |	BSD-3-Clause	|ubuntu.com|	NA|	http://changelogs.ubuntu.com/changelogs/pool/universe/h/haskell-gluraw/haskell-gluraw_1.5.0.1-3/copyright
+libghc-glut-dev |	BSD-3-Clause	|ubuntu.com|	NA|	http://changelogs.ubuntu.com/changelogs/pool/universe/h/haskell-glut/haskell-glut_2.7.0.1-3build1/copyright
+libghc-hashable-dev |	Open Source	|ubuntu.com|	NA|	http://changelogs.ubuntu.com/changelogs/pool/universe/h/haskell-hashable/haskell-hashable_1.2.3.3-3build1/copyright
+libghc-haskell-src-dev |	BSD	|ubuntu.com|	NA|	http://changelogs.ubuntu.com/changelogs/pool/universe/h/haskell-haskell-src/haskell-haskell-src_1.0.2.0-4build1/copyright
+libghc-http-dev |	BSD-3-Clause	|ubuntu.com|	NA|	http://changelogs.ubuntu.com/changelogs/pool/universe/h/haskell-http/haskell-http_4000.2.23-1build1/copyright
+libghc-hunit-dev |	Open Source, GPL-2	|ubuntu.com|	NA|	http://changelogs.ubuntu.com/changelogs/pool/universe/h/haskell-hunit/haskell-hunit_1.3.0.0-1/copyright
+libghc-monadcatchio-mtl-dev |	BSD-3-Clause	|source code|	NA|	http://hackage.haskell.org/package/MonadCatchIO-mtl
+libghc-mtl-dev |	BSD	|ubuntu.com|	NA|	http://changelogs.ubuntu.com/changelogs/pool/universe/h/haskell-mtl/haskell-mtl_2.2.1-2/copyright
+libghc-network-dev |	BSD-3-Clause	|ubuntu.com|	NA|	http://changelogs.ubuntu.com/changelogs/pool/universe/h/haskell-network/haskell-network_2.6.2.1-3/copyright
+libghc-opengl-dev |	BSD	|ubuntu.com|	NA|	http://changelogs.ubuntu.com/changelogs/pool/universe/h/haskell-opengl/haskell-opengl_2.12.0.1-3build1/copyright
+libghc-openglraw-dev |	OpenGLRaw	|ubuntu.com|	NA|	http://changelogs.ubuntu.com/changelogs/pool/universe/h/haskell-openglraw/haskell-openglraw_2.4.1.0-5/copyright
+libghc-pandoc-citeproc-data |	BSD-3-Clause, CC-BY-SA-3, Expat	|ubuntu.com|	NA|	http://changelogs.ubuntu.com/changelogs/pool/universe/h/haskell-pandoc-citeproc/haskell-pandoc-citeproc_0.9-1/copyright
+libghc-parallel-dev |	BSD	|ubuntu.com|	NA|	http://changelogs.ubuntu.com/changelogs/pool/universe/h/haskell-parallel/haskell-parallel_3.2.1.0-1/copyright
+libghc-parsec3-dev |	BSD	|ubuntu.com|	NA|	http://changelogs.ubuntu.com/changelogs/pool/universe/h/haskell-parsec/haskell-parsec_3.1.9-4build1/copyright
+libghc-primitive-dev |	BSD-3-Clause	|ubuntu.com|	NA|	http://changelogs.ubuntu.com/changelogs/pool/universe/h/haskell-primitive/haskell-primitive_0.6.1.0-1/copyright
+libghc-quickcheck2-dev |	BSD	|ubuntu.com|	NA|	http://changelogs.ubuntu.com/changelogs/pool/universe/h/haskell-quickcheck/haskell-quickcheck_2.8.1-2/copyright
+libghc-random-dev |	BSD-style	|ubuntu.com|	NA|	http://changelogs.ubuntu.com/changelogs/pool/universe/h/haskell-random/haskell-random_1.1-3/copyright
+libghc-regex-base-dev |	BSD	|ubuntu.com|	NA|	http://changelogs.ubuntu.com/changelogs/pool/universe/h/haskell-regex-base/haskell-regex-base_0.93.2-8/copyright
+libghc-regex-compat-dev |	BSD	|ubuntu.com|	NA|	http://changelogs.ubuntu.com/changelogs/pool/universe/h/haskell-regex-compat/haskell-regex-compat_0.95.1-8/copyright
+libghc-regex-posix-dev |	BSD	|ubuntu.com|	NA|	http://changelogs.ubuntu.com/changelogs/pool/universe/h/haskell-regex-posix/haskell-regex-posix_0.95.2-7/copyright
+libghc-split-dev |	BSD	|ubuntu.com|	NA|	http://changelogs.ubuntu.com/changelogs/pool/universe/h/haskell-split/haskell-split_0.2.2-5/copyright
+libghc-stm-dev |	BSD	|ubuntu.com|	NA|	http://changelogs.ubuntu.com/changelogs/pool/universe/h/haskell-stm/haskell-stm_2.4.4.1-1/copyright
+libghc-syb-dev |	GHC	|ubuntu.com|	NA|	http://changelogs.ubuntu.com/changelogs/pool/universe/h/haskell-syb/haskell-syb_0.6-1/copyright
+libghc-text-dev |	BSD	|ubuntu.com|	NA|	http://changelogs.ubuntu.com/changelogs/pool/universe/h/haskell-text/haskell-text_1.2.2.0-1/copyright
+libghc-transformers-dev |	GHC	|ubuntu.com|	NA|	http://changelogs.ubuntu.com/changelogs/pool/universe/g/ghc/ghc_7.10.3-7/copyright
+libghc-unordered-containers-dev |	Open Source	|ubuntu.com|	NA|	http://changelogs.ubuntu.com/changelogs/pool/universe/h/haskell-unordered-containers/haskell-unordered-containers_0.2.5.1-4build1/copyright
+libghc-vector-dev |	BSD-3-Clause	|ubuntu.com|	NA|	http://changelogs.ubuntu.com/changelogs/pool/universe/h/haskell-vector/haskell-vector_0.11.0.0-1/copyright
+libghc-xhtml-dev |	GHC	|ubuntu.com|	NA|	http://changelogs.ubuntu.com/changelogs/pool/universe/g/ghc/ghc_7.10.3-7/copyright
+libghc-zlib-dev |	Open Source	|ubuntu.com|	NA|	http://changelogs.ubuntu.com/changelogs/pool/universe/h/haskell-zlib/haskell-zlib_0.6.1.1-1/copyright
+libgif7 |	MIT	|ubuntu.com|	NA|	http://changelogs.ubuntu.com/changelogs/pool/main/g/giflib/giflib_5.1.2-0.2/copyright
+libgirepository-1.0-1 |	GPL-2, LGPL-2+	|ubuntu.com|	part of gobject-introspection|	NA
+libgl1-mesa-dev |	MIT, Boost, GPL	|ubuntu.com|	NA|	http://changelogs.ubuntu.com/changelogs/pool/main/m/mesa/mesa_11.2.0-1ubuntu2/copyright
+libgl1-mesa-dri |	MIT	|WICC4D|	part of mesa|	NA
+libgl1-mesa-glx |	MIT	|WICC4D|	Source package mesa|	NA
+libglapi-mesa |	MIT	|WICC4D|	part of mesa|	NA
+libglib2.0-0 |	GPL-2/LGPL-2	|WICC4D|	part of glib|	NA
+libglib2.0-bin |	LGPL-2	|WICC4D|	part of glib2|	NA
+libglib2.0-data |	LGPL-2.0	|WICC4D|	part of glib2|	NA
+libglib2.0-dev |	LGPL-2	|WICC4D|	part of glib2|	NA
+libglu1-mesa |	SGI-2, SGI-1.1, LGPL-2, GPL-2.0+	|ubuntu.com|	Different files are licensed differently. Example: Files: include/GL/glu_mangle.h are LGPL-2, Files: src/libnurbs/internals/*.cc are SGI-1.1 etc.|	http://changelogs.ubuntu.com/changelogs/pool/main/libg/libglu/libglu_9.0.0-2.1/copyright
+libglu1-mesa-dev |	SGI-2, SGI-1.1, LGPL-2, GPL-2	|ubuntu.com|	NA|	http://changelogs.ubuntu.com/changelogs/pool/main/libg/libglu/libglu_9.0.0-2.1/copyright
+libgmp10 |	LGPL	|WICC4D|	Source package - gmp|	NA
+libgmp-dev |	LGPL	|WICC4D|	part of gmp|	NA
+libgmpxx4ldbl |	LGPL	|WICC4D|	part of gmp|	NA
+libgnome2-0 |	LGPL-2.1+	|openhub.net|	part of libgnome|	https://www.openhub.net/p/libgnome/licenses
+libgnome-2-0 |	LGPL-2.1+	|openhub.net|	part of libgnome|	https://www.openhub.net/p/libgnome/licenses
+libgnome2-bin |	LGPL-2.1+	|openhub.net|	part of libgnome|	https://www.openhub.net/p/libgnome/licenses
+libgnome2-common |	LGPL-2.1+	|openhub.net|	NA|	https://www.openhub.net/p/libgnome/licenses
+libgnomevfs2-0 |	LGPL-2.1+	|openhub.net|	part of libgnome|	https://www.openhub.net/p/libgnome/licenses
+libgnomevfs2-common |	LGPL-2.1+	|openhub.net|	part of libgnome|	https://www.openhub.net/p/libgnome/licenses
+libgnutls30 |	GPL-3.0, LGPL-2.1	|openhub.net|	Source package - gnutls|	https://www.openhub.net/p/gnutls
+libgnutls-dev |	LGPL-2	|source code|	part of gnutls|	http://www.gnutls.org/
+libgnutlsxx27 |	LGPL-2	|source code|	part of gnutls|	NA
+libgomp1 |	GPL-3+	|openhub.net|	Part of gcc-5 - GNU Compiler Collection|	https://www.openhub.net/p/gcc
+libgoogle-glog0 |	Apache-2.0	|WICC4D UI|	NA|	NA
+libgoogle-glog-dev |	Apache-2.0	|WICC4D UI|	Source Package Google-Glog|	NA
+libgoogle-perftools4 |	BSD-Equivalent	|WICC4D UI|	Source Package gperftools|	NA
+libgpars-groovy-java |	Apache-2.0	|ubuntu.com|	NA|	http://changelogs.ubuntu.com/changelogs/pool/universe/libg/libgpars-groovy-java/libgpars-groovy-java_1.2.1-5/copyright
+libgpg-error-dev |	LGPL-2.1	|WICC4D|	NA|	NA
+libgphoto2-6 |	GPL-2.0+, LGPL-2.1+	|openhub.net|	NA|	https://www.openhub.net/p/libgphoto/licenses
+libgphoto2-l10n |	GPL-2.0+, LGPL-2.1+	|openhub.net|	NA|	https://www.openhub.net/p/libgphoto/licenses
+libgphoto2-port12 |	GPL-2.0+, LGPL-2.1+	|openhub.net|	NA|	https://www.openhub.net/p/libgphoto/licenses
+libgraphite2 |	LGPL v2 or later	|ubuntu.com|	NA|	http://changelogs.ubuntu.com/changelogs/pool/main/h/harfbuzz/harfbuzz_1.0.1-1ubuntu0.1/copyright
+libgraphite2-3 |	Apache-2.0	|WICC4D|	part of graphite|	NA
+libgraphviz-dev |	EPL-1.0	|WICC4D|	part of graphviz|	NA
+libgs9 |	 GPL-2.0	|ubuntu.com|	NA|	http://changelogs.ubuntu.com/changelogs/pool/main/g/ghostscript/ghostscript_9.18~dfsg~0-0ubuntu2/copyright
+libgs9-common |	 GPL-2.0	|ubuntu.com|	NA|	http://changelogs.ubuntu.com/changelogs/pool/main/g/ghostscript/ghostscript_9.18~dfsg~0-0ubuntu2/copyright
+libgssapi3-heimdal |	BSD-3-clause	|WICC4D|	part of heimdal kerberos|	NA
+libgssapi3-heimdal  |	BSD-Equivalent	|WICC4D|	NA|	NA
+libgssapi-krb5-2 |	MIT	|WICC4D|	Source package - krb5|	NA
+libgssrpc4 |	BSD-4-clause	|WICC4D|	part of heimdal kerberos|	NA
+libgstreamer1.0-0 |	 LGPL-2+, GPL-2+	|ubuntu.com|	NA|	http://changelogs.ubuntu.com/changelogs/pool/main/g/gstreamer1.0/gstreamer1.0_1.8.0-1/copyright
+libgstreamer-plugins-base1.0-0 |	LGPL-2+,BSD-3-Clause	|ubuntu.com|	NA|	http://changelogs.ubuntu.com/changelogs/pool/main/g/gst-plugins-base1.0/gst-plugins-base1.0_1.8.2-1ubuntu0.2/copyright
+libgtk2.0-0 |	LGPL-2.1+	|openhub.net|	part of gtk+2.0|	https://www.openhub.net/p/gtk/licenses
+libgtk2.0-bin |	LGPL-2.1+	|openhub.net|	part of gtk+2.0|	https://www.openhub.net/p/gtk/licenses
+libgtk2.0-common |	LGPL-2.1+	|openhub.net|	NA|	https://www.openhub.net/p/gtk/licenses
+libgtk-3-0 |	LGPL-2.1+	|openhub.net|	NA|	https://www.openhub.net/p/gtk
+libgtk-3-bin |	LGPL-2.1+	|openhub.net|	NA|	https://www.openhub.net/p/gtk
+libgtk-3-common |	LGPL-2.1+	|openhub.net|	NA|	https://www.openhub.net/p/gtk
+libguava-java |	Apache-2.0	|ubuntu.com|	NA|	http://changelogs.ubuntu.com/changelogs/pool/universe/g/guava-libraries/guava-libraries_19.0-1/copyright
+libgudev-1.0-0 |	LGPL-2+	|ubuntu.com|	NA|	http://changelogs.ubuntu.com/changelogs/pool/main/libg/libgudev/libgudev_230-2/copyright
+libguice-java |	Apache-2.0	|ubuntu.com|	NA|	http://changelogs.ubuntu.com/changelogs/pool/universe/g/guice/guice_4.0-2/copyright
+libgusb2 |	LGPL-2.1+, GPL-2.0	|ubuntu.com|	Different files are licensed differently. Example: Files: tools/* are under GPL-2.0,     Files: debian/* are under LGPL-2.1|	http://changelogs.ubuntu.com/changelogs/pool/main/libg/libgusb/libgusb_0.2.9-0ubuntu1/copyright
+libgvc6 |	EPL-1.0 ,MIT	|WICC4D|	part of graphviz|	NA
+libgvpr2 |	EPL-1.0 ,MIT	|WICC4D|	part of graphviz|	NA
+libhamcrest-java |	BSD, GPL	|ubuntu.com|	NA|	http://changelogs.ubuntu.com/changelogs/pool/universe/libh/libhamcrest-java/libhamcrest-java_1.3-5ubuntu1/copyright
+libharfbuzz0b |	MITÂ 	|WICC4D|	part of HarfBuzz|	NA
+libharfbuzz-dev |	MIT	|WICC4D|	part of harfbuzz|	NA
+libharfbuzz-gobject0 |	MIT	|WICC4D|	part of harfbuzz|	NA
+libharfbuzz-icu0 |	MIT	|WICC4D|	part of harfbuzz|	NA
+libhawtjni-runtime-java |	Apache-2.0, BSD-3-clause, Eclipse Public License - v 1.0	|ubuntu.com|	NA|	http://changelogs.ubuntu.com/changelogs/pool/universe/h/hawtjni/hawtjni_1.10-1/copyright
+libhcrypto4-heimdal |	BSD-3-Clause	|WICC4D|	part of heimdal -  Heimdal Kerberos|	NA
+libhdf5-10 |	GPL-2.0	|WICC4D|	NA|	NA
+libhdf5-8 |	GPL V2, BSD-Equivalent	|WICC4D UI|	Source Package LIBHDF5|	NA
+libhdf5-cpp-11  |	GPL-2.0	|WICC4D|	NA|	NA
+libhdf5-cpp-8 |	GPL V2, BSD-Equivalent	|WICC4D UI|	Source Package LIBHDF5-CPP|	NA
+libhdf5-dev |	 BSD-Equivalent	|WICC4D UI|	Source Package LIBHDF5|	NA
+libhdf5-serial-dev |	GPL V2, BSD-Equivalent	|WICC4D UI|	Source Package LIBHDF5-SERIAL|	NA
+libheadius-options-java |	Apache-2.0	|ubuntu.com|	NA|	http://packages.ubuntu.com/xenial/all/libheadius-options-java/filelist
+libheimbase1-heimdal |	BSD-3-Clause	|WICC4D|	Source package heimdai -  Heimdal Kerberos|	NA
+libheimntlm0-heimdal |	BSD-3-Clause	|WICC4D|	Source package heimdai -  Heimdal Kerberos|	NA
+libhogweed4 |	LGPL-3, GPL-2, GPL-3	|WICC4D|	part of Nettle. This is a cryptographic library|	NA
+libhtml-format-perl |	Artistic or GPL-1	|ubuntu.com|	NA|	http://changelogs.ubuntu.com/changelogs/pool/main/libh/libhtml-format-perl/libhtml-format-perl_2.11-2/copyright
+libhtml-form-perl |	Artistic or GPL-1	|ubuntu.com|	NA|	http://changelogs.ubuntu.com/changelogs/pool/main/libh/libhtml-form-perl/libhtml-form-perl_6.03-1/copyright
+libhtml-parser-perl |	Artistic or GPL-1	|ubuntu.com|	NA|	http://changelogs.ubuntu.com/changelogs/pool/main/libh/libhtml-parser-perl/libhtml-parser-perl_3.72-1/copyright
+libhtml-tagset-perl |	Artistic or GPL-1	|ubuntu.com|	NA|	http://changelogs.ubuntu.com/changelogs/pool/main/libh/libhtml-tagset-perl/libhtml-tagset-perl_3.20-2/copyright
+libhtml-tree-perl |	Artistic or GPL-1	|ubuntu.com|	NA|	http://changelogs.ubuntu.com/changelogs/pool/main/libh/libhtml-tree-perl/libhtml-tree-perl_5.03-2/copyright
+libhttpclient-java |	Apache-2.0, MPL-2.0	|ubuntu.com|	NA|	http://changelogs.ubuntu.com/changelogs/pool/universe/h/httpcomponents-client/httpcomponents-client_4.5.1-1/copyright
+libhttp-cookies-perl |	Artistic or GPL-1	|ubuntu.com|	NA|	http://changelogs.ubuntu.com/changelogs/pool/main/libh/libhttp-cookies-perl/libhttp-cookies-perl_6.01-1/copyright
+libhttpcore-java |	Apache-2.0	|ubuntu.com|	NA|	http://changelogs.ubuntu.com/changelogs/pool/universe/h/httpcomponents-core/httpcomponents-core_4.4.4-1/copyright
+libhttp-daemon-perl |	Artistic or GPL-1	|ubuntu.com|	NA|	http://changelogs.ubuntu.com/changelogs/pool/main/libh/libhttp-daemon-perl/libhttp-daemon-perl_6.01-1/copyright
+libhttp-date-perl |	Artistic or GPL-1	|ubuntu.com|	NA|	http://changelogs.ubuntu.com/changelogs/pool/main/libh/libhttp-date-perl/libhttp-date-perl_6.02-1/copyright
+libhttp-message-perl |	Artistic or GPL-1	|ubuntu.com|	NA|	http://changelogs.ubuntu.com/changelogs/pool/main/libh/libhttp-message-perl/libhttp-message-perl_6.11-1/copyright
+libhttp-negotiate-perl |	Artistic or GPL-1	|ubuntu.com|	NA|	http://changelogs.ubuntu.com/changelogs/pool/main/libh/libhttp-negotiate-perl/libhttp-negotiate-perl_6.00-2/copyright
+libhwloc5 |	BSD-4-clause	|WICC4D|	part of hwloc|	NA
+libhwloc-dev |	BSD-4-clause	|WICC4D|	part of hwloc|	NA
+libhwloc-plugins |	BSD-4-clause	|WICC4D|	part of hwloc|	NA
+libhx509-5-heimdal |	BSD-3-Clause	|WICC4D|	part of heimdal -  Heimdal Kerberos|	NA
+libhyperic-sigar-java |	GPL-2.0+	|ubuntu.com|	NA|	http://changelogs.ubuntu.com/changelogs/pool/universe/h/hyperic-sigar/hyperic-sigar_1.6.4+dfsg-2.1/copyright
+libibverbs1 |	BSD-Equivalent	|WICC4D UI|	Source Package libibverbs|	NA
+libibverbs-dev |	BSD-4-clause	|WICC4D|	part of libibverbs|	NA
+libice6 |	MIT	|WICC4D|	part of libice|	NA
+libice-dev |	MIT	|WICC4D|	part of libice|	NA
+libicu52 |	Unicode	|WICC4D|	part of icu|	NA
+libicu55 |	Unicode	|WICC4D|	part of icu|	NA
+libicu-dev |	Unicode, MIT(for older versions)	|WICC4D|	part of icu|	NA
+libidn11 |	LGPL-2.1	|WICC4D|	part of libidn|	NA
+libidn11-dev |	LGPL-2.1	|WICC4D|	part of libidn|	NA
+libieee1284-3 |	GPL	|ubuntu.com|	NA|	http://changelogs.ubuntu.com/changelogs/pool/main/libi/libieee1284/libieee1284_0.2.11-12/copyright
+libijs-0.35 |	MIT	|source code|	NA|	https://blueprints.launchpad.net/ubuntu/+archive/primary/+files/ijs_0.35.orig.tar.gz
+libilmbase12 |	ilmbase,boost	|ubuntu.com|	NA|	http://metadata.ftp-master.debian.org/changelogs//main/i/ilmbase/ilmbase_2.2.0-11_copyright
+libilmbase-dev |	ilmbase	|debian.org|	part of ilmbase|	NA
+libinput10 |	MIT	|openhub.net|	part of libinput |	https://www.openhub.net/p/libinput/licenses
+libinvokebinder-java |	Apache-2.0	|ubuntu.com|	NA|	http://packages.ubuntu.com/xenial/all/libinvokebinder-java/filelist
+libio-html-perl |	Artistic or GPL-1	|ubuntu.com|	NA|	http://changelogs.ubuntu.com/changelogs/pool/main/libi/libio-html-perl/libio-html-perl_1.001-1/copyright
+libio-socket-inet6-perl |	Artistic or GPL-1	|ubuntu.com|	NA|	http://changelogs.ubuntu.com/changelogs/pool/main/libi/libio-socket-inet6-perl/libio-socket-inet6-perl_2.72-2/copyright
+libio-socket-ssl-perl |	Artistic or GPL-1	|ubuntu.com|	NA|	http://changelogs.ubuntu.com/changelogs/pool/main/libi/libio-socket-ssl-perl/libio-socket-ssl-perl_2.024-1/copyright
+libisc-export160 |	ISC	|ubuntu.com|	NA|	http://changelogs.ubuntu.com/changelogs/pool/main/b/bind9/bind9_9.10.3.dfsg.P4-8ubuntu1.2/copyright
+libisl10 |	MIT	|source code|	NA|	http://freecode.com/projects/isl
+libisl15 |	MIT, BSD-2-clause, LGPL-2.1+	|ubuntu.com|	Most of the source code is licensed under the MIT license. However, there are some exceptions. Example: Files: interface/python.* are licensed under BSD-2-Clause,     Files: isl_qsort.c and debian/* under LGPL-2.1+|	http://changelogs.ubuntu.com/changelogs/pool/main/i/isl/isl_0.16.1-1/copyright
+libitm1 |	GPL-3+	|openhub.net|	Part of gcc-5 - GNU Compiler Collection|	https://www.openhub.net/p/gcc
+libjansi-java |	Apache-2.0	|ubuntu.com|	NA|	http://packages.ubuntu.com/xenial/all/libjansi-java/filelist
+libjansi-native-java |	Apache-2.0	|ubuntu.com|	NA|	http://packages.ubuntu.com/xenial/all/libjansi-native-java/filelist
+libjasper-dev |	CDDL-1.0	|WICC4D|	part of jasper|	NA
+libjaxen-java |	BSD, W3C	|ubuntu.com|	NA|	http://changelogs.ubuntu.com/changelogs/pool/universe/libj/libjaxen-java/libjaxen-java_1.1.6-1ubuntu1/copyright
+libjaxp1.3-java |	GPL-2, Apache-2.0	|ubuntu.com|	NA|	NA
+libjbig0 |	GPL-2	|WICC4D|	part of jbigkit|	NA
+libjbig2dec0 |	 GPL-2.0	|ubuntu.com|	NA|	http://changelogs.ubuntu.com/changelogs/pool/main/j/jbig2dec/jbig2dec_0.12+20150918-1/copyright
+libjbig-dev |	 GPL-2.0	|WICC4D|	part of jbigkit|	NA
+libjcodings-java |	MIT	|ubuntu.com|	NA|	http://packages.ubuntu.com/xenial/all/libjcodings-java/filelist
+libjcommander-java |	Apache-2.0	|ubuntu.com|	NA|	http://changelogs.ubuntu.com/changelogs/pool/universe/j/jcommander/jcommander_1.48-1/copyright
+libjcsp-java |	 LGPL-2.1	|ubuntu.com|	NA|	http://changelogs.ubuntu.com/changelogs/pool/universe/j/jcsp/jcsp_1.1-rc4-2/copyright
+libjdom1-java |	BSD-4	|ubuntu.com|	NA|	http://changelogs.ubuntu.com/changelogs/pool/universe/libj/libjdom1-java/libjdom1-java_1.1.3-1/copyright
+libjemalloc1 |	GPL-2.0	|WICC4D UI|	NA|	NA
+libjetty-java |	Apache-2.0/EPL-1.0	|WICC4D|	Source package jetty - different versions are under different licenses i.e. either Apache-2.0 or EPL-1.0|	NA
+libjffi-java |	LGPL	|ubuntu.com|	NA|	http://packages.ubuntu.com/xenial/all/libjffi-java/filelist
+libjffi-jni |	LGPL	|ubuntu.com|	NA|	http://packages.ubuntu.com/xenial/ppc64el/libjffi-jni/filelist
+libjline2-java |	BSD-3-Clause	|ubuntu.com|	NA|	http://changelogs.ubuntu.com/changelogs/pool/universe/j/jline2/jline2_2.11-4/copyright
+libjna-java |	Apache-2.0, LGPL	|ubuntu.com|	NA|	http://changelogs.ubuntu.com/changelogs/pool/universe/libj/libjna-java/libjna-java_4.2.2-1/copyright
+libjna-jni |	Apache-2.0, LGPL	|ubuntu.com|	NA|	http://changelogs.ubuntu.com/changelogs/pool/universe/libj/libjna-java/libjna-java_4.2.2-1/copyright
+libjnr-constants-java |	Apache-2.0	|ubuntu.com|	NA|	http://packages.ubuntu.com/xenial/all/libjnr-constants-java/filelist
+libjnr-enxio-java |	Apache-2.0	|ubuntu.com|	NA|	http://packages.ubuntu.com/xenial/all/libjnr-enxio-java/filelist
+libjnr-ffi-java |	GPL-3, Apache-2.0	|ubuntu.com|	NA|	http://packages.ubuntu.com/xenial/all/libjnr-ffi-java/filelist
+libjnr-netdb-java |	Apache-2.0	|ubuntu.com|	NA|	http://packages.ubuntu.com/xenial/all/libjnr-netdb-java/filelist
+libjnr-posix-java |	Common Public License - v 1.0	|ubuntu.com|	NA|	http://packages.ubuntu.com/xenial/all/libjnr-posix-java/filelist
+libjnr-unixsocket-java |	Apache-2.0	|ubuntu.com|	NA|	http://packages.ubuntu.com/xenial/all/libjnr-unixsocket-java/filelist
+libjnr-x86asm-java |	LGPL-3 or MIT/X11	|ubuntu.com|	NA|	http://packages.ubuntu.com/xenial/all/libjnr-x86asm-java/filelist
+libjoda-convert-java |	Apache-2.0	|ubuntu.com|	NA|	http://packages.ubuntu.com/xenial/all/libjoda-convert-java/filelist
+libjoda-time-java |	Apache-2.0	|ubuntu.com|	NA|	http://packages.ubuntu.com/xenial/all/libjoda-time-java/filelist
+libjpeg62-turbo |	Independent JPEG	|WICC4D|	part of Libjpeg|	NA
+libjpeg62-turbo-dev |	Independent JPEG	|WICC4D|	part of Libjpeg|	NA
+libjpeg8 |	Independent JPEG	|WICC4D|	part of libjpeg|	NA
+libjpeg8-dev |	Independent JPEG	|WICC4D|	part of libjpeg|	NA
+libjpeg-dev |	Independent JPEG	|WICC4D|	part of libjpeg|	NA
+libjpeg-turbo8 |	Independent JPEG	|WICC4D|	part of libjpeg|	NA
+libjpeg-turbo8-dev |	Independent JPEG	|WICC4D|	part of libjpeg|	NA
+libjruby-joni-java |	CPL-1.0, GPL-2.0+, LGPL	|ubuntu.com|	NA|	http://packages.ubuntu.com/xenial/all/libjruby-joni-java/filelist
+libjsch-java |	BSD-3-clause	|ubuntu.com|	NA|	http://changelogs.ubuntu.com/changelogs/pool/universe/j/jsch/jsch_0.1.53-1ubuntu1/copyright
+libjs-excanvas |	Apache-2.0	|WICC4D|	part of explorercanvas|	NA
+libjs-inherits |	ISC	|ubuntu.com|	NA|	http://packages.ubuntu.com/xenial/all/libjs-inherits/filelist
+libjs-jquery |	MIT	|WICC4D|	part of jquery|	NA
+libjs-node-uuid |	Expat, GPL, GPL-3+, MIT	|ubuntu.com|	NA|	http://packages.ubuntu.com/xenial/all/libjs-node-uuid/filelist
+libjson-c2 |	MIT	|WICC4D|	part of json-c|	NA
+libjson-glib-1.0-0 |	LGPL-2.1+	|ubuntu.com|	NA|	http://changelogs.ubuntu.com/changelogs/pool/main/j/json-glib/json-glib_1.1.2-0ubuntu1/copyright
+libjson-glib-1.0-common |	LGPL-2.1+	|ubuntu.com|	NA|	http://changelogs.ubuntu.com/changelogs/pool/main/j/json-glib/json-glib_1.1.2-0ubuntu1/copyright
+libjsoup-java |	MIT	|WICC4D|	Source package - jsoup|	NA
+libjsr166y-java |	GPL-2	|ubuntu.com|	NA|	http://changelogs.ubuntu.com/changelogs/pool/universe/libj/libjsr166y-java/libjsr166y-java_1.7.0-2/copyright
+libjs-sphinxdoc |	LGPL-2.1, BSD-4-Clause	|WICC4D|	part of sphinx|	NA
+libjs-underscore |	MIT	|WICC4D|	part of Underscore|	NA
+libjts-java |	LGPL-2.1+	|ubuntu.com|	NA|	http://changelogs.ubuntu.com/changelogs/pool/universe/j/jts/jts_1.13+ds-1/copyright
+libjzlib-java |	BSD-3-Clause	|ubuntu.com|	NA|	http://packages.ubuntu.com/xenial/all/libjzlib-java/filelist
+libk5crypto3 |	MIT	|WICC4D|	part of krb5|	NA
+libkadm5clnt-mit9 |	MIT	|WICC4D|	part of kerberos|	NA
+libkdb5-7 |	MIT	|WICC4D|	part of kerberos|	NA
+libkeyutils1 |	LGPL-2.0	|WICC4D|	Source package - keyutils|	NA
+libklibc |	BSD-3-Clause, GPL-2+	|openhub.net|	Source package - klibc|	https://www.openhub.net/p/klibc
+libkrb5-26-heimdal |	BSD-3-clause	|WICC4D|	part of heimdal -  Heimdal Kerberos|	NA
+libkrb5-3 |	MIT	|WICC4D|	Source package - krb5|	NA
+libkrb5-dev |	MIT	|WICC4D|	part of kerberos|	NA
+libkrb5support0 |	MIT	|WICC4D|	part of krb5|	NA
+liblapack3 |	BSD-4-clause	|WICC4D|	part of lapack|	NA
+liblapack-dev |	BSD-4-clause	|WICC4D|	part of lapack|	NA
+liblcms2-2 |	MIT,GPL-2+	|ubuntu.com|	NA|	http://changelogs.ubuntu.com/changelogs/pool/main/l/lcms2/lcms2_2.6-3ubuntu2/copyright
+libldap |	Custom	|WICC4D|	NA|	NA
+libldap-2.4-2 |	BSD-3-Clause	|WICC4D|	part of openldap|	NA
+libldap2-dev |	BSD-3	|WICC4D|	part of openldap|	NA
+libllvm3.8 |	NCSA	|openhub.net|	NA|	https://www.openhub.net/p/clang
+libllvm4.0 |	BSD-4-Clause, Apache-2.0	|WICC4D|	llvm on WICC4D|	NA
+liblmdb0 |	OpenLDAP-2.8	|debian.org|	Source Package LIBLMDB|	http://metadata.ftp-master.debian.org/changelogs/main/l/lmdb/lmdb_0.9.21-1_copyright
+liblmdb-dev |	OpenLDAP-2.8	|debian.org|	Source Package LIBLMDB|	http://metadata.ftp-master.debian.org/changelogs/main/l/lmdb/lmdb_0.9.21-1_copyright
+liblog4j1.2-java |	Apache-2.0	|ubuntu.com|	NA|	http://changelogs.ubuntu.com/changelogs/pool/universe/a/apache-log4j1.2/apache-log4j1.2_1.2.17-7ubuntu1/copyright
+liblog4j-extras1.2-java |	Apache license v2.0	|ubuntu.com|	NA|	http://changelogs.ubuntu.com/changelogs/pool/universe/a/apache-log4j-extras1.2/apache-log4j-extras1.2_1.2.17-1/copyright
+liblqr-1-0 |	GPL-3	|ubuntu.com|	NA|	https://github.com/carlobaldassi/liblqr/blob/master/COPYING
+libltdl7 |	GPL-2	|WICC4D|	part of libtool|	NA
+libltdl-dev |	GPL-2.0	|WICC4D|	Source package - libtool|	NA
+liblua5.1-0 |	MIT	|WICC4D|	part of lua|	NA
+liblucene4.10-java |	Apache-2.0, BSD-3-clause, BSD, Egothor	|ubuntu.com|	NA|	http://changelogs.ubuntu.com/changelogs/pool/universe/l/lucene4.10/lucene4.10_4.10.4+dfsg-1/copyright
+liblwp-mediatypes-perl |	Artistic or GPL-1	|ubuntu.com|	NA|	http://changelogs.ubuntu.com/changelogs/pool/main/libl/liblwp-mediatypes-perl/liblwp-mediatypes-perl_6.02-1/copyright
+liblwp-protocol-https-perl |	Artistic or GPL-1	|ubuntu.com|	NA|	http://changelogs.ubuntu.com/changelogs/pool/main/libl/liblwp-protocol-https-perl/liblwp-protocol-https-perl_6.06-2/copyright
+liblzma5 |	Public domain, LGPL v2.1 or later, Autoconf	|ubuntu.com|	NA|	Refer "libtk8.6" section
+liblzma-dev |	Public domain, LGPL v2.1 or later, Autoconf	|ubuntu.com|	NA|	Refer "libtiff5" section
+liblzo2-2 |	GPL-2	|ubuntu.com|	NA|	http://changelogs.ubuntu.com/changelogs/pool/main/l/lzo2/lzo2_2.08-1.2/copyright
+libmagic1 |	BSD-4-Clause	|WICC4D|	part of file|	NA
+libmagickcore-6.q16-2 |	Apache-2.0	|ubuntu.com|	NA|	http://changelogs.ubuntu.com/changelogs/pool/main/i/imagemagick/imagemagick_6.8.9.9-7ubuntu5.1/copyright
+libmagickcore-6.q16-2-extra |	Apache-2.0	|ubuntu.com|	NA|	http://changelogs.ubuntu.com/changelogs/pool/main/i/imagemagick/imagemagick_6.8.9.9-7ubuntu5.1/copyright
+libmagickcore-6-arch-config |	Apache-2.0	|WICC4D|	part of imagemagick|	NA
+libmagickcore-6-headers |	Apache-2.0	|WICC4D|	part of imagemagick|	NA
+libmagickwand-6.q16-2 |	Apache-2.0	|ubuntu.com|	NA|	http://changelogs.ubuntu.com/changelogs/pool/main/i/imagemagick/imagemagick_6.8.9.9-7ubuntu5.1/copyright
+libmagickwand-6-headers |	Apache-2.0	|WICC4D|	part of imagemagick|	NA
+libmail-sendmail-perl |	Free Software	|ubuntu.com|	NA|	http://changelogs.ubuntu.com/changelogs/pool/main/libm/libmail-sendmail-perl/libmail-sendmail-perl_0.79.16-1/copyright
+libmailtools-perl |	Artistic or GPL-1	|ubuntu.com|	NA|	http://changelogs.ubuntu.com/changelogs/pool/main/libm/libmailtools-perl/libmailtools-perl_2.13-1/copyright
+libmaven2-core-java |	Apache-2.0, GPL-3+	|ubuntu.com|	NA|	http://changelogs.ubuntu.com/changelogs/pool/universe/m/maven2-core/maven2-core_2.2.1-24/copyright
+libmaven3-core-java |	Apache-2.0, GPL-2	|ubuntu.com|	NA|	http://changelogs.ubuntu.com/changelogs/pool/universe/m/maven/maven_3.3.9-3/copyright
+libmaven-parent-java |	Apache-2.0	|ubuntu.com|	NA|	http://changelogs.ubuntu.com/changelogs/pool/universe/m/maven-parent/maven-parent_21-2/copyright
+libmcrypt4 |	LGPL-2.2	|WICC4D|	part of libmcrypt|	NA
+libmcrypt-dev |	LGPL-2.1	|WICC4D|	part of libmcrypt|	NA
+libmirclient9 |	GPL-3, BSD-3 clause, LGPL-3, Apache-2.0, GPL-2, BSD-2 clause	|ubuntu.com|	Different files are licensed differently. Example: Files: include/client/* include/common/* src/client/* src/common/* 3rd_party/android-deps/std/* are LGPL-3, Files: 3rd_party/android-deps/* 3rd_party/android-input/* are Apache 2.0 etc.|	http://changelogs.ubuntu.com/changelogs/pool/main/m/mir/mir_0.21.0+16.04.20160330-0ubuntu1/copyright
+libmircommon5 |	GPL-3, BSD-3 clause, LGPL-3, Apache-2.0, GPL-2, BSD-2 clause	|ubuntu.com|	Different files are licensed differently. Example: Files: include/client/* include/common/* src/client/* src/common/* 3rd_party/android-deps/std/* are LGPL-3, Files: 3rd_party/android-deps/* 3rd_party/android-input/* are Apache 2.0 etc.|	http://changelogs.ubuntu.com/changelogs/pool/main/m/mir/mir_0.21.0+16.04.20160330-0ubuntu1/copyright
+libmirprotobuf3 |	GPL-3, BSD-3 clause, LGPL-3, Apache-2.0, GPL-2, BSD-2 clause	|ubuntu.com|	Different files are licensed differently. Example: Files: include/client/* include/common/* src/client/* src/common/* 3rd_party/android-deps/std/* are LGPL-3, Files: 3rd_party/android-deps/* 3rd_party/android-input/* are Apache 2.0 etc.|	http://changelogs.ubuntu.com/changelogs/pool/main/m/mir/mir_0.21.0+16.04.20160330-0ubuntu1/copyright
+libmnl0 |	GPL-2+	|ubuntu.com|	NA|	http://changelogs.ubuntu.com/changelogs/pool/main/libm/libmnl/libmnl_1.0.3-5/copyright
+libmozjs185-1.0 |	MPL-1.1	|WICC4D|	Upstream name - Spidermonkey|	NA
+libmozjs185-dev |	MPL-1.1	|WICC4D|	Upstream name - Spidermonkey|	NA
+libmpc3 |	LGPL-2.1	|ubuntu.com|	NA|	http://changelogs.ubuntu.com/changelogs/pool/main/m/mpclib3/mpclib3_1.0.3-1/copyright
+libmpdec2 |	BSD, GPL-2+	|ubuntu.com|	NA|	http://changelogs.ubuntu.com/changelogs/pool/main/m/mpdecimal/mpdecimal_2.4.2-1/copyright
+libmpfr4 |	LGPL-3	|WICC4D|	part of mpfr|	NA
+libmtdev1 |	MIT	|ubuntu.com|	NA|	http://changelogs.ubuntu.com/changelogs/pool/main/m/mtdev/mtdev_1.1.5-1ubuntu2/copyright
+libmysqlclient18 |	MIT	|WICC4D|	part of libmysqlclient-dev|	NA
+libncurses5 |	X11 License	|ubuntu.com|	NA|	http://changelogs.ubuntu.com/changelogs/pool/main/u/unzip/unzip_6.0-20ubuntu1/copyright
+libncurses5-dev |	MIT	|WICC4D|	part of ncurses|	NA
+libnet-http-perl |	Artistic or GPL-1	|ubuntu.com|	NA|	http://changelogs.ubuntu.com/changelogs/pool/main/libn/libnet-http-perl/libnet-http-perl_6.09-1/copyright
+libnetpbm10 |	Artistic-2.0, GPL-2.0+, MIT	|ubuntu.com|	NA|	http://changelogs.ubuntu.com/changelogs/pool/main/n/netpbm-free/netpbm-free_10.0-15.3/copyright
+libnet-smtp-ssl-perl |	Artistic or GPL-1	|ubuntu.com|	NA|	http://changelogs.ubuntu.com/changelogs/pool/main/libn/libnet-smtp-ssl-perl/libnet-smtp-ssl-perl_1.03-1/copyright
+libnet-ssleay-perl |	Artistic or GPL-1	|ubuntu.com|	NA|	http://changelogs.ubuntu.com/changelogs/pool/main/libn/libnet-ssleay-perl/libnet-ssleay-perl_1.72-1build1/copyright
+libnettle4 |	LGPL-2	|ubuntu.com|	Crypto library|	http://changelogs.ubuntu.com/changelogs/pool/main/n/nettle/nettle_2.7.1-1ubuntu0.2/copyright
+libnettle6 |	LGPL-3, GPL-2, GPL-3	|WICC4D|	part of Nettle. This is a cryptographic library|	NA
+libnetty-3.9-java |	Apache-2.0	|ubuntu.com|	NA|	http://changelogs.ubuntu.com/changelogs/pool/universe/n/netty-3.9/netty-3.9_3.9.0.Final-1/copyright
+libnfnetlink0 |	GPL-2	|WICC4D|	Source package libnfnetlink|	NA
+libnl-genl-3-200 |	GPL-2	|WICC4D|	NA|	Part of: libnl3
+libnotify4 |	MIT	|WICC4D|	libnotify|	NA
+libnspr4 |	MPL-2.0	|ubuntu.com|	NA|	http://changelogs.ubuntu.com/changelogs/pool/main/n/nspr/nspr_4.12-0ubuntu0.16.04.1/copyright
+libnspr4-dev |	Mozilla Public License version 2.0	|ubuntu.com|	NA|	http://changelogs.ubuntu.com/changelogs/pool/main/n/nspr/nspr_4.12-0ubuntu0.16.04.1/copyright
+libnss3 |	MPL-2.0	|openhub.net|	nss on openhub.net|	https://www.openhub.net/p/nss
+libnss3-nssdb |	MPL-2.0	|openhub.net|	NA|	https://www.openhub.net/p/nss
+libnuma1 |	LGPL-2.2	|WICC4D UI|	Source Package libnuma|	NA
+libnuma-dev |	LGPL-2.1	|WICC4D UI|	Source Package libnuma|	NA
+libobjenesis-java |	Apache-2.0	|WICC4D|	Source package objenesis|	NA
+libodbc1 |	LGPL-2.0	|WICC4D|	Upstream-Name: unixODBC|	NA
+libogg0 |	BSD-3-Clause	|WICC4D|	 BSD-2-Clause or BSD-3-Clause or BSD-4-Clause as per WICC4d|	NA
+libopenexr22 |	BSD-3-Clause	|ubuntu.com|	NA|	http://changelogs.ubuntu.com/changelogs/pool/main/o/openexr/openexr_2.2.0-10ubuntu2/copyright
+libopenexr-dev |	BSD-3-Clause	|debian.org|	Interpreted License text using https://wild-online.w3ibm.mybluemix.net/|	NA
+libopenjpeg5 |	BSD Equivalent	|WICC4D|	Part of openjpeg|	NA
+libopenmpi1.6 |	BSD-4-clause	|WICC4D|	part of openmpi|	NA
+libopenmpi-dev |	BSD-4-clause	|WICC4D|	part of openmpi|	NA
+liborbit-2-0 |	Apache-2.0	|WICC4D|	part of orbit|	NA
+liborc-0.4-0 |	Apache-2.0	|WICC4D|	part of orc|	NA
+libosgi-annotation-java |	Apache-2.0	|ubuntu.com|	NA|	http://packages.ubuntu.com/xenial/all/libosgi-annotation-java/filelist
+libosgi-core-java |	Apache-2.0	|ubuntu.com|	NA|	http://packages.ubuntu.com/xenial/all/libosgi-core-java/filelist
+libp11-kit0 |	BSD-4-Clause	|WICC4D|	Source package p11-kit|	NA
+libp11-kit-dev |	BSD-4-clause	|WICC4D|	NA|	NA
+libpam0g-dev |	BSD-4-clause	|WICC4D|	part of pam|	NA
+libpam-systemd |	LGPL-2.1+, CC0, GPL-2, GPL-2+, Expat, public-domain, 	|ubuntu.com|	Different files are licensed differently. Example: Files: * LGPL-2.1+, Files: src/basic/siphash24.h are CC0 etc.|	http://changelogs.ubuntu.com/changelogs/pool/main/s/systemd/systemd_229-4ubuntu10/copyright
+libpango |	GPL-2	|ubuntu.com|	NA|	http://changelogs.ubuntu.com/changelogs/pool/main/p/pango1.0/pango1.0_1.38.1-1/copyright
+libpango-1.0-0 |	LGPL-2	|WICC4D|	part of pango |	NA
+libpango1.0-dev |	LGPL-2	|WICC4D|	part of pango|	NA
+libpangocairo |	GPL-2	|ubuntu.com|	NA|	NA
+libpangocairo-1.0-0 |	LGPL-2	|WICC4D|	part of pango |	NA
+libpangoft2 |	GPL-2	|ubuntu.com|	NA|	http://changelogs.ubuntu.com/changelogs/pool/main/p/pango1.0/pango1.0_1.38.1-1/copyright
+libpangoft2-1.0-0 |	LGPL-2	|WICC4D|	part of pango |	NA
+libpangoxft-1.0-0 |	LGPL-2	|WICC4D|	part of pango|	NA
+libpaper1 |	GPL-2	|WICC4D|	NA|	NA
+libpaper-utils |	GPL-2	|WICC4D|	part of libpaper|	NA
+libpathplan4 |	EPL-1.0 ,MIT	|WICC4D|	part of graphviz|	NA
+libpcap0.8 |	BSD-Equivalent	|WICC4D UI|	Source Package libcap|	NA
+libpci3 |	GPL-2	|WICC4D|	part of pciutils|	NA
+libpciaccess0 |	Custom, XFree86	|ubuntu.com|	No clear-cut licensing information|	http://changelogs.ubuntu.com/changelogs/pool/main/libp/libpciaccess/libpciaccess_0.13.4-1/copyright
+libpci-dev |	GPL-2	|WICC4D|	part of pciutils|	NA
+libpcre16-3 |	BSD	|ubuntu.com|	NA|	http://changelogs.ubuntu.com/changelogs/pool/main/p/pcre3/pcre3_8.38-3.1/copyright
+libpcre3 |	BSD	|ubuntu.com|	NA|	http://changelogs.ubuntu.com/changelogs/pool/main/p/pcre3/pcre3_8.38-3.1/copyright
+libpcre32-3 |	BSD-4-Clause	|WICC4D|	source package pcre|	NA
+libpcre3-dev |	BSD-4-clause	|WICC4D|	part of pcre|	NA
+libpcrecpp0 |	BSD-4-clause	|WICC4D|	part of pcre|	NA
+libpcrecpp0v5 |	BSD-Equivalent, PCRE , Google Inc	|ubuntu.com|	NA|	http://changelogs.ubuntu.com/changelogs/pool/main/p/pcre3/pcre3_8.38-3.1/copyright
+libpcsclite1 |	Apple Public Source License	|WICC4D|	part of pcsc-lite |	NA
+libperl5.22 |	Artistic-1.0	|WICC4D|	Source package perl|	NA
+libpipeline1 |	GPL-3	|ubuntu.com|	NA|	http://changelogs.ubuntu.com/changelogs/pool/main/libp/libpipeline/libpipeline_1.4.1-2/copyright
+libpixman |	MIT	|ubuntu.com|	NA|	http://changelogs.ubuntu.com/changelogs/pool/main/p/pixman/pixman_0.33.6-1/copyright
+libpixman-1-0 |	MIT	|WICC4D|	part of pixman |	NA
+libpixman-1-dev |	MIT	|WICC4D|	part of pixman|	NA
+libplexus-ant-factory-java |	Apache-2.0	|ubuntu.com|	NA|	http://changelogs.ubuntu.com/changelogs/pool/universe/p/plexus-ant-factory/plexus-ant-factory_1.0~alpha2.1-3/copyright
+libplexus-archiver-java |	MIT, Apache 2.0 	|ubuntu.com|	NA|	http://changelogs.ubuntu.com/changelogs/pool/universe/p/plexus-archiver/plexus-archiver_2.2-1/copyright
+libplexus-bsh-factory-java |	Apache-2.0	|ubuntu.com|	NA|	http://changelogs.ubuntu.com/changelogs/pool/universe/p/plexus-bsh-factory/plexus-bsh-factory_1.0~alpha7-3.1/copyright
+libplexus-cipher-java |	Apache-2.0	|ubuntu.com|	NA|	http://changelogs.ubuntu.com/changelogs/pool/universe/p/plexus-cipher/plexus-cipher_1.7-1/copyright
+libplexus-classworlds2-java |	Apache-2.0, Apache-1.1	|ubuntu.com|	NA|	http://changelogs.ubuntu.com/changelogs/pool/universe/p/plexus-classworlds2/plexus-classworlds2_2.5.2-1/copyright
+libplexus-classworlds-java |	GPL-2, Apache-2.0	|ubuntu.com|	NA|	http://changelogs.ubuntu.com/changelogs/pool/universe/p/plexus-classworlds/plexus-classworlds_1.5.0-5/copyright
+libplexus-cli-java |	Apache-2.0	|ubuntu.com|	NA|	http://changelogs.ubuntu.com/changelogs/pool/universe/p/plexus-cli/plexus-cli_1.2-5/copyright
+libplexus-component-annotations-java |	Apache-2.0, MIT	|ubuntu.com|	NA|	http://changelogs.ubuntu.com/changelogs/pool/universe/p/plexus-containers1.5/plexus-containers1.5_1.6-2/copyright
+libplexus-component-metadata-java |	Apache-2.0, MIT	|ubuntu.com|	NA|	http://changelogs.ubuntu.com/changelogs/pool/universe/p/plexus-containers1.5/plexus-containers1.5_1.6-2/copyright
+libplexus-container-default1.5-java |	Apache-2.0, MIT	|ubuntu.com|	NA|	http://changelogs.ubuntu.com/changelogs/pool/universe/p/plexus-containers1.5/plexus-containers1.5_1.6-2/copyright
+libplexus-container-default-java |	GPL-2, Apache-2.0	|ubuntu.com|	NA|	http://changelogs.ubuntu.com/changelogs/pool/universe/p/plexus-container-default/plexus-container-default_1.0-alpha-9-stable-1-7/copyright
+libplexus-containers1.5-java |	Apache-2.0, MIT	|ubuntu.com|	NA|	http://changelogs.ubuntu.com/changelogs/pool/universe/p/plexus-containers1.5/plexus-containers1.5_1.6-2/copyright
+libplexus-containers-java |	Apache-2.0, MIT	|ubuntu.com|	NA|	http://changelogs.ubuntu.com/changelogs/pool/universe/p/plexus-containers/plexus-containers_1.0~beta3.0.7-8/copyright
+libplexus-interactivity-api-java |	GPL-2, Apache-2.0	|ubuntu.com|	NA|	http://changelogs.ubuntu.com/changelogs/pool/universe/p/plexus-interactivity-api/plexus-interactivity-api_1.0-alpha-6-7/copyright
+libplexus-interpolation-java |	Apache-2.0	|ubuntu.com|	NA|	http://changelogs.ubuntu.com/changelogs/pool/universe/p/plexus-interpolation/plexus-interpolation_1.21-1/copyright
+libplexus-io-java |	Apache-2.0	|ubuntu.com|	NA|	http://changelogs.ubuntu.com/changelogs/pool/universe/p/plexus-io/plexus-io_1.0~alpha5-2/copyright
+libplexus-sec-dispatcher-java |	Apache-2.0	|ubuntu.com|	NA|	http://changelogs.ubuntu.com/changelogs/pool/universe/p/plexus-sec-dispatcher/plexus-sec-dispatcher_1.3.1-6/copyright
+libplexus-utils2-java |	Apache-2.0	|WICC4D|	Source package plexus-utils|	NA
+libplexus-utils-java |	Apache-2.0	|WICC4D|	Source package plexus-utils|	NA
+libpng12 |	GPL-2+	|ubuntu.com|	NA|	http://changelogs.ubuntu.com/changelogs/pool/main/libp/libpng/libpng_1.2.54-1ubuntu1/copyright
+libpng12-0 |	BSD-3-Clause	|WICC4D|	part of libpng - BSD-2-Clause or BSD-3-Clause or BSD-4-Clause as per WICC4d|	NA
+libpng12-dev |	BSD-4-clause	|WICC4D|	part of libpng|	NA
+libpolkit-agent-1-0 |	Apache-2.0, LGPL-2.0	|ubuntu.com|	Different files are licensed differently. For example Files: test/* are LGPL-2.0 while Files: test/mocklibc/src/ are Apache-2.0|	http://changelogs.ubuntu.com/changelogs/pool/main/p/policykit-1/policykit-1_0.105-14.1/copyright
+libpolkit-backend-1-0 |	Apache-2.0, LGPL-2.0	|ubuntu.com|	Different files are licensed differently. For example Files: test/* are LGPL-2.0 while Files: test/mocklibc/src/ are Apache-2.0|	http://changelogs.ubuntu.com/changelogs/pool/main/p/policykit-1/policykit-1_0.105-14.1/copyright
+libpolkit-gobject-1-0 |	Apache-2.0, LGPL-2.0	|ubuntu.com|	Different files are licensed differently. For example Files: test/* are LGPL-2.0 while Files: test/mocklibc/src/ are Apache-2.0|	http://changelogs.ubuntu.com/changelogs/pool/main/p/policykit-1/policykit-1_0.105-14.1/copyright
+libpopt0 |	MIT	|WICC4D|	part of popt |	NA
+libpq5 |	BSD-4-Clause	|WICC4D|	part of PostgreSQL|	NA
+libprotobuf9 |	BSD-Equivalent	|WICC4D UI|	NA|	NA
+libprotobuf-dev  |	BSD-Equivalent	|WICC4D UI|	source package libprotobuf|	NA
+libprotobuf-lite9 |	BSD-Equivalent	|WICC4D UI|	Source Package libprotobuf|	NA
+libprotobuf-lite9v5 |	BSD-3-Clause	|WICC4D|	NA|	NA
+libprotoc9 |	Apache-2.0	|WICC4D UI|	Source Package Protoc|	NA
+libproxy1v5 |	LGPL-2.1, GPL	|ubuntu.com|	Can be redistributed under LGPL-2.1, debian packaging is licensed under GPL|	http://changelogs.ubuntu.com/changelogs/pool/main/libp/libproxy/libproxy_0.4.11-5ubuntu1/copyright
+libpthread-stubs0-dev |	MIT Equivalent	|WICC4D|	part of  libpthread-stubs|	NA
+libpulse0 |	LGPL	|openhub.net|	part of pulseaudio |	https://www.openhub.net/p/pulseaudio
+libpython2.7 |	PYTHON SOFTWARE FOUNDATION LICENSE VERSION 2	|ubuntu.com|	Python 3.5.2 is shown as approved on WICC4D for various license types including Apache 2.0 and Python 2.0|	http://changelogs.ubuntu.com/changelogs/pool/main/p/python2.7/python2.7_2.7.12-1ubuntu0~16.04.1/copyright
+libpython2.7-dev |	PYTHON SOFTWARE FOUNDATION LICENSE VERSION 2	|ubuntu.com|	Python 3.5.2 is shown as approved on WICC4D for various license types including Apache 2.0 and Python 2.0|	http://changelogs.ubuntu.com/changelogs/pool/main/p/python2.7/python2.7_2.7.12-1ubuntu0~16.04.1/copyright
+libpython2.7-minimal |	PYTHON SOFTWARE FOUNDATION LICENSE VERSION 2	|WICC4D|	NA|	NA
+libpython2.7-stdlib |	PYTHON SOFTWARE FOUNDATION LICENSE VERSION 2	|ubuntu.com|	NA|	http://packages.ubuntu.com/xenial/ppc64el/libpython2.7-stdlib/filelist
+libpython3.5-minimal |	Apache-2.0	|WICC4D|	part of python |	NA
+libpython3.5-stdlib |	Apache-2.0	|WICC4D|	part of  python |	NA
+libpython3-stdlib |	GPL,Python 2.0	|ubuntu.com|	NA|	http://changelogs.ubuntu.com/changelogs/pool/main/p/python3-defaults/python3-defaults_3.5.1-3/copyright
+libpython-dev |	Python-2.0, Apache-2.0, GPL-3.0, BSD-Clause-4	|WICC4D UI|	Source Package Python|	NA
+libpython-stdlib |	PYTHON SOFTWARE FOUNDATION LICENSE VERSION 2	|WICC4D|	NA|	NA
+libqb0 |	LGPL-2.1+	|ubuntu.com|	NA|	http://changelogs.ubuntu.com/changelogs/pool/main/libq/libqb/libqb_0.17.2.real-6ubuntu1/copyright
+libqdox2-java |	Apache-2.0	|ubuntu.com|	NA|	http://changelogs.ubuntu.com/changelogs/pool/universe/q/qdox2/qdox2_2.0~M3-2/copyright
+libqdox-java |	Apache-2.0	|ubuntu.com|	NA|	http://changelogs.ubuntu.com/changelogs/pool/universe/q/qdox/qdox_1.12.1-1/copyright
+libqt5core5a |	LGPL-2.1	|WICC4D|	part of qt  library (ver. 5.x)|	NA
+libqt5dbus5 |	LGPL-2.1	|WICC4D|	part of qt  library (ver. 5.x)|	NA
+libqt5gui5 |	LGPL-2.1	|WICC4D|	part of qt  library (ver. 5.x)|	NA
+libqt5network5 |	LGPL-2.1	|WICC4D|	part of qt  library (ver. 5.x)|	NA
+libqt5opengl5 |	LGPL-2.1	|WICC4D|	part of qt  library (ver. 5.x)|	NA
+libqt5printsupport5 |	LGPL-2.1	|WICC4D|	part of qt  library (ver. 5.x)|	NA
+libqt5qml5 |	LGPL-2.1	|WICC4D|	part of qt  library (ver. 5.x)|	NA
+libqt5quick5 |	LGPL-2.1	|WICC4D|	part of qt  library (ver. 5.x)|	NA
+libqt5sql5 |	LGPL-2.1	|WICC4D|	part of qt  library (ver. 5.x)|	NA
+libqt5svg5 |	LGPL-2.1	|WICC4D|	part of qt  library (ver. 5.x)|	NA
+libqt5webkit5 |	LGPL-2.1	|WICC4D|	part of qt  library (ver. 5.x)|	NA
+libqt5widgets5 |	LGPL-2.1	|WICC4D|	part of qt  library (ver. 5.x)|	NA
+libquorum5 |	BSD-4-Clause-UC	|ubuntu.com|	NA|	http://changelogs.ubuntu.com/changelogs/pool/main/c/corosync/corosync_2.3.5-3ubuntu1/copyright
+librdmacm1 |	BSD-2-Clause, GPL-2.0	|ubuntu.com|	NA|	http://changelogs.ubuntu.com/changelogs/pool/main/libr/librdmacm/librdmacm_1.0.21-1/copyright
+libreadline6 |	GPL-3	|ubuntu.com|	NA|	http://changelogs.ubuntu.com/changelogs/pool/main/r/readline6/readline6_6.3-8ubuntu2/copyright
+libreadline6-dev |	LGPL-3	|WICC4D|	part of readline|	NA
+libreadline-dev |	LGPL-3	|WICC4D|	part of readline|	NA
+librest-0.7-0 |	LGPL-2.1, GPL-2+	|ubuntu.com|	Different files are licensed differently. Files: * under LGPL-2.1, Files: compile under GPL-2+ and so on|	http://changelogs.ubuntu.com/changelogs/pool/main/libr/librest/librest_0.7.93-1/copyright
+libroken18-heimdal |	BSD-3-clause	|WICC4D|	part of heimdal kerberos|	NA
+librsvg2-2 |	LGPL-2.0, GPL-2+	|ubuntu.com|	Different files are licensed differently. Files: * under LGPL-2.0, Files: tests/pdiff/* under GPL-2.0+ |	http://changelogs.ubuntu.com/changelogs/pool/main/libr/librsvg/librsvg_2.40.13-3/copyright
+librsvg2-common |	LGPL-2.0, GPL-2+	|ubuntu.com|	Different files are licensed differently. Files: * under LGPL-2.0, Files: tests/pdiff/* under GPL-2.0+ |	http://changelogs.ubuntu.com/changelogs/pool/main/libr/librsvg/librsvg_2.40.13-3/copyright
+librtmp0 |	GPL-2	|source code|	part of rtmpdump|	http://rtmpdump.mplayerhq.hu/
+librtmp1 |	GPL-2	|ubuntu.com|	NA|	http://changelogs.ubuntu.com/changelogs/pool/main/r/rtmpdump/rtmpdump_2.4+20151223.gitfa8646d-1build1/copyright
+librtmp-dev |	GPL-2	|source code|	part of rtmpdump|	http://rtmpdump.mplayerhq.hu/
+libruby2.3 |	GPL-2.0+, Ruby	|ubuntu.com|	NA|	http://packages.ubuntu.com/xenial/ppc64el/libruby2.3/filelist
+libsane |	GPL-2+ with sane exception, GPL-2+, Artistic, LGPL-2.1+, GPL-2, LGPL-2.1+, GFDL-1.1	|ubuntu.com|	NA|	http://changelogs.ubuntu.com/changelogs/pool/main/s/sane-backends/sane-backends_1.0.25+git20150528-1ubuntu2/copyright
+libsane-common |	GPL-2+ with sane exception, GPL-2+, Artistic, LGPL-2.1+, GPL-2, LGPL-2.1+, GFDL-1.1	|ubuntu.com|	NA|	http://changelogs.ubuntu.com/changelogs/pool/main/s/sane-backends/sane-backends_1.0.25+git20150528-1ubuntu2/copyright
+libsasl2-2 |	BSD Equivalent	|WICC4D|	part of cyrus-sasl|	NA
+libsasl2-modules |	BSD Equivalent	|WICC4D|	part of cyrus-sasl|	NA
+libsasl2-modules-db |	BSD Equivalent	|WICC4D|	part of cyrus-sasl|	NA
+libsctp1 |	GPL-2.0+, LGPL-2.1+, BSD-3-clause	|ubuntu.com|	Different files are licensed differently. Example: Files: src/lib/* are under LGPL-2.1+ and so on|	http://changelogs.ubuntu.com/changelogs/pool/main/l/lksctp-tools/lksctp-tools_1.0.16+dfsg-3/copyright
+libsensors4  |	GPL-2.0+	|ubuntu.com|	NA|	http://changelogs.ubuntu.com/changelogs/pool/main/l/lm-sensors/lm-sensors_3.4.0-2/copyright
+libservlet2.5-java |	Apache-2.0	|ubuntu.com|	NA|	http://changelogs.ubuntu.com/changelogs/pool/universe/t/tomcat6/tomcat6_6.0.45+dfsg-1/copyright
+libservlet3.0-java |	Apache-2.0	|WICC4D|	part of Tomcat |	NA
+libservlet3.1-java |	Apache-2.0	|WICC4D|	Upstream name - Apache Tomcat 8|	NA
+libsigsegv2 |	GPL-2	|WICC4D|	NA|	NA
+libsisu-inject-java |	EPL-1.0, BSD-3-clause, Apache-2.0	|ubuntu.com|	NA|	http://changelogs.ubuntu.com/changelogs/pool/universe/s/sisu-inject/sisu-inject_0.3.2-1/copyright
+libsisu-plexus-java |	EPL-1.0, Apache-2.0	|ubuntu.com|	NA|	http://changelogs.ubuntu.com/changelogs/pool/universe/s/sisu-plexus/sisu-plexus_0.3.2-1/copyright
+libslf4j-java |	MIT, Apache-2.0	|ubuntu.com|	NA|	http://changelogs.ubuntu.com/changelogs/pool/universe/libs/libslf4j-java/libslf4j-java_1.7.14-3/copyright
+libsm6 |	MIT	|WICC4D|	part of libsm |	NA
+libsm-dev |	MIT	|WICC4D|	part of libsm |	NA
+libsnappy1v5 |	GPL, MIT-Equivalent, Google Inc., Apache-2.0	|WICC4D UI|	Source Package Snappy|	NA
+libsnappy-dev |	GPL, MIT-Equivalent, Google Inc., Apache-2.0	|WICC4D UI|	Source Package Snappy|	NA
+libsndfile1 |	LGPL-2.1	|ubuntu.com|	NA|	http://changelogs.ubuntu.com/changelogs/pool/main/libs/libsndfile/libsndfile_1.0.25-10/copyright
+libsocket6-perl |	BSD-3-Clause, ISC	|ubuntu.com|	NA|	http://changelogs.ubuntu.com/changelogs/pool/main/libs/libsocket6-perl/libsocket6-perl_0.25-1build2/copyright
+libsodium18 |	MIT-Equivalent	|WICC4D|	NA|	NA
+libsoup2.4-1 |	LGPL-2.0	|WICC4D|	NA|	NA
+libsoup-gnome2.4-1 |	LGPL-2.0	|WICC4D|	NA|	NA
+libspatial4j-0.4-java |	Apache license v2.0	|ubuntu.com|	NA|	http://changelogs.ubuntu.com/changelogs/pool/universe/s/spatial4j-0.4/spatial4j-0.4_0.4.1-4/copyright
+libsqlite3-0 |	LGPL-2.1	|WICC4D|	Source package sqlite3|	NA
+libssl1.0.0 |	BSD-4-Clause	|WICC4D|	part of openssl|	NA
+libssl-dev |	BSD-4-clause	|WICC4D|	part of openssl|	NA
+libssl-doc |	BSD-4-clause	|WICC4D|	part of openssl|	NA
+libstatgrab10 |	GPL-2.0+	|ubuntu.com|	NA|	http://changelogs.ubuntu.com/changelogs/pool/main/libs/libstatgrab/libstatgrab_0.91-1/copyright
+libstax-java |	Apache-2.0	|WICC4D|	part of StAX|	NA
+libstdc++-4.8-dev |	GPL-3	|WICC4D|	part of gcc|	NA
+libstdc++-5-dev |	GPL-3+	|openhub.net|	Part of gcc-5 - GNU Compiler Collection|	https://www.openhub.net/p/gcc
+libsubunit0 |	Apache-2.0, BSD-4-Clause-UC	|ubuntu.com|	NA|	http://changelogs.ubuntu.com/changelogs/pool/main/s/subunit/subunit_1.1.0-3/copyright
+libsubunit-dev |	Apache-2.0, BSD-4-Clause-UC	|ubuntu.com|	NA|	http://changelogs.ubuntu.com/changelogs/pool/main/s/subunit/subunit_1.1.0-3/copyright
+libsys-hostname-long-perl |	Artistic or GPL-1	|ubuntu.com|	NA|	http://changelogs.ubuntu.com/changelogs/pool/main/libs/libsys-hostname-long-perl/libsys-hostname-long-perl_1.5-1/copyright
+libsz2 |	GPL	|GitHub|	NA|	https://github.com/bme-notes/bsz2/blob/master/LICENSE
+libtasn1-6 |	LGPL-2.1, GPL-3+	|ubuntu.com|	The library itself is licensed as LGPLv2.1+, the build system, test-suite and command-line tools (package libtasn1-bin) are GPLv3+.|	http://changelogs.ubuntu.com/changelogs/pool/main/libt/libtasn1-6/libtasn1-6_4.7-3ubuntu0.16.04.1/copyright
+libtasn1-6-dev |	LGPL-2.1	|source code|	NA|	http://www.gnu.org/software/libtasn1/
+libtcl8.5 |	Artistic-2	|WICC4D|	part of tcl|	NA
+libtcl8.6 |	BSD-type	|ubuntu.com|	NA|	http://changelogs.ubuntu.com/changelogs/pool/main/t/tcl8.6/tcl8.6_8.6.5+dfsg-2/copyright
+libtcmalloc-minimal4 |	BSD-Equivalent	|WICC4D UI|	Source Package gperftools|	NA
+libtdb1 |	LGPL 3+, BSD-3	|ubuntu.com|	NA|	NA
+libterm-readkey-perl |	Artistic or GPL-1+	|ubuntu.com|	NA|	http://changelogs.ubuntu.com/changelogs/pool/universe/libt/libterm-readkey-perl/libterm-readkey-perl_2.33-1build1/copyright
+libthai0 |	LGPL-2.1+	|ubuntu.com|	part of libthai|	http://changelogs.ubuntu.com/changelogs/pool/main/libt/libthai/libthai_0.1.24-2/copyright
+libthai-data |	LGPL 2.1+, GPL 2+	|ubuntu.com|	part of libthai|	NA
+libtiff5 |	MIT	|WICC4D|	part of libtiff |	NA
+libtiffxx5 |	MIT Equivalent	|WICC4D|	part of tiff|	NA
+libtimedate-perl |	Artistic-2.0	|WICC4D|	NA|	NA
+libtinfo5 |	MIT	|WICC4D|	part of ncurses|	http://changelogs.ubuntu.com/changelogs/pool/main/z/zip/zip_3.0-11/copyright
+libtinfo-dev |	MIT	|WICC4D|	part of ncurses|	NA
+libtk8.5 |	Unique	|WICC4D|	part of Tcl-Tk|	NA
+libtk8.6 |	BSD-type	|ubuntu.com|	NA|	http://changelogs.ubuntu.com/changelogs/pool/main/t/tk8.6/tk8.6_8.6.5-1/copyright
+libtomcat7-java |	Apache-2.0	|WICC4D|	part of Tomcat |	NA
+libtool |	GPL-2.0	|WICC4D|	NA|	NA
+libtorque2 |	Apache-2	|WICC4D|	part of torque|	NA
+libtotem-pg5 |	BSD-4-Clause-UC	|ubuntu.com|	NA|	http://changelogs.ubuntu.com/changelogs/pool/main/c/corosync/corosync_2.3.5-3ubuntu1/copyright
+libtxc-dxtn-s2tc0 |	Expat	|ubuntu.com|	NA|	http://changelogs.ubuntu.com/changelogs/pool/main/s/s2tc/s2tc_0~git20131104-1.1/copyright
+libubsan0 |	GPL-3+	|openhub.net|	Part of gcc-5 - GNU Compiler Collection|	https://www.openhub.net/p/gcc
+libunistring0 |	GPL-3, LGPL-3, GFDL-1.2	|ubuntu.com|	NA|	http://changelogs.ubuntu.com/changelogs/pool/main/libu/libunistring/libunistring_0.9.3-5.2ubuntu1/copyright
+libunsafe-mock-java |	GPL-2.0	|ubuntu.com|	NA|	http://packages.ubuntu.com/xenial/all/libunsafe-mock-java/filelist
+liburi-perl |	Artistic or GPL-1	|ubuntu.com|	NA|	http://changelogs.ubuntu.com/changelogs/pool/main/libu/liburi-perl/liburi-perl_1.71-1/copyright
+libusb-1.0-0 |	LGPL-2.1	|WICC4D|	NA|	NA
+libuv1 |	MIT	|WICC4D|	part of libuv|	NA
+libuv1-dev |	MIT	|ubuntu.com|	NA|	http://packages.ubuntu.com/xenial/ppc64el/libuv1-dev/filelist
+libv8-3.14.5 |	BSD-Equivalent	|WICC4D UI|	Source Package V8|	NA
+libvorbis0a |	BSD-3-Clause	|WICC4D|	part of libvorbis - BSD-2-Clause or BSD-3-Clause or BSD-4-Clause as per WICC4d|	NA
+libvorbisenc2 |	BSD-3-Clause	|WICC4D|	part of libvorbis - BSD-2-Clause or BSD-3-Clause or BSD-4-Clause as per WICC4d|	NA
+libvorbisfile3 |	BSD-3-Clause	|WICC4D|	part of libvorbis - BSD-2-Clause or BSD-3-Clause or BSD-4-Clause as per WICC4d|	NA
+libvotequorum7 |	BSD-4-Clause-UC	|ubuntu.com|	NA|	http://changelogs.ubuntu.com/changelogs/pool/main/c/corosync/corosync_2.3.5-3ubuntu1/copyright
+libvpx3 |	BSD-4-Clause	|WICC4D|	NA|	NA
+libwacom2 |	MIT	|ubuntu.com|	NA|	http://changelogs.ubuntu.com/changelogs/pool/main/libw/libwacom/libwacom_0.18-1/copyright
+libwacom-common |	MIT	|ubuntu.com|	NA|	http://changelogs.ubuntu.com/changelogs/pool/main/libw/libwacom/libwacom_0.18-1/copyright
+libwagon2-java |	Apache-2.0	|ubuntu.com|	NA|	http://changelogs.ubuntu.com/changelogs/pool/universe/w/wagon2/wagon2_2.10-3/copyright
+libwagon-java |	GPL-2, Apache-2.0	|ubuntu.com|	NA|	http://changelogs.ubuntu.com/changelogs/pool/universe/w/wagon/wagon_1.0.0-7/copyright
+libwayland-client0 |	MIT	|openhub.net|	NA|	https://www.openhub.net/p/wayland
+libwayland-cursor0 |	MIT	|openhub.net|	NA|	https://www.openhub.net/p/wayland
+libwayland-egl1-mesa |	MIT	|WICC4D|	mesa (source package) on WICC4D|	NA
+libwayland-server0 |	MIT	|openhub.net|	NA|	https://www.openhub.net/p/wayland
+libwebp5 |	Apache-2.0	|ubuntu.com|	NA|	http://changelogs.ubuntu.com/changelogs/pool/main/libw/libwebp/libwebp_0.4.4-1/copyright
+libwebpmux1 |	Apache-2.0	|ubuntu.com|	NA|	http://changelogs.ubuntu.com/changelogs/pool/main/libw/libwebp/libwebp_0.4.4-1/copyright
+libwind0-heimdal |	BSD-3-clause	|WICC4D|	part of heimdal kerberos|	NA
+libwmf0.2-7 |	LGPL	|ubuntu.com|	NA|	http://wvware.sourceforge.net/libwmf.html#contr
+libwmf-dev |	LGPL-2.0	|debian.org|	NA|	http://metadata.ftp-master.debian.org/changelogs/main/libw/libwmf/libwmf_0.2.8.4-10.6_copyright
+libwrap0 |	BSD	|Other|	https://en.wikipedia.org/wiki/TCP_Wrapper|	http://changelogs.ubuntu.com/changelogs/pool/main/t/tcp-wrappers/tcp-wrappers_7.6.q-25/copyright
+libwww-perl |	Artistic or GPL-1	|ubuntu.com|	NA|	http://changelogs.ubuntu.com/changelogs/pool/main/libw/libwww-perl/libwww-perl_6.15-1/copyright
+libwww-robotrules-perl |	Artistic or GPL-1	|ubuntu.com|	NA|	http://changelogs.ubuntu.com/changelogs/pool/main/libw/libwww-robotrules-perl/libwww-robotrules-perl_6.01-1/copyright
+libwxbase3.0-0v5 |	wxWindows Library License	|WICC4D|	wxBase on WICC4D|	NA
+libwxgtk3.0-0v5 |	wxWindows	|WICC4D|	wxgtk on WICC4D|	NA
+libx11-6 |	MIT	|WICC4D|	part of libx11|	NA
+libx11-data |	MIT	|WICC4D|	part of libx11|	NA
+libx11-dev |	MIT	|WICC4D|	part of libx11|	NA
+libx11-doc |	MIT	|WICC4D|	Source package libx11|	NA
+libx11-xcb1 |	MIT	|WICC4D|	part of libx11|	NA
+libx11-xcb-dev |	MIT	|WICC4D|	Source package libx11|	NA
+libxalan2-java |	Apache-2.0	|ubuntu.com|	NA|	http://changelogs.ubuntu.com/changelogs/pool/main/libx/libxalan2-java/libxalan2-java_2.7.1-9/copyright
+libxalan-c111 |	Apache-2.0	|WICC4D UI|	Source package Xalan-C|	NA
+libxau6 |	MIT	|WICC4D|	part of libxau|	NA
+libxau-dev |	MIT	|WICC4D|	part of libxau|	NA
+libxaw7 |	MIT	|Source Code|	NA|	https://sourceforge.net/projects/xawm/
+libxbean-java |	Apache-2.0	|ubuntu.com|	NA|	http://changelogs.ubuntu.com/changelogs/pool/universe/libx/libxbean-java/libxbean-java_4.5-1/copyright
+libxcb1 |	MIT	|WICC4D|	part of libxcb |	NA
+libxcb1-dev |	MIT	|WICC4D|	part of libxcb|	NA
+libxcb-dri2-0 |	MIT	|WICC4D|	part of libxcb|	NA
+libxcb-dri3-0 |	MIT	|WICC4D|	part of libxcb|	NA
+libxcb-glx0 |	MIT	|WICC4D|	part of libxcb|	NA
+libxcb-icccm4 |	MIT	|WICC4D|	part of libxcb|	NA
+libxcb-image0 |	MIT	|WICC4D|	part of libxcb|	NA
+libxcb-keysyms1 |	MIT	|WICC4D|	part of libxcb|	NA
+libxcb-present0 |	MIT	|WICC4D|	part of libxcb|	NA
+libxcb-present-dev |	MIT	|WICC4D|	part of libxcb|	NA
+libxcb-randr0 |	MIT	|WICC4D|	part of libxcb|	NA
+libxcb-randr0-dev |	MIT	|WICC4D|	part of libxcb|	NA
+libxcb-render0 |	MIT	|WICC4D|	part of libxcb|	NA
+libxcb-render0-dev |	MIT	|WICC4D|	part of libxcb|	NA
+libxcb-render-util0 |	MIT	|WICC4D|	part of libxcb|	NA
+libxcb-shape0 |	MIT	|WICC4D|	part of libxcb|	NA
+libxcb-shape0-dev |	MIT	|WICC4D|	part of libxcb|	NA
+libxcb-shm0 |	MIT	|WICC4D|	part of libxcb|	NA
+libxcb-shm0-dev |	MIT	|WICC4D|	part of libxcb|	NA
+libxcb-sync1 |	MIT	|WICC4D|	part of libxcb|	NA
+libxcb-sync-dev |	MIT	|WICC4D|	part of libxcb|	NA
+libxcb-util1 |	MIT	|WICC4D|	part of libxcb|	NA
+libxcb-xfixes0 |	MIT	|WICC4D|	part of libxcb|	NA
+libxcb-xfixes0-dev |	MIT	|WICC4D|	part of libxcb|	NA
+libxcb-xkb1 |	MIT	|WICC4D|	part of libxcb|	NA
+libxcomposite1 |	MIT	|openhub.net|	Under xorg - https://cgit.freedesktop.org/ |	https://www.openhub.net/p/x
+libxcursor1 |	MIT	|openhub.net|	Under xorg - https://cgit.freedesktop.org/ |	https://www.openhub.net/p/x
+libxdamage1 |	MIT	|openhub.net|	Under xorg - https://cgit.freedesktop.org/ |	https://www.openhub.net/p/x
+libxdamage-dev |	MIT	|openhub.net|	Under xorg - https://cgit.freedesktop.org/ |	https://www.openhub.net/p/x
+libxdmcp6 |	MIT	|WICC4D|	part of libxdmcp |	NA
+libxdmcp-dev |	MIT	|WICC4D|	part of libxdmcp |	NA
+libxerces2-java |	Apache-2.0	|ubuntu.com|	NA|	http://changelogs.ubuntu.com/changelogs/pool/main/libx/libxerces2-java/libxerces2-java_2.11.0-7/copyright
+libxerces-c3.1 |	Apache-2.0	|WICC4D UI|	Source Package libxerces-c|	NA
+libxext6 |	MIT	|WICC4D|	part of libxext |	NA
+libxext-dev |	MIT	|WICC4D|	part of libxext|	NA
+libxfixes3 |	MIT	|openhub.net|	Under xorg - https://cgit.freedesktop.org/ |	https://www.openhub.net/p/x
+libxfixes-dev |	MIT	|openhub.net|	Under xorg - https://cgit.freedesktop.org/ |	https://www.openhub.net/p/x
+libxft2 |	Python -2	|WICC4D|	part of libxft|	NA
+libxft-dev |	Python-2	|WICC4D|	part of libxft|	NA
+libxi6 |	MIT	|WICC4D|	part of libxft|	NA
+libxi-dev |	MIT	|WICC4D|	part of libxi|	NA
+libxinerama1 |	MIT	|openhub.net|	Under xorg - https://cgit.freedesktop.org/ |	https://www.openhub.net/p/x
+libxkbcommon0 |	MIT	|WICC4D|	NA|	NA
+libxkbcommon-x11-0 |	MIT	|WICC4D|	part of libxkbcommon |	NA
+libxml2 |	MIT	|WICC4D|	NA|	NA
+libxml2-dev |	MIT	|WICC4D|	part of libxml2|	NA
+libxml-commons-external-java |	PD, BSD-like, Apache-2.0, GPL-2+	|ubuntu.com|	NA|	http://changelogs.ubuntu.com/changelogs/pool/main/x/xml-commons-external/xml-commons-external_1.4.01-2build1/copyright
+libxml-commons-resolver1.1-java |	Apache-2.0	|ubuntu.com|	NA|	http://changelogs.ubuntu.com/changelogs/pool/main/libx/libxml-commons-resolver1.1-java/libxml-commons-resolver1.1-java_1.2-7build1/copyright
+libxml-parser-perl |	Artistic or GPL-1	|ubuntu.com|	NA|	http://changelogs.ubuntu.com/changelogs/pool/main/libx/libxml-parser-perl/libxml-parser-perl_2.44-1build1/copyright
+libxmu6 |	MIT	|WICC4D|	part of libxmu|	NA
+libxmu-dev |	MIT	|WICC4D|	part of libxmu|	NA
+libxmu-headers |	MIT	|WICC4D|	part of libxmu|	NA
+libxmuu1 |	MIT	|WICC4D|	part of libxmu|	NA
+libxom-java |	LGPL-2.1	|ubuntu.com|	NA|	http://changelogs.ubuntu.com/changelogs/pool/universe/x/xom/xom_1.2.10-1/copyright
+libxpm4 |	MIT	|WICC4D|	libxpm on WICC4D|	NA
+libxpp3-java |	other-BSD, Apache-1.1, LGPL-2.1+, BSD-jaxen, BSD-saxpath	|ubuntu.com|	Different files are licensed differently. Most of them are under other-BSD, however there are some exceptions as well. Example: Files: src/java/xpath/org/xmlpull/v1/builder/xpath/saxpath/* are under BSD-saxpath etc.|	http://changelogs.ubuntu.com/changelogs/pool/universe/libx/libxpp3-java/libxpp3-java_1.1.4c-2build1/copyright
+libxrandr2 |	Python-2.0	|WICC4D|	libxrandr on WICC4D|	NA
+libxrender1 |	Python-2.0	|WICC4D|	libxrender on WICC4D|	NA
+libxrender-dev |	Python-2	|WICC4D|	part of libxrender|	NA
+libxshmfence1 |	MIT	|openhub.net|	Under xorg - https://cgit.freedesktop.org/ |	https://www.openhub.net/p/x
+libxshmfence-dev |	MIT	|openhub.net|	Under xorg - https://cgit.freedesktop.org/ |	https://www.openhub.net/p/x
+libxslt1.1 |	MIT	|WICC4D|	NA|	NA
+libxslt1-dev |	MIT	|WICC4D|	part of libxslt|	NA
+libxss1 |	Open Source	|ubuntu.com|	NA|	http://changelogs.ubuntu.com/changelogs/pool/main/libx/libxss/libxss_1.2.2-1/copyright
+libxstream-java |	BSD-3-Clause	|ubuntu.com|	NA|	http://changelogs.ubuntu.com/changelogs/pool/universe/libx/libxstream-java/libxstream-java_1.4.8-1/copyright
+libxt6 |	MIT	|WICC4D|	part of libxt|	NA
+libxtables11 |	GPL-2, Artistic-2, MIT	|ubuntu.com|	This can be distributed under GPL-2 as per the COPYING file in the source code and as per the project home page https://git.netfilter.org/iptables/tree/COPYING and http://www.netfilter.org/about.html#license However, some of the source code files have different licenses. Example: Files: iptables/iptables-apply has Artistic|	http://changelogs.ubuntu.com/changelogs/pool/main/i/iptables/iptables_1.6.0-2ubuntu3/copyright
+libxt-dev |	MIT	|WICC4D|	part of libxt|	NA
+libxtst6 |	MIT	|WICC4D|	part of libxtst|	NA
+libxv1 |	MIT	|openhub.net|	Under xorg - https://cgit.freedesktop.org/ |	https://www.openhub.net/p/x
+libxxf86dga1 |	MIT	|openhub.net|	Under xorg - https://cgit.freedesktop.org/ |	https://www.openhub.net/p/x
+libxxf86vm1 |	MIT	|openhub.net|	Under xorg - https://cgit.freedesktop.org/ |	https://www.openhub.net/p/x
+libxxf86vm-dev |	MIT	|WICC4D|	part of libxxf86vm|	NA
+libyaml-0-2 |	MIT	|WICC4D|	NA|	NA
+libyaml-cpp0.5v5 |	MIT-Equivalent	|WICC4D UI|	Source Package yaml-cpp|	NA
+libyaml-snake-java |	MIT	|ubuntu.com|	NA|	http://packages.ubuntu.com/xenial/all/libyaml-snake-java/filelist
+libyecht-java |	Expat	|ubuntu.com|	NA|	http://packages.ubuntu.com/xenial/all/libyecht-java/filelist
+libzmq3-dev |	GPL-3.0	|WICC4D|	NA|	NA
+libzmq5 |	GPL-3.0	|WICC4D|	NA|	NA
+libzstd0 |	BSD-2-clause,GPL-2+	|ubuntu.com|	NA|	http://changelogs.ubuntu.com/changelogs/pool/universe/libz/libzstd/libzstd_0.5.1-1/copyright
+linux-base |	GPL-2	|ubuntu.com|	NA|	http://changelogs.ubuntu.com/changelogs/pool/main/l/linux-base/linux-base_4.0ubuntu1/copyright
+linux-libc-dev |	GPL-2	|ubuntu.com|	NA|	http://changelogs.ubuntu.com/changelogs/pool/main/l/linux/linux_4.4.0-57.78/copyright
+lksctp-tools |	GPL-2, LGPL-2.1, BSD-3-Clause	|ubuntu.com|	NA|	http://changelogs.ubuntu.com/changelogs/pool/main/l/lksctp-tools/lksctp-tools_1.0.16+dfsg-3/copyright
+lmdb |	MIT-Equivalent, BSD-Equivalent	|WICC4D UI|	NA|	NA
+lmdb-doc |	OpenLDAP-2.8	|debian.org|	Source Package LIBLMDB|	http://metadata.ftp-master.debian.org/changelogs/main/l/lmdb/lmdb_0.9.21-1_copyright
+load-grunt-tasks |	MIT-Equivalent	|WICC4D|	NA|	NA
+lodash |	CC 0, MIT-Equivalent	|WICC4D|	NA|	NA
+logrotate |	GPL-2.0	|WICC4D|	NA|	NA
+lynx |	MIT-Equivalent	|WICC4D UI|	NA|	NA
+lynx-common |	MIT-Equivalent	|WICC4D UI|	NA|	NA
+m4 |	GPL-3	|ubuntu.com|	NA|	http://changelogs.ubuntu.com/changelogs/pool/main/m/m4/m4_1.4.17-5/copyright
+make |	GPL-3+	|WICC4D|	NA|	NA
+man-db |	GPL-2	|ubuntu.com|	NA|	http://changelogs.ubuntu.com/changelogs/pool/main/m/man-db/man-db_2.7.5-1/copyright
+manpages |	GPL-2+, BSD-3-clause, BSD-4-clause, BSD-4-clause and verbatim, Expat, GPL-2, GPL-2+ and verbatim, LDPv1, freely-redistributable, henry-spencer-regex, public-domain, verbatim	|ubuntu.com|	Here all licenses are required as different manpages are available under different Licenses|	http://changelogs.ubuntu.com/changelogs/pool/main/m/manpages/manpages_4.04-2/copyright
+manpages-dev |	GPL-2+, BSD-3-clause, BSD-4-clause, BSD-4-clause and verbatim, Expat, GPL-2, GPL-2+ and verbatim, LDPv1, freely-redistributable, henry-spencer-regex, public-domain, verbatim	|ubuntu.com|	Here all licenses are required as different manpages are available under different Licenses|	http://changelogs.ubuntu.com/changelogs/pool/main/m/manpages/manpages_4.04-2/copyright
+markdown |	BSD-Equivalent	|WICC4D |	NA|	NA
+mathjax-23.zip |	Apache-2.0	|source code|	https://s3.amazonaws.com/rstudio-buildtools/mathjax-23.zip|	https://github.com/mathjax/MathJax/blob/master/LICENSE
+maven |	Apache-2.0	|WICC4D|	NA|	NA
+maven-ant-helper |	Apache-2.0	|openhub.net|	NA|	http://changelogs.ubuntu.com/changelogs/pool/universe/m/maven-ant-helper/maven-ant-helper_7.11/copyright
+maven-repo-helper |	Apache-2.0	|openhub.net|	NA|	http://changelogs.ubuntu.com/changelogs/pool/universe/m/maven-repo-helper/maven-repo-helper_1.8.12/copyright
+mcrypt |	GPL-3	|ubuntu.com|	NA|	http://changelogs.ubuntu.com/changelogs/pool/universe/m/mcrypt/mcrypt_2.6.8-1.3ubuntu1/copyright
+mesa-common-dev |	MIT	|WICC4D|	part of mesa|	NA
+mime-support |	public-domain, Bellcore	|ubuntu.com|	NA|	http://changelogs.ubuntu.com/changelogs/pool/main/m/mime-support/mime-support_3.59ubuntu1/copyright
+mocha |	MIT-Equivalent	|WICC4D|	NA|	NA
+mock |	BSD ASM, BSD-Equivalent	|WICC4D |	NA|	NA
+mousetrap |	Apache-2.0	|WICC4D|	NA|	NA
+nailgun |	Apache-2, GPL-3+	|ubuntu.com|	NA|	http://packages.ubuntu.com/xenial/ppc64el/nailgun/filelist
+netbase |	GPL-2	|ubuntu.com|	NA|	http://packages.ubuntu.com/xenial/all/netbase/filelist
+node-abbrev |	Apache-2.0	|ubuntu.com|	NA|	http://packages.ubuntu.com/xenial/all/node-abbrev/filelist
+node-ansi |	Apache-2.0	|ubuntu.com|	NA|	http://packages.ubuntu.com/xenial/all/node-ansi/filelist
+node-ansi-color-table |	Apache-2.0	|ubuntu.com|	NA|	http://packages.ubuntu.com/xenial/all/node-ansi-color-table/filelist
+node-archy |	MIT	|ubuntu.com|	NA|	http://packages.ubuntu.com/xenial/all/node-archy/filelist
+node-async |	Expat, GPL-3+	|ubuntu.com|	NA|	http://packages.ubuntu.com/xenial/all/node-async/filelist
+node-block-stream |	BSD License	|ubuntu.com|	NA|	http://packages.ubuntu.com/xenial/all/node-block-stream/filelist
+node-combined-stream |	Apache-2.0	|ubuntu.com|	NA|	http://packages.ubuntu.com/xenial/all/node-combined-stream/filelist
+node-cookie-jar |	Apache-2.0	|ubuntu.com|	NA|	http://packages.ubuntu.com/xenial/all/node-cookie-jar/filelist
+node-delayed-stream |	Apache-2.0	|ubuntu.com|	NA|	http://packages.ubuntu.com/xenial/all/node-delayed-stream/filelist
+node-forever-agent |	Apache-2.0	|ubuntu.com|	NA|	http://packages.ubuntu.com/xenial/all/node-forever-agent/filelist
+node-form-data |	Apache-2.0	|ubuntu.com|	NA|	http://packages.ubuntu.com/xenial/all/node-form-data/filelist
+node-fstream |	Apache-2.0	|ubuntu.com|	NA|	http://packages.ubuntu.com/xenial/all/node-fstream/filelist
+node-fstream-ignore |	Apache-2.0	|ubuntu.com|	NA|	http://packages.ubuntu.com/xenial/all/node-fstream-ignore/filelist
+node-github-url-from-git |	MIT	|ubuntu.com|	NA|	http://packages.ubuntu.com/xenial/all/node-github-url-from-git/filelist
+node-glob |	ISC License	|ubuntu.com|	NA|	http://packages.ubuntu.com/xenial/all/node-glob/filelist
+node-graceful-fs |	MIT	|ubuntu.com|	NA|	http://packages.ubuntu.com/xenial/all/node-graceful-fs/filelist
+node-gyp |	MIT	|ubuntu.com|	NA|	http://packages.ubuntu.com/xenial/all/node-gyp/filelist
+node-inherits |	ISC License	|ubuntu.com|	NA|	http://packages.ubuntu.com/xenial/all/node-inherits/filelist
+node-ini |	MIT	|ubuntu.com|	NA|	http://packages.ubuntu.com/xenial/all/node-ini/filelist
+node-json-stringify-safe |	Apache-2.0	|ubuntu.com|	NA|	http://packages.ubuntu.com/xenial/all/node-json-stringify-safe/filelist
+node-lockfile |	Apache-2.0	|ubuntu.com|	NA|	http://packages.ubuntu.com/xenial/all/node-lockfile/filelist
+node-lru-cache |	ISC License	|ubuntu.com|	NA|	http://packages.ubuntu.com/xenial/all/node-lru-cache/filelist
+node-mime |	MIT	|ubuntu.com|	NA|	http://packages.ubuntu.com/xenial/all/node-mime/filelist
+node-minimatch |	Apache-2.0	|ubuntu.com|	NA|	http://packages.ubuntu.com/xenial/all/node-minimatch/filelist
+node-mkdirp |	Apache-2.0	|ubuntu.com|	NA|	http://packages.ubuntu.com/xenial/all/node-mkdirp/filelist
+node-mute-stream |	Apache-2.0	|ubuntu.com|	NA|	http://packages.ubuntu.com/xenial/all/node-mute-stream/filelist
+node-node-uuid |	MIT	|ubuntu.com|	NA|	http://packages.ubuntu.com/xenial/all/node-node-uuid/filelist
+node-nopt |	Apache-2.0	|ubuntu.com|	NA|	http://packages.ubuntu.com/xenial/all/node-nopt/filelist
+node-normalize-package-data |	Apache-2.0	|ubuntu.com|	NA|	http://packages.ubuntu.com/xenial/all/node-normalize-package-data/filelist
+node-npmlog |	Apache-2.0	|ubuntu.com|	NA|	http://packages.ubuntu.com/xenial/all/node-npmlog/filelist
+node-once |	Apache-2.0	|ubuntu.com|	NA|	http://packages.ubuntu.com/xenial/all/node-once/filelist
+node-osenv |	Apache-2.0	|ubuntu.com|	NA|	http://packages.ubuntu.com/xenial/all/node-osenv/filelist
+node-qs |	Apache-2.0	|ubuntu.com|	NA|	http://packages.ubuntu.com/xenial/all/node-qs/filelist
+node-read |	Apache-2.0	|ubuntu.com|	NA|	http://packages.ubuntu.com/xenial/all/node-read/filelist
+node-read-package-json |	Apache-2.0	|ubuntu.com|	NA|	http://packages.ubuntu.com/xenial/all/node-read-package-json/filelist
+node-request |	Apache-2.0	|ubuntu.com|	NA|	http://packages.ubuntu.com/xenial/all/node-request/filelist
+node-retry |	Apache-2.0	|ubuntu.com|	NA|	http://packages.ubuntu.com/xenial/all/node-retry/filelist
+node-rimraf |	Apache-2.0	|ubuntu.com|	NA|	http://packages.ubuntu.com/xenial/all/node-rimraf/filelist
+node-sass |	Apache-2.0	|ubuntu.com|	NA|	NA
+node-semver |	Apache-2.0	|ubuntu.com|	NA|	http://packages.ubuntu.com/xenial/all/node-semver/filelist
+node-sha |	Apache-2.0	|ubuntu.com|	NA|	http://packages.ubuntu.com/xenial/all/node-sha/filelist
+node-sigmund |	Apache-2.0	|ubuntu.com|	NA|	http://packages.ubuntu.com/xenial/all/node-sigmund/filelist
+node-slide |	Apache-2.0	|ubuntu.com|	NA|	http://packages.ubuntu.com/xenial/all/node-slide/filelist
+node-tar |	ISC License	|ubuntu.com|	NA|	http://packages.ubuntu.com/xenial/all/node-tar/filelist
+node-tunnel-agent |	apache v-2.0	|ubuntu.com|	NA|	http://packages.ubuntu.com/xenial/all/node-tunnel-agent/filelist
+node-underscore |	MIT	|ubuntu.com|	NA|	http://packages.ubuntu.com/xenial/all/node-underscore/filelist
+node-which |	Apache-2.0	|ubuntu.com|	NA|	http://packages.ubuntu.com/xenial/all/node-which/filelist
+notebook |	BSD-Equivalent	|WICC4D |	NA|	NA
+numpy |	BSD-Equivalent	|WICC4D |	NA|	NA
+openjdk-8-jdk |	GPL-2.0	|WICC4D|	part of openjdk |	NA
+openjdk-8-jdk-headless |	GPL-2.1	|WICC4D|	part of openjdk |	NA
+openjdk-8-jre |	GPL-2.2	|WICC4D|	part of openjdk |	NA
+openjdk-8-jre-headless |	GPL-2.3	|WICC4D|	part of openjdk |	NA
+openssl |	BSD-4-Clause	|WICC4D|	NA|	NA
+pandas  |	BSD-Equivalent	|WICC4D |	NA|	NA
+pathlib2 |	MIT-Equivalent	|WICC4D |	NA|	NA
+pbr |	Apache-2.0, Creative Commons	|WICC4D |	NA|	NA
+pexpect |	BSD-Equivalent	|WICC4D |	NA|	NA
+phantomjs-prebuilt |	MIT-Equivalent	|WICC4D|	NA|	NA
+pickleshare |	MIT-Equivalent	|WICC4D |	NA|	NA
+pip |	MIT	|WICC4D|	part of pip (python)|	NA
+pkg-config |	LGPL-2	|WICC4D|	NA|	NA
+po-debconf |	GPL-2	|ubuntu.com|	NA|	http://changelogs.ubuntu.com/changelogs/pool/main/p/po-debconf/po-debconf_1.0.19/copyright
+policykit-1 |	Apache-2.0, LGPL-2.0	|ubuntu.com|	Different files are licensed differently. For example Files: test/* are LGPL-2.0 while Files: test/mocklibc/src/ are Apache-2.0|	http://changelogs.ubuntu.com/changelogs/pool/main/p/policykit-1/policykit-1_0.105-14.1/copyright
+poppler-data |	GPL-2.0+	|ubuntu.com|	NA|	http://changelogs.ubuntu.com/changelogs/pool/main/p/poppler-data/poppler-data_0.4.7-7/copyright
+portpicker |	Apache 2.0	|PYPI registry|	NA|	https://pypi.python.org/pypi/portpicker/1.1.1
+postgresql-client |	GPL-2.0	|WICC4D|	NA|	NA
+postgresql-client-9.4 |	BSD-Equivalent	|WICC4D|	part of PostgreSQL|	NA
+postgresql-client-common |	BSD-Equivalent	|WICC4D|	part of PostgreSQL|	NA
+protobuf |	BSD-Equivalent	|WICC4D|	NA|	NA
+protobuf-compiler |	BSD-Equivalent	|WICC4D UI|	Source Package Protobuf|	NA
+psmisc |	GPL-2.0+	|WICC4D|	NA|	NA
+psutils |	Apache-2.0	|ubuntu.com|	NA|	http://changelogs.ubuntu.com/changelogs/pool/universe/p/psutils/psutils_1.17.dfsg-2/copyright
+pyparsing-2.2.0 |	MIT , GPL	|WICC4D|	part of pyparsing|	NA
+pypy |	MIT	|Source code|	NA|	https://bitbucket.org/pypy/pypy/src/default/LICENSE?fileviewer=file-view-default
+pypy-lib |	MIT	|Source code|	standard library for pypy|	https://bitbucket.org/pypy/pypy/src/default/LICENSE?fileviewer=file-view-default
+python |	Apache-2.0	|WICC4D|	NA|	NA
+python2.7 |	Apache-2.0	|WICC4D|	NA|	NA
+python2.7-dev |	Python-2	|WICC4D|	part of python |	NA
+python2.7-dev  |	GPL,LGPL-2.1+,  PSF-2, Expat, Apache 2.0, ISC, python 2.0	|ubuntu.com|	NA|	http://changelogs.ubuntu.com/changelogs/pool/main/p/python2.7/python2.7_2.7.12-1ubuntu0~16.04.1/copyright
+python2.7-minimal |	Apache-2.0	|WICC4D|	NA|	NA
+python3 |	Apache-2.0	|WICC4D|	part of python |	NA
+python3.5 |	Apache-2.0	|WICC4D|	part of python |	NA
+python3.5-minimal |	Apache-2.0	|WICC4D|	part of python |	NA
+python3-apparmor |	GPL-2	|WICC4D|	part of apparmor|	NA
+python3-apt |	GPL-2	|source code|	NA|	http://changelogs.ubuntu.com/changelogs/pool/main/p/python-apt/python-apt_1.1.0~beta1build1/copyright
+python3-dbus |	MIT	|WICC4D|	NA|	NA
+python3-gi |	LGPL-2.1	|WICC4D|	NA|	NA
+python3-libapparmor |	GPL-2	|WICC4D|	part of apparmor|	NA
+python3-minimal |	Apache-2.0	|WICC4D|	part of python |	NA
+python3-pkg-resources |	BSD-4-Clause	|WICC4D|	part of python|	NA
+python3-pycurl |	MIT	|WICC4D|	part of python |	NA
+python3-software-properties |	GPL-2	|WICC4D|	part of software-properties|	NA
+python3-virtualenv |	MIT-Equivalent	|WICC4D |	Source package : python-virtualenv|	NA
+python-all |	GPL,Python 2.0	|ubuntu.com|	Source PackageÂ python-defaults:|	http://changelogs.ubuntu.com/changelogs/pool/main/p/python-defaults/python-defaults_2.7.11-1/copyright
+python-all-dev |	GPL,Python 2.0	|ubuntu.com|	Source PackageÂ python-defaults:|	NA
+python-apt-common |	GPL-2	|WICC4D|	part of python-apt|	NA
+python-argh |	LGPL-3.0+	|ubuntu.com|	NA|	http://changelogs.ubuntu.com/changelogs/pool/universe/p/python-argh/python-argh_0.26.1-1/copyright
+python-babel-localedata |	MIT	|WICC4D|	upstream name - Babel|	NA
+python-chardet |	LGPL-2.0	|WICC4D|	NA|	NA
+python-crypto |	Public Domain	|WICC4D|	NA|	NA
+python-dateutil |	BSD-4-Clause	|WICC4D|	NA|	NA
+python-decorator |	BSD-4-Clause	|WICC4D|	NA|	NA
+python-dev |	Python-2	|WICC4D|	part of python|	NA
+python-docutils |	GPL-3.0	|ubuntu.com|	NA|	http://changelogs.ubuntu.com/changelogs/pool/main/p/python-docutils/python-docutils_0.12+dfsg-1/copyright
+python-ecdsa |	Expat	|source code|	NA|	https://github.com/warner/python-ecdsa/blob/master/LICENSE
+python-feedparser |	Creative Commons	|WICC4D|	part of feedparser|	NA
+python-funcsigs |	Apache-2.0	|WICC4D|	part of funcsigs|	NA
+python-gevent |	MIT	|WICC4D|	NA|	NA
+python-greenlet |	Python-2.0, MIT	|WICC4D|	0.4.10 version is covered under Python 2.0 and rest versions are covered under MIT|	NA
+python-httplib2 |	MIT	|WICC4D|	NA|	NA
+python-imaging |	python-2.0	|WICC4D|	pillow on WICC4D|	NA
+python-jinja2 |	BSD-3-clause	|WICC4D|	NA|	NA
+python-ldap |	python-2.0,unique	|WICC4D|	NA|	NA
+python-libxml2 |	MIT	|WICC4D|	part of libxml2|	NA
+python-libxslt1 |	MIT	|WICC4D|	part of libxslt|	NA
+python-lxml |	BSD-4-Clause and GPL	|WICC4D|	NA|	NA
+python-mako |	MIT	|WICC4D|	NA|	NA
+python-markupsafe |	BSD-3-clause	|WICC4D|	NA|	NA
+python-meld3 |	PYTHON SOFTWARE FOUNDATION LICENSE VERSION 2	|WICC4D|	NA|	NA
+python-minimal |	Apache-2.0	|ubuntu.com|	NA|	http://changelogs.ubuntu.com/changelogs/pool/main/p/python-defaults/python-defaults_2.7.11-1/copyright
+python-mock |	BSD-Equivalent	|WICC4D|	NA|	NA
+python-nose |	LGPL-2.1	|WICC4D|	NA|	NA
+python-numpy |	BSD-Equivalent, Numerical recipes	|WICC4D UI|	NA|	NA
+python-openid |	Apache-2.0	|WICC4D|	NA|	NA
+python-paramiko |	LGPL-2	|WICC4D|	NA|	NA
+python-passlib |	BSD-4-Clause	|WICC4D|	NA|	NA
+python-pathtools |	MIT	|WICC4D|	pathtools on WICC4D|	NA
+python-pbr |	Apache-2.0	|WICC4D|	NA|	NA
+python-pil |	python-2.0	|WICC4D|	pillow on WICC4D|	NA
+python-pip |	MIT	|WICC4D|	NA|	NA
+python-pip-whl |	MIT	|WICC4D|	part of python-pip|	NA
+python-pkg-resources |	PYTHON SOFTWARE FOUNDATION LICENSE VERSION 8	|WICC4D|	NA|	NA
+python-psutil |	BSD-4-Clause	|WICC4D|	NA|	NA
+python-psycopg2 |	Zope v2	|WICC4D|	NA|	NA
+python-py |	MIT-Equivalent	|WICC4D UI|	NA|	NA
+python-pychart |	GPL-2	|ubuntu.com|	NA|	http://changelogs.ubuntu.com/changelogs/pool/universe/p/python-pychart/python-pychart_1.39-7.1/copyright
+python-pydot |	MIT	|openhub.net|	Upstream-Name: pydot|	https://www.openhub.net/p/pydot
+python-pyparsing |	MIT and GPL	|WICC4D|	part of pyparsing |	NA
+python-pypdf |	GPL	|ubuntu.com|	NA|	http://changelogs.ubuntu.com/changelogs/pool/universe/p/python-pypdf/python-pypdf_1.13-3/copyright
+python-pytest |	MIT-Equivalent	|WICC4D UI|	NA|	NA
+python-renderpm |	LPGL	|ubuntu.com|	NA|	http://changelogs.ubuntu.com/changelogs/pool/main/p/python-reportlab/python-reportlab_3.3.0-1/copyright
+python-reportlab |	LGPL, MPL	|ubuntu.com|	NA|	http://changelogs.ubuntu.com/changelogs/pool/main/p/python-reportlab/python-reportlab_3.3.0-1/copyright
+python-reportlab-accel |	LGPL, MPL	|ubuntu.com|	NA|	http://changelogs.ubuntu.com/changelogs/pool/main/p/python-reportlab/python-reportlab_3.3.0-1/copyright
+python-requests |	Apache-2.0	|WICC4D|	NA|	NA
+python-roman |	Python-2.1.1, ZPL-2.1    	|ubuntu.com|	NA|	http://changelogs.ubuntu.com/changelogs/pool/main/p/python-roman/python-roman_2.0.0-2/copyright
+python-scour |	Apache-2.0	|source code|	NA|	https://github.com/scour-project/scour/blob/master/LICENSE
+python-setuptools |	Python-2	|WICC4D|	NA|	NA
+python-six |	MIT	|WICC4D|	part of six|	NA
+python-stdnum |	LGPL-2.1	|ubuntu.com|	NA|	http://changelogs.ubuntu.com/changelogs/pool/universe/p/python-stdnum/python-stdnum_1.2-1/copyright
+python-suds |	LGPL-3.0	|WICC4D|	part of suds|	NA
+python-tz |	MIT	|WICC4D|	part of pytz|	NA
+python-urllib3 |	MIT	|WICC4D|	NA|	NA
+python-vatnumber |	GPL-3+	|openhub.net|	part of vatnumber|	https://www.openhub.net/p/vatnumber
+python-virtualenv |	MIT-Equivalent	|WICC4D |	NA|	NA
+python-vobject |	Apache-2.0	|openhub.net|	NA|	https://www.openhub.net/p/python-vobject
+python-watchdog |	Apache-2.0	|WICC4D|	watchdog on WICC4D|	NA
+python-werkzeug |	Ubuntu Font License v1.0,  BSD-4-Clause	|WICC4D|	part of Werkzeug|	NA
+python-wheel |	MIT-Equivalent	|WICC4D|	Source PackageÂ wheel|	NA
+python-xlsxwriter |	BSD-4-Clause	|WICC4D|	part of XlsxWriter|	NA
+python-xlwt |	LGPL-2.1	|WICC4D|	part of xlwt|	NA
+python-yaml |	MIT	|WICC4D|	NA|	NA
+pytz |	MIT	|WICC4D|	pytz (python) on WICC4D|	NA
+qtconsole |	BSD-Equivalent	|WICC4D |	NA|	NA
+rabbitmq-server |	MPL-1.1 , Apache-2.0	|WICC4D|	NA|	NA
+rake |	Expat	|ubuntu.com|	NA|	http://packages.ubuntu.com/xenial/all/rake/filelist
+r-base |	GPL-2, GPL-3	|WICC4D|	part of R|	NA
+r-base-core |	GPL-2, GPL-3	|WICC4D|	part of R|	NA
+r-base-dev |	GPL-2, GPL-3	|WICC4D|	part of R|	NA
+r-base-html |	GPL-2, GPL-3	|WICC4D|	part of R|	NA
+r-cran-boot |	GPL-2, GPL-3	|WICC4D|	part of boot|	NA
+r-cran-class |	GPL-2, GPL-3	|ubuntu.com|	NA|	http://changelogs.ubuntu.com/changelogs/pool/universe/r/r-cran-class/r-cran-class_7.3-14-1/copyright
+r-cran-cluster |	GPL-2	|WICC4D|	cluster|	NA
+r-cran-codetools |	GPL-2	|ubuntu.com|	NA|	http://changelogs.ubuntu.com/changelogs/pool/universe/c/codetools/codetools_0.2-14-1/copyright
+r-cran-foreign |	GPL-2	|WICC4D|	foreign|	NA
+r-cran-kernsmooth |	Public Domain	|WICC4D|	kernsmooth|	NA
+r-cran-lattice |	GPL-3	|WICC4D|	lattice|	NA
+r-cran-mass |	GPL-2, GPL-3	|ubuntu.com|	NA|	http://changelogs.ubuntu.com/changelogs/pool/universe/r/r-cran-mass/r-cran-mass_7.3-45-1/copyright
+r-cran-matrix |	GPL-2	|WICC4D|	matrix|	NA
+r-cran-mgcv |	GPL-2	|WICC4D|	mgcv|	NA
+r-cran-nlme |	GPL-2	|ubuntu.com|	NA|	http://changelogs.ubuntu.com/changelogs/pool/universe/n/nlme/nlme_3.1.124-1/copyright
+r-cran-nnet |	GPL-2, GPL-3	|ubuntu.com|	NA|	http://changelogs.ubuntu.com/changelogs/pool/universe/r/r-cran-nnet/r-cran-nnet_7.3-12-1/copyright
+r-cran-rpart |	GPL-2	|ubuntu.com|	NA|	http://changelogs.ubuntu.com/changelogs/pool/universe/r/rpart/rpart_4.1-10-1/copyright
+r-cran-spatial |	GPL-2, GPL3	|ubuntu.com|	NA|	http://changelogs.ubuntu.com/changelogs/pool/universe/r/r-cran-spatial/r-cran-spatial_7.3-11-1/copyright
+r-cran-survival |	GPL-2	|ubuntu.com|	NA|	http://changelogs.ubuntu.com/changelogs/pool/universe/s/survival/survival_2.38-3-1/copyright
+r-doc-html |	GPL-2, GPL-3	|WICC4D|	part of R|	NA
+readline-common |	GPL v3	|ubuntu.com|	NA|	http://changelogs.ubuntu.com/changelogs/pool/main/r/readline6/readline6_6.3-8ubuntu2/copyright
+redis |	MIT	|WICC4D|	part of redis (python)|	NA
+reflect-metadata |	Apache-2.0	|WICC4D|	NA|	NA
+remarkable |	MIT	|npmjs.com|	NA|	https://www.npmjs.com/package/remarkable
+rename |	GPL-1+	|ubuntu.com|	NA|	http://changelogs.ubuntu.com/changelogs/pool/main/r/rename/rename_0.20-4/copyright
+ri |	Ruby	|ubuntu.com|	NA|	http://packages.ubuntu.com/xenial/all/ri/filelist
+r-recommended |	GPL-2, GPL-3	|WICC4D|	part of R|	NA
+RStudio |	AGPL-3	|WICC4D|	NA|	NA
+rsync |	GPL-3	|WICC4D|	NA|	NA
+ruby2.3-doc |	GPL-2.0+, Ruby	|ubuntu.com|	NA|	http://packages.ubuntu.com/xenial/all/ruby2.3-doc/filelist
+ruby-did-you-mean |	Expat	|ubuntu.com|	NA|	http://packages.ubuntu.com/xenial/all/ruby-did-you-mean/filelist
+rubygems-integration |	Expat	|ubuntu.com|	NA|	http://packages.ubuntu.com/xenial/all/rubygems-integration/filelist
+ruby-minitest |	Expat	|ubuntu.com|	NA|	http://packages.ubuntu.com/xenial/all/ruby-minitest/filelist
+ruby-net-telnet |	Ruby	|ubuntu.com|	NA|	http://packages.ubuntu.com/xenial/all/ruby-net-telnet/filelist
+ruby-power-assert |	Ruby	|ubuntu.com|	NA|	http://packages.ubuntu.com/xenial/all/ruby-power-assert/filelist
+ruby-test-unit |	BSD-2-clause or Ruby and PSF, LGPL-2.1	|ubuntu.com|	NA|	http://packages.ubuntu.com/xenial/all/ruby-test-unit/filelist
+rust |	MIT, Apache	|Source code|	NA|	https://github.com/rust-lang/rust/blob/master/LICENSE-APACHE, https://github.com/rust-lang/rust/blob/master/LICENSE-MIT
+rvm |	Apache-2.0	|source code|	NA|	https://github.com/rvm/rvm/blob/master/LICENSE
+rxjs |	Apache-2.0	|WICC4D|	NA|	NA
+sass-lint |	MIT-Equivalent	|WICC4D|	NA|	NA
+scikit-learn |	BSD-Equivalent	|WICC4D |	NA|	NA
+scipy |	BSD-Equivalent	|WICC4D |	NA|	NA
+selenium-java-2.37.0 |	Apache-2.0	|NA|	https://s3.amazonaws.com/rstudio-buildtools/selenium-java-2.37.0.zip|	http://www.seleniumhq.org/about/license.jsp
+selenium-server-standalone-2.37.0.jar |	Apache-2.0	|source code|	https://s3.amazonaws.com/rstudio-buildtools/selenium-server-standalone-2.37.0.jar|	http://www.seleniumhq.org/about/license.jsp
+setuptools |	Python-2.0	|WICC4D |	NA|	NA
+setuptools-34.3.2 |	 Python-2.0,MIT	|WICC4D|	part of setuptools|	NA
+sgml-base |	GPL-2	|ubuntu.com|	NA|	http://changelogs.ubuntu.com/changelogs/pool/main/s/sgml-base/sgml-base_1.26+nmu4ubuntu1/copyright
+shared-mime-info |	GPL-2	|WICC4D|	NA|	NA
+simplegeneric |	Zope v2	|WICC4D |	NA|	NA
+sinon |	BSD-Equivalent	|WICC4D|	NA|	NA
+six |	BSD-Equivalent	|WICC4D|	NA|	NA
+six-1.10.0 |	MIT	|WICC4D|	part of six|	NA
+sound-theme-freedesktop |	CC-BY-SA, GPLv2+, CC-BY	|Source Code|	NA|	https://cgit.freedesktop.org/sound-theme-freedesktop/tree/CREDITS
+sshpass |	GPL-2	|WICC4D|	NA|	NA
+supervisor |	Zope v2	|WICC4D|	NA|	NA
+swig |	MIT	|WICC4D|	NA|	NA
+swig3.0 |	MIT	|WICC4D|	NA|	NA
+systemjs |	MIT-Equivalent	|WICC4D|	NA|	NA
+systemjs-builder |	MIT	|npmjs.com|	NA|	https://www.npmjs.com/package/systemjs-builder
+tar |	GPL-3.0 	|WICC4D|	NA|	NA
+tcpd |	BSD	|Other|	https://en.wikipedia.org/wiki/TCP_Wrapper|	http://changelogs.ubuntu.com/changelogs/pool/main/t/tcp-wrappers/tcp-wrappers_7.6.q-25/copyright
+tensorflow |	Apache-2.0	|WICC4D |	NA|	NA
+testng |	Apache-2.0	|ubuntu.com|	NA|	http://changelogs.ubuntu.com/changelogs/pool/universe/t/testng/testng_6.9.5-1/copyright
+tether |	MIT-Equivalent	|WICC4D|	NA|	NA
+tether-drop |	MIT-Equivalent	|WICC4D|	NA|	NA
+thrift |	Apache-2.0	|Source code|	NA|	https://git-wip-us.apache.org/repos/asf?p=thrift.git;a=blob_plain;f=LICENSE;hb=HEAD
+TiDB |	Apache-2.0	|Github|	NA|	https://github.com/pingcap/tidb/blob/master/LICENSE
+tomcat7 |	Apache-2.0	|WICC4D|	part of Tomcat |	NA
+tomcat7-common |	Apache-2.0	|WICC4D|	part of Tomcat |	NA
+tslint |	Apache-2.0	|npmjs.com|	NA|	https://www.npmjs.com/package/tslint
+typescript |	Apache-2.0	|WICC4D|	NA|	NA
+tzdata-java |	Public Domain	|WICC4D|	part of tzdata|	NA
+ubuntu-mono |	CC-BY-SA-3.0, GPL-3	|ubuntu.com|	Different files are licensed differently. For example: Files: scavenge.py Makefile debian/ are under GPL-3, all others under CC-BY-SA-3.0|	http://changelogs.ubuntu.com/changelogs/pool/main/u/ubuntu-themes/ubuntu-themes_14.04+16.04.20160415-0ubuntu1/copyright
+ucf |	GPL-2	|ubuntu.com|	NA|	http://changelogs.ubuntu.com/changelogs/pool/main/u/ucf/ucf_3.0036/copyright
+udev |	GPL-2+, LGPL-2.1+	|openhub.net|	NA|	https://www.openhub.net/p/udev
+unattended-upgrades |	GPL-2	|ubuntu.com|	NA|	http://changelogs.ubuntu.com/changelogs/pool/main/u/unattended-upgrades/unattended-upgrades_0.90/copyright
+unzip |	BSD-4-Clause,MIT 	|WICC4D|	NA|	NA
+uuid-dev |	GPL-2	|WICC4D|	part of util-linux|	NA
+V8  |	BSD 4-clause (University of California-Specific)	|WICC4D|	NA|	https://chromium.googlesource.com/v8/v8.git/+/master/LICENSE
+vine |	GPL	|sourcecode|	NA|	https://github.com/celery/vine/blob/master/LICENSE
+virtualenv |	MIT-Equivalent	|NA|	NA|	NA
+virtual-scroll |	MIT	|npmjs.com|	NA|	https://www.npmjs.com/package/virtual-scroll
+werkzeug |	BSD-Equivalent	|WICC4D |	NA|	NA
+wget |	GPL-3.0	|WICC4D|	NA|	NA
+wheel |	MIT-Equivalent	|WICC4D |	NA|	NA
+widgetsnbextension |	BSD-Equivalent	|WICC4D |	NA|	NA
+wkhtmltopdf |	LGPL-3.0	|WICC4D|	NA|	NA
+X11 libraries |	MIT	|ubuntu.com|	NA|	http://changelogs.ubuntu.com/changelogs/pool/main/libx/libx11/libx11_1.6.3-1ubuntu2/copyright
+x11-common |	MIT	|openhub.net|	Under xorg - https://cgit.freedesktop.org/ |	https://www.openhub.net/p/x
+x11proto-core-dev |	MIT	|openhub.net|	Under xorg - https://cgit.freedesktop.org/ |	https://www.openhub.net/p/x
+x11proto-damage-dev |	MIT	|openhub.net|	Under xorg - https://cgit.freedesktop.org/ |	https://www.openhub.net/p/x
+x11proto-dri2-dev |	MIT	|openhub.net|	Under xorg - https://cgit.freedesktop.org/ |	https://www.openhub.net/p/x
+x11proto-fixes-dev |	MIT	|openhub.net|	Under xorg - https://cgit.freedesktop.org/ |	https://www.openhub.net/p/x
+x11proto-gl-dev |	SGI-2	|ubuntu.com|	Under xorg - https://cgit.freedesktop.org/ |	http://changelogs.ubuntu.com/changelogs/pool/main/x/x11proto-gl/x11proto-gl_1.4.17-1/copyright
+x11proto-input-dev |	MIT	|openhub.net|	Under xorg - https://cgit.freedesktop.org/ |	https://www.openhub.net/p/x
+x11proto-kb-dev |	MIT	|openhub.net|	Under xorg - https://cgit.freedesktop.org/ |	https://www.openhub.net/p/x
+x11proto-render-dev |	MIT	|openhub.net|	Under xorg - https://cgit.freedesktop.org/ |	https://www.openhub.net/p/x
+x11proto-xext-dev |	MIT	|openhub.net|	Under xorg - https://cgit.freedesktop.org/ |	https://www.openhub.net/p/x
+x11proto-xf86vidmode-dev |	MIT	|openhub.net|	Under xorg - https://cgit.freedesktop.org/ |	https://www.openhub.net/p/x
+x11-utils |	MIT	|openhub.net|	Under xorg - https://cgit.freedesktop.org/ |	https://www.openhub.net/p/x
+x11-xserver-utils |	Various	|ubuntu.com|	This is a collection of X11 utilities and they come with different licenses.|	http://changelogs.ubuntu.com/changelogs/pool/main/x/x11-xserver-utils/x11-xserver-utils_7.7+7/copyright
+xalan |	Apache-2.0	|WICC4D UI|	NA|	NA
+xauth |	MIT	|WICC4D|	xorg-x11-xauth|	NA
+xdg-user-dirs |	GPL-2+	|ubuntu.com|	NA|	http://changelogs.ubuntu.com/changelogs/pool/main/x/xdg-user-dirs/xdg-user-dirs_0.15-2ubuntu6/copyright
+xdg-utils |	MIT	|ubuntu.com|	NA|	http://changelogs.ubuntu.com/changelogs/pool/main/x/xdg-utils/xdg-utils_1.1.1-1ubuntu1/copyright
+xerces-c |	Apache-2.0	|ubuntu.com|	NA|	http://changelogs.ubuntu.com/changelogs/pool/universe/x/xerces-c/xerces-c_3.1.3+debian-1/copyright
+xkb-data |	MIT	|WICC4D|	xkeyboard-config on WICC4D|	NA
+xml-core |	GPL-2	|source code|	NA|	http://changelogs.ubuntu.com/changelogs/pool/main/x/xml-core/xml-core_0.13+nmu2/copyright
+xorg-sgml-doctools |	MIT	|openhub.net|	Under xorg - https://cgit.freedesktop.org/ |	https://www.openhub.net/p/x
+xsltproc |	MIT	|ubuntu.com|	NA|	http://changelogs.ubuntu.com/changelogs/pool/main/libx/libxslt/libxslt_1.1.28-2.1/copyright
+xtrans-dev |	MIT	|openhub.net|	Under xorg - https://cgit.freedesktop.org/ |	https://www.openhub.net/p/x
+xz-utils |	GPL-2, LGPL-2.1	|openhub.net|	NA|	http://git.tukaani.org/?p=xz.git;a=blob;f=COPYING
+yarn |	BSD-Equivalent	|WICC4D|	NA|	NA
+zip |	BSD-4-clause	|WICC4D|	NA|	NA
+zlib1g |	zlib	|ubuntu.com|	NA|	http://changelogs.ubuntu.com/changelogs/pool/main/z/zlib/zlib_1.2.8.dfsg-2ubuntu4/copyright
+zlib1g-dev |	zliblibpng and GPLv2 	|WICC4D|	part of zlib |	NA
+zone.js |	MIT-Equivalent	|WICC4D|	NA|	NA
+Zookeeper  |	Apache-2.0, MIT	|WICC4D UI|	NA|	NA
+zstd |	BSD-2-clause, GPL-2+	|ubuntu.com|	NA|	http://changelogs.ubuntu.com/changelogs/pool/universe/libz/libzstd/libzstd_0.5.1-1/copyright
+bridge-utils|GNU General Public License v2.0 or later|openhub.net|NA|https://www.openhub.net/p/bridge-utils
+containerd|Apache License 2.0|openhub.net|NA|https://www.openhub.net/p/containerd
+libssh2|BSD 3-clause "New" or "Revised" License|openhub.net|NA|https://www.openhub.net/p/libssh2
+libcurl|MIT License|openhub.net|NA|https://www.openhub.net/p/libcurl
+libseccomp|GNU Lesser General Public License v2.1 only|openhub.net|NA|https://www.openhub.net/p/libseccomp
+libmnl|GNU Lesser General Public License v2.1 or later|openhub.net|NA|https://www.openhub.net/p/libmnl
+jansson|MIT License|openhub.net|NA|https://www.openhub.net/p/jansson
+glibc|MIT|openhub.net|NA|https://www.openhub.net/p/glibc
+lsb-release | BSD-3-clause,GPL-2 | Copyright_File     |  GPL-2(*,init-functions.d/50-ubuntu-logging),BSD-3-clause(init-functions), |  NA 
+distro-info-data | ISC | Copyright_File     |  ISC(*), |  NA 
